@@ -14,7 +14,6 @@
 
 /* ── Default: all animations paused ── */
 #ds-position,
-#carried-data,
 #ds-arm-r,
 #flying-data,
 #context-data,
@@ -28,7 +27,6 @@
 
 /* ── Active: play when slide has .animate ── */
 .rag-scene.animate #ds-position    { animation-play-state: running; }
-.rag-scene.animate #carried-data   { animation-play-state: running; }
 .rag-scene.animate #ds-arm-r       { animation-play-state: running; }
 .rag-scene.animate #flying-data    { animation-play-state: running; }
 .rag-scene.animate #context-data   { animation-play-state: running; }
@@ -104,45 +102,37 @@
 }
 
 /* ============================================================
-   CARRIED DATA — child of #ds-position, follows DS automatically
-   Disappears at hand-off, crossfades into flying-data
-   ============================================================ */
-#carried-data {
-  animation: carried-appear 9s ease-in-out infinite;
-}
-
-@keyframes carried-appear {
-  /* translate(17px, 9px): puts docs at (510+28+17, 226-72+9)=(555,163)
-     which exactly matches flying-data start at (558,163) → seamless handoff */
-  0%,  26% { opacity: 0; transform: translate(17px, 9px) scale(0.6); }
-  31%      { opacity: 1; transform: translate(17px, 9px) scale(1); }
-  53%      { opacity: 1; transform: translate(17px, 9px) scale(1); }
-  /* float forward (rightward only) while flying-data crossfades in */
-  58%      { opacity: 0.3; transform: translate(35px, 9px) scale(0.9); }
-  62%      { opacity: 0;   transform: translate(55px, 9px) scale(0.75); }
-  100%     { opacity: 0;   transform: translate(17px,  9px) scale(0.6); }
-}
-
-/* ============================================================
-   FLYING DATA — absolutely placed in SVG, floats from DS hand
-   to context box. Starts at DS hand pos when DS is at x=552:
-     hand ≈ (552+50, 226-57) = (602, 169) in SVG coords
-   Arrives at context box inner area ≈ x=715, y=166
+   FLYING DATA — absolutely placed in SVG, follows DS hand from
+   grab → walk → handoff → flies into context box.
+   Offset: DS_x + 48 = SVG hand x (matches original fly-to-context start).
    ============================================================ */
 #flying-data {
   animation: fly-to-context 9s ease-in-out infinite;
 }
 
 @keyframes fly-to-context {
-  0%,  55% { opacity: 0; transform: translate(558px, 166px) scale(0.7); }
-  /* appear at DS hand (DS at x=510, hand at x=510+50=560) */
-  58%      { opacity: 1; transform: translate(558px, 163px) scale(1); }
+  /* hidden at DS idle position */
+  0%,  26% { opacity: 0; transform: translate(278px, 163px); }
+  /* appear in DS hand when DS grabs data */
+  28%      { opacity: 1; transform: translate(278px, 163px); }
+  /* follow DS forward walk (DS_x + 48) */
+  31%      { transform: translate(318px, 163px); }
+  34%      { transform: translate(358px, 163px); }
+  37%      { transform: translate(398px, 163px); }
+  40%      { transform: translate(438px, 163px); }
+  43%      { transform: translate(478px, 163px); }
+  46%      { transform: translate(518px, 163px); }
+  49%      { transform: translate(522px, 163px); }
+  52%      { transform: translate(550px, 163px); }
+  55%      { transform: translate(558px, 163px); }
+  /* at agent: handoff pause */
+  57%, 62% { transform: translate(558px, 163px); }
   /* glide right into context box */
-  65%      { opacity: 1; transform: translate(650px, 163px) scale(1); }
+  65%      { opacity: 1; transform: translate(650px, 163px); }
   /* arrive, dissolve into context-data */
-  69%      { opacity: 0; transform: translate(710px, 163px) scale(0.85); }
+  69%      { opacity: 0; transform: translate(710px, 163px); }
   /* reset for next loop */
-  100%     { opacity: 0; transform: translate(558px, 166px) scale(0.7); }
+  100%     { opacity: 0; transform: translate(278px, 163px); }
 }
 
 /* ============================================================
