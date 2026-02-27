@@ -112,13 +112,15 @@
 }
 
 @keyframes carried-appear {
-  0%,  26% { opacity: 0; transform: translate(44px, -40px) scale(0.6); }
-  31%      { opacity: 1; transform: translate(44px, -40px) scale(1); }
-  53%      { opacity: 1; transform: translate(44px, -40px) scale(1); }
-  /* crossfade: fade out as flying-data fades in */
-  58%      { opacity: 0.4; transform: translate(62px, -48px) scale(0.85); }
-  62%      { opacity: 0;   transform: translate(78px, -54px) scale(0.7); }
-  100%     { opacity: 0;   transform: translate(44px, -40px) scale(0.6); }
+  /* translate(17px, 9px): puts docs at (510+28+17, 226-72+9)=(555,163)
+     which exactly matches flying-data start at (558,163) → seamless handoff */
+  0%,  26% { opacity: 0; transform: translate(17px, 9px) scale(0.6); }
+  31%      { opacity: 1; transform: translate(17px, 9px) scale(1); }
+  53%      { opacity: 1; transform: translate(17px, 9px) scale(1); }
+  /* float forward (rightward only) while flying-data crossfades in */
+  58%      { opacity: 0.3; transform: translate(35px, 9px) scale(0.9); }
+  62%      { opacity: 0;   transform: translate(55px, 9px) scale(0.75); }
+  100%     { opacity: 0;   transform: translate(17px,  9px) scale(0.6); }
 }
 
 /* ============================================================
