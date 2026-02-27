@@ -2,12 +2,17 @@ declare module "reveal.js" {
   interface RevealOptions {
     hash?: boolean;
     transition?: string;
+    transitionSpeed?: "default" | "fast" | "slow";
+    mouseWheel?: boolean;
     [key: string]: unknown;
   }
 
   export default class Reveal {
     constructor(options?: RevealOptions);
     initialize(): Promise<void>;
+    configure(options: Partial<RevealOptions>): void;
+    next(): void;
+    prev(): void;
   }
 }
 
