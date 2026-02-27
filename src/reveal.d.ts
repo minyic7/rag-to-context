@@ -13,6 +13,8 @@ declare module "reveal.js" {
     configure(options: Partial<RevealOptions>): void;
     next(): void;
     prev(): void;
+    on(event: string, callback: (event: unknown) => void): void;
+    getCurrentSlide(): Element | null;
   }
 }
 

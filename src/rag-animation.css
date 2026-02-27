@@ -1,0 +1,218 @@
+/* ============================================================
+   RAG Concept Animation
+   Scene: DS grabs data → walks → hands to Agent
+   Duration: 9s loop with fade-reset
+   ============================================================ */
+
+.rag-scene {
+  width: 100%;
+  max-width: 820px;
+  margin: 0 auto;
+  display: block;
+}
+
+/* ── Default: all animations paused ── */
+#ds-position,
+#data-pile,
+#carried-data,
+#agent-char,
+#agent-glow,
+#agent-data,
+#ds-arm-r,
+#label-retrieve,
+#label-augment,
+#label-generate,
+.dot {
+  animation-play-state: paused;
+}
+
+/* ── Active: play when slide has .animate ── */
+.rag-scene.animate #ds-position    { animation-play-state: running; }
+.rag-scene.animate #data-pile      { animation-play-state: running; }
+.rag-scene.animate #carried-data   { animation-play-state: running; }
+.rag-scene.animate #ds-arm-r       { animation-play-state: running; }
+.rag-scene.animate #agent-glow     { animation-play-state: running; }
+.rag-scene.animate #agent-data     { animation-play-state: running; }
+.rag-scene.animate #label-retrieve { animation-play-state: running; }
+.rag-scene.animate #label-augment  { animation-play-state: running; }
+.rag-scene.animate #label-generate { animation-play-state: running; }
+.rag-scene.animate .dot            { animation-play-state: running; }
+
+/* ============================================================
+   DS CHARACTER POSITION
+   Feet anchor point travels: x=250 → x=570
+   With Y-bob during walk phase
+   ============================================================ */
+#ds-position {
+  animation: ds-walk 9s ease-in-out infinite;
+}
+
+@keyframes ds-walk {
+  /* idle near data */
+  0%,  18% { transform: translate(250px, 226px); }
+  /* slight lean toward data while grabbing */
+  22%      { transform: translate(238px, 226px); }
+  28%      { transform: translate(250px, 226px); }
+  /* walk with Y-bob */
+  32%      { transform: translate(295px, 222px); }
+  35%      { transform: translate(335px, 228px); }
+  38%      { transform: translate(375px, 222px); }
+  41%      { transform: translate(415px, 228px); }
+  44%      { transform: translate(455px, 222px); }
+  47%      { transform: translate(495px, 228px); }
+  50%      { transform: translate(535px, 222px); }
+  54%      { transform: translate(565px, 226px); }
+  /* at agent: hand-off */
+  56%, 78% { transform: translate(570px, 226px); }
+  /* fade-reset: snap back invisible (handled by scene opacity) */
+  92%, 100%{ transform: translate(250px, 226px); }
+}
+
+/* ============================================================
+   DS RIGHT ARM — reaches toward data, holds, hands off
+   ============================================================ */
+#ds-arm-r {
+  transform-box: fill-box;
+  transform-origin: 0% 50%;
+  animation: arm-reach 9s ease-in-out infinite;
+}
+
+@keyframes arm-reach {
+  0%,  18% { transform: rotate(0deg); }
+  /* reach out toward data (left = negative) */
+  23%      { transform: rotate(-55deg); }
+  28%      { transform: rotate(-30deg); }
+  /* hold while walking */
+  28%, 54% { transform: rotate(-30deg); }
+  /* extend toward agent */
+  60%      { transform: rotate(45deg); }
+  68%      { transform: rotate(20deg); }
+  78%,100% { transform: rotate(0deg); }
+}
+
+/* ============================================================
+   DATA PILE — fades out when grabbed
+   ============================================================ */
+#data-pile {
+  animation: pile-disappear 9s ease-in-out infinite;
+}
+
+@keyframes pile-disappear {
+  0%,  24% { opacity: 1; }
+  30%      { opacity: 0; }
+  /* reappear for next loop */
+  90%      { opacity: 0; }
+  96%      { opacity: 1; }
+  100%     { opacity: 1; }
+}
+
+/* ============================================================
+   CARRIED DATA — child of ds-position group so it follows DS
+   Appears in DS's right hand, disappears at agent
+   ============================================================ */
+#carried-data {
+  animation: carried-appear 9s ease-in-out infinite;
+}
+
+@keyframes carried-appear {
+  0%,  26% { opacity: 0; transform: translate(44px, -40px) scale(0.6); }
+  31%      { opacity: 1; transform: translate(44px, -40px) scale(1); }
+  54%      { opacity: 1; transform: translate(44px, -40px) scale(1); }
+  /* hand off: float toward agent */
+  62%      { opacity: 1; transform: translate(80px, -60px) scale(0.9); }
+  68%      { opacity: 0; transform: translate(100px, -70px) scale(0.7); }
+  100%     { opacity: 0; transform: translate(44px, -40px) scale(0.6); }
+}
+
+/* ============================================================
+   AGENT DATA RECEIVED — appears at agent when data delivered
+   ============================================================ */
+#agent-data {
+  animation: agent-receive 9s ease-in-out infinite;
+}
+
+@keyframes agent-receive {
+  0%,  65% { opacity: 0; transform: translate(650px, 155px) scale(0.5); }
+  70%      { opacity: 1; transform: translate(650px, 148px) scale(1.1); }
+  78%      { opacity: 1; transform: translate(650px, 148px) scale(1); }
+  84%      { opacity: 0; transform: translate(650px, 138px) scale(0.8); }
+  100%     { opacity: 0; transform: translate(650px, 155px) scale(0.5); }
+}
+
+/* ============================================================
+   AGENT GLOW — lights up when receiving data
+   ============================================================ */
+#agent-glow {
+  animation: agent-activate 9s ease-in-out infinite;
+}
+
+@keyframes agent-activate {
+  0%,  64% { opacity: 0; }
+  70%      { opacity: 1; }
+  82%      { opacity: 0.6; }
+  88%      { opacity: 0; }
+  100%     { opacity: 0; }
+}
+
+/* ============================================================
+   PROCESSING DOTS on agent chest
+   ============================================================ */
+.dot {
+  animation: dot-pulse 9s ease-in-out infinite;
+}
+.dot:nth-child(1) { animation-delay: 0s; }
+.dot:nth-child(2) { animation-delay: 0.2s; }
+.dot:nth-child(3) { animation-delay: 0.4s; }
+
+@keyframes dot-pulse {
+  0%,  68% { r: 3; fill: #4c1d95; }
+  72%      { r: 5; fill: #a78bfa; }
+  80%      { r: 3; fill: #4c1d95; }
+  100%     { r: 3; fill: #4c1d95; }
+}
+
+/* ============================================================
+   FLOW LABELS
+   ============================================================ */
+#label-retrieve {
+  animation: label-in-out 9s ease-in-out infinite;
+}
+@keyframes label-in-out {
+  0%,  20% { opacity: 0; }
+  28%      { opacity: 1; }
+  54%      { opacity: 0; }
+  100%     { opacity: 0; }
+}
+
+#label-augment {
+  animation: augment-in-out 9s ease-in-out infinite;
+}
+@keyframes augment-in-out {
+  0%,  30% { opacity: 0; }
+  40%      { opacity: 1; }
+  54%      { opacity: 0; }
+  100%     { opacity: 0; }
+}
+
+#label-generate {
+  animation: generate-in-out 9s ease-in-out infinite;
+}
+@keyframes generate-in-out {
+  0%,  64% { opacity: 0; }
+  72%      { opacity: 1; }
+  85%      { opacity: 0; }
+  100%     { opacity: 0; }
+}
+
+/* ============================================================
+   SCENE FADE-RESET at end of loop
+   ============================================================ */
+.rag-scene.animate {
+  animation: scene-reset 9s linear infinite;
+}
+@keyframes scene-reset {
+  0%,  88% { opacity: 1; }
+  92%      { opacity: 0; }
+  96%      { opacity: 0; }
+  100%     { opacity: 1; }
+}
