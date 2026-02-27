@@ -62,12 +62,13 @@
   40%      { transform: translate(390px, 228px); }
   43%      { transform: translate(430px, 222px); }
   46%      { transform: translate(470px, 228px); }
-  49%      { transform: translate(510px, 222px); }
-  53%      { transform: translate(548px, 226px); }
-  /* at agent: hand-off pause */
-  55%, 62% { transform: translate(552px, 226px); }
+  49%      { transform: translate(474px, 222px); }
+  52%      { transform: translate(502px, 228px); }
+  55%      { transform: translate(510px, 226px); }
+  /* at agent: hand-off pause — stops well before agent body */
+  57%, 62% { transform: translate(510px, 226px); }
   /* return walk with Y-bob (same pace, opposite direction) */
-  65%      { transform: translate(510px, 222px); }
+  65%      { transform: translate(474px, 222px); }
   68%      { transform: translate(470px, 228px); }
   71%      { transform: translate(430px, 222px); }
   74%      { transform: translate(390px, 228px); }
@@ -131,15 +132,15 @@
 }
 
 @keyframes fly-to-context {
-  0%,  55% { opacity: 0; transform: translate(602px, 168px) scale(0.7); }
-  /* appear at DS hand */
-  58%      { opacity: 1; transform: translate(602px, 165px) scale(1); }
+  0%,  55% { opacity: 0; transform: translate(558px, 166px) scale(0.7); }
+  /* appear at DS hand (DS at x=510, hand at x=510+50=560) */
+  58%      { opacity: 1; transform: translate(558px, 163px) scale(1); }
   /* glide right into context box */
-  65%      { opacity: 1; transform: translate(660px, 165px) scale(1); }
+  65%      { opacity: 1; transform: translate(650px, 163px) scale(1); }
   /* arrive, dissolve into context-data */
-  69%      { opacity: 0; transform: translate(715px, 165px) scale(0.85); }
+  69%      { opacity: 0; transform: translate(710px, 163px) scale(0.85); }
   /* reset for next loop */
-  100%     { opacity: 0; transform: translate(602px, 168px) scale(0.7); }
+  100%     { opacity: 0; transform: translate(558px, 166px) scale(0.7); }
 }
 
 /* ============================================================
