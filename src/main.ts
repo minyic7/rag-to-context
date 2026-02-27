@@ -4,6 +4,7 @@ import "reveal.js/dist/theme/black.css";
 
 const TRANSITION = "slide";
 const TRANSITION_MS = 400; // matches reveal.js default slide transition duration
+const NAV_COOLDOWN_MS = 600; // block wheel events for this long after each navigation
 
 const deck = new Reveal({
   hash: true,
@@ -13,27 +14,37 @@ const deck = new Reveal({
 
 deck.initialize().then(() => {
   let transitioning = false;
-  let timer: ReturnType<typeof setTimeout> | null = null;
+  let locked = false;
+  let transitionTimer: ReturnType<typeof setTimeout> | null = null;
+  let lockTimer: ReturnType<typeof setTimeout> | null = null;
 
   const navigate = (direction: "next" | "prev") => {
+    if (locked) return; // cooldown: swallow momentum / rapid-fire events
+
     const go = () => (direction === "next" ? deck.next() : deck.prev());
 
     if (transitioning) {
-      // Interrupt: snap the in-flight animation to its end state, then navigate instantly
+      // Interrupt: snap in-flight animation to end state, navigate instantly
       deck.configure({ transition: "none" });
       go();
       deck.configure({ transition: TRANSITION });
-      if (timer) clearTimeout(timer);
+      if (transitionTimer) clearTimeout(transitionTimer);
       transitioning = false;
-      return;
+    } else {
+      transitioning = true;
+      if (transitionTimer) clearTimeout(transitionTimer);
+      transitionTimer = setTimeout(() => {
+        transitioning = false;
+      }, TRANSITION_MS);
+      go();
     }
 
-    transitioning = true;
-    if (timer) clearTimeout(timer);
-    timer = setTimeout(() => {
-      transitioning = false;
-    }, TRANSITION_MS);
-    go();
+    // Lock out further navigation until cooldown expires
+    locked = true;
+    if (lockTimer) clearTimeout(lockTimer);
+    lockTimer = setTimeout(() => {
+      locked = false;
+    }, NAV_COOLDOWN_MS);
   };
 
   const el = document.querySelector(".reveal") as HTMLElement;
