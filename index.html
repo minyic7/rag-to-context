@@ -190,11 +190,38 @@
             </g>
 
             <!-- ══════════════════════════════════════
-                 AGENT DATA RECEIVED (appears at agent)
+                 CONTEXT BOX — right of agent
+                 x=700–792, y=152–224
             ══════════════════════════════════════ -->
-            <g id="agent-data" opacity="0">
-              <rect x="626" y="148" width="52" height="9"  rx="2.5" fill="#60a5fa" opacity="0.9"/>
-              <rect x="629" y="137" width="52" height="9"  rx="2.5" fill="#93c5fd" opacity="0.9"/>
+            <g id="context-box">
+              <!-- border -->
+              <rect x="700" y="152" width="92" height="72" rx="6"
+                    fill="rgba(124,58,237,0.07)"
+                    stroke="rgba(167,139,250,0.55)" stroke-width="1.5"
+                    stroke-dasharray="5,3"/>
+              <!-- label -->
+              <text x="746" y="146" text-anchor="middle" font-size="10"
+                    fill="rgba(167,139,250,0.7)" font-family="monospace"
+                    letter-spacing="1">CONTEXT</text>
+              <!-- docs inside — animated -->
+              <g id="context-data" opacity="0">
+                <rect x="708" y="162" width="76" height="7" rx="2" fill="#60a5fa" opacity="0.8"/>
+                <rect x="708" y="172" width="76" height="7" rx="2" fill="#93c5fd" opacity="0.8"/>
+                <rect x="708" y="182" width="56" height="7" rx="2" fill="#bfdbfe" opacity="0.8"/>
+                <line x1="712" y1="166" x2="776" y2="166" stroke="white" stroke-width="0.8" opacity="0.25"/>
+                <line x1="712" y1="176" x2="776" y2="176" stroke="white" stroke-width="0.8" opacity="0.25"/>
+              </g>
+            </g>
+
+            <!-- ══════════════════════════════════════
+                 FLYING DATA — floats from DS hand → context box
+                 Group origin (0,0); CSS translate positions it in SVG space
+            ══════════════════════════════════════ -->
+            <g id="flying-data" opacity="0">
+              <rect x="-28" y="-5"  width="56" height="8" rx="2.5" fill="#60a5fa" opacity="0.95"/>
+              <rect x="-25" y="-15" width="56" height="8" rx="2.5" fill="#93c5fd" opacity="0.95"/>
+              <line x1="-22" y1="-10" x2="22" y2="-10" stroke="white" stroke-width="1" opacity="0.4"/>
+              <line x1="-22" y1="-1"  x2="20" y2="-1"  stroke="white" stroke-width="1" opacity="0.4"/>
             </g>
 
             <!-- ══════════════════════════════════════
