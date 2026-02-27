@@ -3,8 +3,9 @@ import "reveal.js/dist/reveal.css";
 import "reveal.js/dist/theme/black.css";
 
 const TRANSITION = "slide";
-const TRANSITION_MS = 400; // matches reveal.js default slide transition duration
-const NAV_COOLDOWN_MS = 600; // block wheel events for this long after each navigation
+const TRANSITION_MS = 400;   // matches reveal.js default slide transition duration
+const NAV_COOLDOWN_MS = 1000; // macOS momentum can last ~1s; block until it decays
+const WHEEL_THRESHOLD = 50;  // ignore weak events (momentum tail has deltaY < 30)
 
 const deck = new Reveal({
   hash: true,
@@ -52,6 +53,7 @@ deck.initialize().then(() => {
     "wheel",
     (e: WheelEvent) => {
       e.preventDefault();
+      if (Math.abs(e.deltaY) < WHEEL_THRESHOLD) return;
       navigate(e.deltaY > 0 ? "next" : "prev");
     },
     { passive: false }
