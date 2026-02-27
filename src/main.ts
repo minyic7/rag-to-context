@@ -5,6 +5,7 @@ import "reveal.js/dist/theme/black.css";
 const deck = new Reveal({
   hash: true,
   transition: "slide",
+  mouseWheel: true,
 });
 
 deck.initialize();
