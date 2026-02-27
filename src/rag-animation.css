@@ -64,8 +64,8 @@
   54%      { transform: translate(565px, 226px); }
   /* at agent: hand-off */
   56%, 78% { transform: translate(570px, 226px); }
-  /* fade-reset: snap back invisible (handled by scene opacity) */
-  92%, 100%{ transform: translate(250px, 226px); }
+  /* snap back during dark window (scene opacity=0 at 91-96%) */
+  91%, 100%{ transform: translate(250px, 226px); }
 }
 
 /* ============================================================
@@ -108,7 +108,7 @@
 
 /* ============================================================
    CARRIED DATA — child of ds-position group so it follows DS
-   Appears in DS's right hand, disappears at agent
+   Appears in DS's right hand, crossfades into agent-data
    ============================================================ */
 #carried-data {
   animation: carried-appear 9s ease-in-out infinite;
@@ -118,25 +118,28 @@
   0%,  26% { opacity: 0; transform: translate(44px, -40px) scale(0.6); }
   31%      { opacity: 1; transform: translate(44px, -40px) scale(1); }
   54%      { opacity: 1; transform: translate(44px, -40px) scale(1); }
-  /* hand off: float toward agent */
-  62%      { opacity: 1; transform: translate(80px, -60px) scale(0.9); }
-  68%      { opacity: 0; transform: translate(100px, -70px) scale(0.7); }
-  100%     { opacity: 0; transform: translate(44px, -40px) scale(0.6); }
+  /* hand off: float toward agent — crossfade starts at 62% */
+  63%      { opacity: 0.7; transform: translate(76px, -58px) scale(0.9); }
+  71%      { opacity: 0;   transform: translate(100px, -72px) scale(0.7); }
+  100%     { opacity: 0;   transform: translate(44px, -40px) scale(0.6); }
 }
 
 /* ============================================================
-   AGENT DATA RECEIVED — appears at agent when data delivered
+   AGENT DATA RECEIVED — crossfades in while carried-data fades out
    ============================================================ */
 #agent-data {
   animation: agent-receive 9s ease-in-out infinite;
 }
 
 @keyframes agent-receive {
-  0%,  65% { opacity: 0; transform: translate(650px, 155px) scale(0.5); }
-  70%      { opacity: 1; transform: translate(650px, 148px) scale(1.1); }
-  78%      { opacity: 1; transform: translate(650px, 148px) scale(1); }
-  84%      { opacity: 0; transform: translate(650px, 138px) scale(0.8); }
-  100%     { opacity: 0; transform: translate(650px, 155px) scale(0.5); }
+  /* start appearing at 62% — overlaps with carried-data fade */
+  0%,  60% { opacity: 0; transform: translate(0, 8px) scale(0.6); }
+  66%      { opacity: 0.6; transform: translate(0, 4px) scale(0.9); }
+  72%      { opacity: 1;   transform: translate(0, 0)   scale(1.05); }
+  76%      { opacity: 1;   transform: translate(0, 0)   scale(1); }
+  /* stays visible until scene reset */
+  88%      { opacity: 1; }
+  100%     { opacity: 1; }
 }
 
 /* ============================================================
@@ -172,47 +175,47 @@
 }
 
 /* ============================================================
-   FLOW LABELS
+   FLOW LABELS — appear once, stay until scene reset
+   (scene-reset animation hides everything at 88-96%)
    ============================================================ */
 #label-retrieve {
-  animation: label-in-out 9s ease-in-out infinite;
+  animation: label-retrieve-anim 9s ease-in-out infinite;
 }
-@keyframes label-in-out {
+@keyframes label-retrieve-anim {
   0%,  20% { opacity: 0; }
   28%      { opacity: 1; }
-  54%      { opacity: 0; }
-  100%     { opacity: 0; }
+  100%     { opacity: 1; }
 }
 
 #label-augment {
-  animation: augment-in-out 9s ease-in-out infinite;
+  animation: label-augment-anim 9s ease-in-out infinite;
 }
-@keyframes augment-in-out {
+@keyframes label-augment-anim {
   0%,  30% { opacity: 0; }
   40%      { opacity: 1; }
-  54%      { opacity: 0; }
-  100%     { opacity: 0; }
+  100%     { opacity: 1; }
 }
 
 #label-generate {
-  animation: generate-in-out 9s ease-in-out infinite;
+  animation: label-generate-anim 9s ease-in-out infinite;
 }
-@keyframes generate-in-out {
+@keyframes label-generate-anim {
   0%,  64% { opacity: 0; }
   72%      { opacity: 1; }
-  85%      { opacity: 0; }
-  100%     { opacity: 0; }
+  100%     { opacity: 1; }
 }
 
 /* ============================================================
    SCENE FADE-RESET at end of loop
+   Fade out at 87%, hold dark at 91-96%, fade back in at 100%
+   ds-walk snaps at 91% (safely inside the dark window)
    ============================================================ */
 .rag-scene.animate {
   animation: scene-reset 9s linear infinite;
 }
 @keyframes scene-reset {
-  0%,  88% { opacity: 1; }
-  92%      { opacity: 0; }
+  0%,  86% { opacity: 1; }
+  91%      { opacity: 0; }
   96%      { opacity: 0; }
   100%     { opacity: 1; }
 }
