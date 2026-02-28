@@ -222,3 +222,26 @@
   98%      { opacity: 0; }
   100%     { opacity: 0; }
 }
+
+/* ============================================================
+   TIMELINE NODES — play once on slide-in, stay visible (no loop)
+   nth-child counts from parent SVG: <line> is child 1,
+   five <g class="tl-node"> are children 2-6.
+   ============================================================ */
+.tl-node {
+  opacity: 0;
+  animation: tl-appear 0.5s ease-out forwards;
+  animation-play-state: paused;
+}
+.tl-node:nth-child(2) { animation-delay: 0.0s; }
+.tl-node:nth-child(3) { animation-delay: 0.5s; }
+.tl-node:nth-child(4) { animation-delay: 1.0s; }
+.tl-node:nth-child(5) { animation-delay: 1.5s; }
+.tl-node:nth-child(6) { animation-delay: 2.0s; }
+
+.rag-scene.animate .tl-node { animation-play-state: running; }
+
+@keyframes tl-appear {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0);   }
+}
