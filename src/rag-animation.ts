@@ -25,14 +25,14 @@ export function initRagAnimation(deck: InstanceType<typeof Reveal>): void {
       }
     }
 
-    // ── Data sources slide: stagger rows in ──
+    // ── Data sources slide: 3 columns + strip stagger in ──
     if ((slide as HTMLElement).id === "slide-data-sources") {
       if (active) {
-        const rows = slide.querySelectorAll<HTMLElement>(".ds-source-row");
-        rows.forEach(r => { r.style.animation = "none"; });
+        const els = slide.querySelectorAll<HTMLElement>(".ds-col, .ds-more");
+        els.forEach(el => { el.style.animation = "none"; });
         slide.classList.remove("animate");
         void (slide as HTMLElement).offsetWidth;
-        rows.forEach(r => { r.style.animation = ""; });
+        els.forEach(el => { el.style.animation = ""; });
         void (slide as HTMLElement).offsetWidth;
         slide.classList.add("animate");
       } else {

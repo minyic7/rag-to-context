@@ -257,22 +257,28 @@
 .tl-node a:hover text { fill: rgba(147, 197, 253, 0.9); }
 
 /* ============================================================
-   DATA SOURCES SLIDE — stagger rows in on slide entry
+   DATA SOURCES SLIDE — 3 columns fade in left→right, then strip
    Same play-state pattern as timeline nodes above.
    ============================================================ */
-.ds-source-row {
+.ds-col,
+.ds-more {
   opacity: 0;
-  animation: ds-row-appear 0.45s ease-out forwards;
+  animation: ds-appear 0.42s ease-out forwards;
   animation-play-state: paused;
 }
-.ds-source-row:nth-child(1) { animation-delay: 0.05s; }
-.ds-source-row:nth-child(2) { animation-delay: 0.28s; }
-.ds-source-row:nth-child(3) { animation-delay: 0.51s; }
-.ds-source-row:nth-child(4) { animation-delay: 0.74s; }
 
-#slide-data-sources.animate .ds-source-row { animation-play-state: running; }
+/* columns: nth-child within their flex-row container */
+.ds-col:nth-child(1) { animation-delay: 0.10s; }
+.ds-col:nth-child(2) { animation-delay: 0.36s; }
+.ds-col:nth-child(3) { animation-delay: 0.62s; }
 
-@keyframes ds-row-appear {
-  from { opacity: 0; transform: translateY(10px); }
-  to   { opacity: 1; transform: translateY(0);    }
+/* bottom strip — only .ds-more, fixed delay */
+.ds-more { animation-delay: 0.88s; }
+
+#slide-data-sources.animate .ds-col,
+#slide-data-sources.animate .ds-more { animation-play-state: running; }
+
+@keyframes ds-appear {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0);   }
 }
