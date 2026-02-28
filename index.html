@@ -437,9 +437,60 @@
           </div>
         </section>
 
+        <!-- ── Naive RAG interactive slide ── -->
+        <section id="slide-naive-rag">
+          <div class="nr-layout">
+
+            <div class="nr-title">
+              <h2>1 · Naive RAG</h2>
+              <div class="nr-subtitle">BM25 Keyword Matching</div>
+            </div>
+
+            <div class="nr-body">
+
+              <!-- Left: how it works -->
+              <div class="nr-explain">
+                <div class="nr-explain__card">
+                  <div class="nr-explain__heading">How BM25 Works</div>
+                  <div class="nr-explain__formula">
+                    <span class="hl">score</span> = &Sigma; <span class="hl">IDF</span>(t) &times; <span class="hl">TF</span>(t,d)<br><br>
+                    IDF = log((N - df + 0.5) / (df + 0.5) + 1)<br><br>
+                    TF = (tf &times; (k₁+1)) / (tf + k₁ &times; (1 - b + b &times; |d|/avgdl))
+                  </div>
+                  <div class="nr-explain__note">
+                    k₁ = 1.5 · b = 0.75<br>
+                    Pure lexical matching — no semantic understanding.
+                    Fails on synonyms, paraphrasing, typos.
+                  </div>
+                </div>
+                <div class="nr-explain__card">
+                  <div class="nr-explain__heading">Pipeline</div>
+                  <div class="nr-explain__formula">
+                    Query → <span class="hl">Tokenize</span><br>
+                    → Score <span class="hl">742 chunks</span><br>
+                    → Rank by BM25<br>
+                    → Return <span class="hl">Top-K</span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Right: interactive search -->
+              <div class="nr-demo">
+                <div class="nr-search">
+                  <input class="nr-search__input" type="text" placeholder="Ask about CommBank..." />
+                  <button class="nr-search__btn">Search</button>
+                </div>
+                <div class="nr-status"></div>
+                <div class="nr-results"></div>
+              </div>
+
+            </div>
+          </div>
+        </section>
+
         <section>
           <h2>Let's Build</h2>
-          <p>Hands-on session coming soon...</p>
+          <p>More RAG approaches coming soon...</p>
         </section>
       </div>
     </div>

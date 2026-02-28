@@ -15,6 +15,9 @@ dependencies = [
     "openai==2.24.0",
     "numpy==2.4.2",
     "rich==14.3.3",
+    # API server
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.34",
 ]
 
 [dependency-groups]

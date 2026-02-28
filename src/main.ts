@@ -2,6 +2,7 @@ import Reveal from "reveal.js";
 import "reveal.js/dist/reveal.css";
 import "reveal.js/dist/theme/black.css";
 import { initRagAnimation } from "./rag-animation";
+import { initNaiveRagDemo } from "./naive-rag-demo";
 
 const TRANSITION = "slide";
 const TRANSITION_MS = 400;   // matches reveal.js default slide transition duration
@@ -16,6 +17,7 @@ const deck = new Reveal({
 
 deck.initialize().then(() => {
   initRagAnimation(deck);
+  initNaiveRagDemo();
   let transitioning = false;
   let locked = false;
   let transitionTimer: ReturnType<typeof setTimeout> | null = null;
