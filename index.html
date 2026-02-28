@@ -213,9 +213,13 @@
                  FLOW LABELS (② and ③ — static positions)
                  ① Retrieve lives inside #ds-position above
             ══════════════════════════════════════ -->
-            <!-- ② above context box; y=113 gives 33px gap from "CONTEXT" label at y=146 -->
-            <text id="label-augment" x="720" y="113" text-anchor="middle"
-                  font-size="12" fill="#c4b5fd" font-family="monospace" opacity="0">② Augment Context</text>
+            <!-- ② above context box; two lines centered at x=750 so left edge (718) clears
+                 agent head right edge (690) with 28px gap, right edge (782) fits in viewBox -->
+            <text id="label-augment" x="750" y="106" text-anchor="middle"
+                  font-size="12" fill="#c4b5fd" font-family="monospace" opacity="0">
+              <tspan x="750" dy="0">② Augment</tspan>
+              <tspan x="750" dy="15">Context</tspan>
+            </text>
 
             <!-- ③ above agent; y=35 gives 29px gap from "LLM Agent" label at y=64 -->
             <text id="label-generate" x="660" y="35" text-anchor="middle"
