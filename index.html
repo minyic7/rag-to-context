@@ -349,69 +349,74 @@
           </p>
 
           <!-- ── Three columns: left to right ── -->
-          <div style="display:flex; gap:0.6em; align-items:stretch; margin-bottom:0.4em;">
+          <div style="display:flex; gap:0.6em; align-items:stretch; margin-bottom:0.38em;">
 
             <!-- Column 1: Unstructured Text -->
             <div class="ds-col" style="flex:1;">
-              <div style="height:100%; background:rgba(59,130,246,0.07); border:1px solid rgba(59,130,246,0.22); border-radius:12px; padding:0.6em 0.7em; display:flex; flex-direction:column; gap:0.35em;">
-                <div>
-                  <div style="font-size:0.36em; letter-spacing:0.1em; color:rgba(99,179,237,0.6); margin-bottom:0.2em;">UNSTRUCTURED · TEXT</div>
-                  <div style="font-size:0.8em; font-weight:600; color:#93c5fd;">🌐 Web Pages</div>
+              <div style="height:100%; background:rgba(59,130,246,0.07); border:1px solid rgba(59,130,246,0.2); border-radius:12px; padding:0.55em 0.65em; display:flex; flex-direction:column; gap:0.28em;">
+                <!-- header: tag · emoji · title each on own line -->
+                <div style="text-align:center;">
+                  <div style="font-size:0.32em; letter-spacing:0.11em; color:rgba(99,179,237,0.5); margin-bottom:0.35em;">UNSTRUCTURED · TEXT</div>
+                  <div style="font-size:1.3em; line-height:1; margin-bottom:0.12em;">🌐</div>
+                  <div style="font-size:0.75em; font-weight:700; color:#93c5fd; letter-spacing:0.01em;">Web Pages</div>
                 </div>
-                <div style="flex:1; background:rgba(0,0,0,0.38); border-radius:7px; padding:0.45em 0.6em; font-family:monospace; font-size:0.34em; line-height:1.8; color:rgba(255,255,255,0.55); text-align:left; overflow:hidden;">
+                <!-- content -->
+                <div style="flex:1; background:rgba(0,0,0,0.38); border-radius:7px; padding:0.38em 0.55em; font-family:monospace; font-size:0.29em; line-height:1.75; color:rgba(255,255,255,0.5); text-align:left; overflow:hidden;">
                   <span style="color:#93c5fd;">commbank.com.au/</span><br>
-                  ├─ <span style="color:rgba(255,255,255,0.8);">home-loans/</span> <span style="color:rgba(255,255,255,0.22);">84 pages</span><br>
+                  ├─ <span style="color:rgba(255,255,255,0.78);">home-loans/</span> <span style="color:rgba(255,255,255,0.2);">84 pg</span><br>
                   │&nbsp;&nbsp;├─ digi-home-loan<br>
                   │&nbsp;&nbsp;└─ fixed-rate<br>
-                  ├─ <span style="color:rgba(255,255,255,0.8);">credit-cards/</span> <span style="color:rgba(255,255,255,0.22);">52 pages</span><br>
-                  ├─ <span style="color:rgba(255,255,255,0.8);">savings/</span> <span style="color:rgba(255,255,255,0.22);">43 pages</span><br>
-                  └─ <span style="color:rgba(255,255,255,0.28);">··· 549 more</span>
+                  ├─ <span style="color:rgba(255,255,255,0.78);">credit-cards/</span> <span style="color:rgba(255,255,255,0.2);">52 pg</span><br>
+                  ├─ <span style="color:rgba(255,255,255,0.78);">savings/</span> <span style="color:rgba(255,255,255,0.2);">43 pg</span><br>
+                  └─ <span style="color:rgba(255,255,255,0.25);">··· 549 more</span>
                 </div>
-                <div style="font-size:0.36em; color:rgba(255,255,255,0.28); text-align:center;">738 pages · ~1.8M tokens</div>
+                <div style="font-size:0.31em; color:rgba(255,255,255,0.24); text-align:center; letter-spacing:0.04em;">738 pages · ~1.8M tokens</div>
               </div>
             </div>
 
             <!-- Column 2: Structured Numeric -->
             <div class="ds-col" style="flex:1;">
-              <div style="height:100%; background:rgba(8,145,178,0.07); border:1px solid rgba(8,145,178,0.22); border-radius:12px; padding:0.6em 0.7em; display:flex; flex-direction:column; gap:0.35em;">
-                <div>
-                  <div style="font-size:0.36em; letter-spacing:0.1em; color:rgba(8,145,178,0.8); margin-bottom:0.2em;">STRUCTURED · NUMERIC</div>
-                  <div style="font-size:0.8em; font-weight:600; color:#67e8f9;">📊 Financial Data</div>
+              <div style="height:100%; background:rgba(8,145,178,0.07); border:1px solid rgba(8,145,178,0.2); border-radius:12px; padding:0.55em 0.65em; display:flex; flex-direction:column; gap:0.28em;">
+                <div style="text-align:center;">
+                  <div style="font-size:0.32em; letter-spacing:0.11em; color:rgba(8,145,178,0.7); margin-bottom:0.35em;">STRUCTURED · NUMERIC</div>
+                  <div style="font-size:1.3em; line-height:1; margin-bottom:0.12em;">📊</div>
+                  <div style="font-size:0.75em; font-weight:700; color:#67e8f9; letter-spacing:0.01em;">Financial Data</div>
                 </div>
-                <div style="flex:1; background:rgba(0,0,0,0.38); border-radius:7px; padding:0.4em 0.6em; font-family:monospace; font-size:0.34em; text-align:left; overflow:hidden;">
-                  <div style="color:rgba(255,255,255,0.18); border-bottom:1px solid rgba(255,255,255,0.07); padding-bottom:0.25em; margin-bottom:0.35em;">metric &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FY2025</div>
-                  <div style="line-height:2.1; color:rgba(255,255,255,0.5);">
-                    <span>pe_ratio</span><span style="color:rgba(255,255,255,0.12);">··········</span><span style="color:#67e8f9;">28.07</span><br>
-                    <span>div_yield</span><span style="color:rgba(255,255,255,0.12);">·········</span><span style="color:#67e8f9;">2.83%</span><br>
-                    <span>eps</span><span style="color:rgba(255,255,255,0.12);">··············</span><span style="color:#67e8f9;">6.22</span><br>
-                    <span>roe</span><span style="color:rgba(255,255,255,0.12);">··············</span><span style="color:#67e8f9;">13.6%</span>
+                <div style="flex:1; background:rgba(0,0,0,0.38); border-radius:7px; padding:0.35em 0.55em; font-family:monospace; font-size:0.29em; text-align:left; overflow:hidden;">
+                  <div style="color:rgba(255,255,255,0.16); border-bottom:1px solid rgba(255,255,255,0.07); padding-bottom:0.2em; margin-bottom:0.3em;">metric &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FY2025</div>
+                  <div style="line-height:2.0; color:rgba(255,255,255,0.48);">
+                    <span>pe_ratio</span><span style="color:rgba(255,255,255,0.1);">··········</span><span style="color:#67e8f9;">28.07</span><br>
+                    <span>div_yield</span><span style="color:rgba(255,255,255,0.1);">·········</span><span style="color:#67e8f9;">2.83%</span><br>
+                    <span>eps</span><span style="color:rgba(255,255,255,0.1);">··············</span><span style="color:#67e8f9;">6.22</span><br>
+                    <span>roe</span><span style="color:rgba(255,255,255,0.1);">··············</span><span style="color:#67e8f9;">13.6%</span>
                   </div>
                 </div>
-                <div style="font-size:0.36em; color:rgba(255,255,255,0.28); text-align:center;">FY2021–2025 · 142 metrics</div>
+                <div style="font-size:0.31em; color:rgba(255,255,255,0.24); text-align:center; letter-spacing:0.04em;">FY2021–2025 · 142 metrics</div>
               </div>
             </div>
 
             <!-- Column 3: Single Large Document -->
             <div class="ds-col" style="flex:1;">
-              <div style="height:100%; background:rgba(5,150,105,0.07); border:1px solid rgba(5,150,105,0.22); border-radius:12px; padding:0.6em 0.7em; display:flex; flex-direction:column; gap:0.35em;">
-                <div>
-                  <div style="font-size:0.36em; letter-spacing:0.1em; color:rgba(5,150,105,0.8); margin-bottom:0.2em;">SEMI-STRUCTURED · PDF</div>
-                  <div style="font-size:0.8em; font-weight:600; color:#6ee7b7;">📄 Annual Report</div>
+              <div style="height:100%; background:rgba(5,150,105,0.07); border:1px solid rgba(5,150,105,0.2); border-radius:12px; padding:0.55em 0.65em; display:flex; flex-direction:column; gap:0.28em;">
+                <div style="text-align:center;">
+                  <div style="font-size:0.32em; letter-spacing:0.11em; color:rgba(5,150,105,0.7); margin-bottom:0.35em;">SEMI-STRUCTURED · PDF</div>
+                  <div style="font-size:1.3em; line-height:1; margin-bottom:0.12em;">📄</div>
+                  <div style="font-size:0.75em; font-weight:700; color:#6ee7b7; letter-spacing:0.01em;">Annual Report</div>
                 </div>
-                <div style="flex:1; background:rgba(255,252,240,0.03); border:1px solid rgba(255,255,255,0.07); border-radius:7px; padding:0.5em 0.65em; overflow:hidden; display:flex; flex-direction:column; justify-content:space-between;">
-                  <div style="display:flex; flex-direction:column; gap:0.28em;">
-                    <div style="height:2px; background:rgba(255,255,255,0.07); border-radius:1px;"></div>
-                    <div style="height:2px; background:rgba(255,255,255,0.05); border-radius:1px; width:82%;"></div>
-                    <div style="height:2px; background:rgba(255,255,255,0.07); border-radius:1px; width:93%;"></div>
-                    <div style="height:2px; background:rgba(255,255,255,0.04); border-radius:1px; width:76%;"></div>
+                <div style="flex:1; background:rgba(255,252,240,0.03); border:1px solid rgba(255,255,255,0.06); border-radius:7px; padding:0.42em 0.6em; overflow:hidden; display:flex; flex-direction:column; justify-content:space-between;">
+                  <div style="display:flex; flex-direction:column; gap:0.26em;">
                     <div style="height:2px; background:rgba(255,255,255,0.06); border-radius:1px;"></div>
+                    <div style="height:2px; background:rgba(255,255,255,0.04); border-radius:1px; width:82%;"></div>
+                    <div style="height:2px; background:rgba(255,255,255,0.06); border-radius:1px; width:93%;"></div>
+                    <div style="height:2px; background:rgba(255,255,255,0.03); border-radius:1px; width:76%;"></div>
+                    <div style="height:2px; background:rgba(255,255,255,0.05); border-radius:1px;"></div>
                   </div>
-                  <div style="font-size:0.35em; font-style:italic; color:rgba(255,255,255,0.42); line-height:1.65; margin-top:0.4em;">
+                  <div style="font-size:0.29em; font-style:italic; color:rgba(255,255,255,0.4); line-height:1.6; margin-top:0.35em;">
                     "By living our purpose, we aim to create value for our customers, communities and the nation..."
-                    <span style="display:block; font-style:normal; font-family:monospace; color:rgba(255,255,255,0.18); margin-top:0.2em;">— CBA 2025 Annual Report, p.13</span>
+                    <span style="display:block; font-style:normal; font-family:monospace; color:rgba(255,255,255,0.16); margin-top:0.18em;">— p.13 / 229 pages</span>
                   </div>
                 </div>
-                <div style="font-size:0.36em; color:rgba(255,255,255,0.28); text-align:center;">229 pages · 15 MB</div>
+                <div style="font-size:0.31em; color:rgba(255,255,255,0.24); text-align:center; letter-spacing:0.04em;">229 pages · 15 MB</div>
               </div>
             </div>
 
