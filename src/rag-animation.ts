@@ -14,10 +14,11 @@ export function initRagAnimation(deck: InstanceType<typeof Reveal>): void {
         node.style.animation = "none";
       });
       scene.classList.remove("animate");
-      void (scene as unknown as HTMLElement).offsetWidth;
+      void (scene as unknown as HTMLElement).offsetWidth; // reflow 1: apply animation:none
       scene.querySelectorAll<SVGElement>(".tl-node").forEach(node => {
         node.style.animation = "";
       });
+      void (scene as unknown as HTMLElement).offsetWidth; // reflow 2: register fresh CSS animation
       scene.classList.add("animate");
     } else {
       scene.classList.remove("animate");
