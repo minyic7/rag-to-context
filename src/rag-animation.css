@@ -312,7 +312,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 0.4em;
-  width: 150%;
+  width: 100%;
   position: relative; z-index: 1;
 }
 
@@ -391,7 +391,7 @@
 
 /* ── Preview — FIXED HEIGHT ── */
 .ds-card__preview {
-  height: 8em;
+  height: 12em;
   background: rgba(0,0,0,0.4);
   border-radius: 6px;
   padding: 0.28em 0.38em;
