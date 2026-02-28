@@ -185,16 +185,19 @@
 }
 
 /* ============================================================
-   FLOW LABELS — appear in sequence, fade just before loop
+   FLOW LABELS
+   ① Retrieve  — floats above DS (child of #ds-position), fades at handoff
+   ② Augment   — appears next to context box when data lands
+   ③ Generate  — appears above agent when it activates
    ============================================================ */
 #label-retrieve {
   animation: label-retrieve-anim 9s ease-in-out infinite;
 }
 @keyframes label-retrieve-anim {
   0%,  20% { opacity: 0; }
-  28%      { opacity: 1; }
-  93%      { opacity: 1; }
-  98%      { opacity: 0; }
+  28%      { opacity: 1; }  /* DS grabs data, label appears */
+  58%      { opacity: 1; }  /* stay through walk to agent */
+  65%      { opacity: 0; }  /* fade as DS hands off */
   100%     { opacity: 0; }
 }
 
@@ -202,8 +205,8 @@
   animation: label-augment-anim 9s ease-in-out infinite;
 }
 @keyframes label-augment-anim {
-  0%,  30% { opacity: 0; }
-  40%      { opacity: 1; }
+  0%,  66% { opacity: 0; }
+  71%      { opacity: 1; }  /* data arrives in context box */
   93%      { opacity: 1; }
   98%      { opacity: 0; }
   100%     { opacity: 0; }
@@ -213,8 +216,8 @@
   animation: label-generate-anim 9s ease-in-out infinite;
 }
 @keyframes label-generate-anim {
-  0%,  65% { opacity: 0; }
-  72%      { opacity: 1; }
+  0%,  69% { opacity: 0; }
+  73%      { opacity: 1; }  /* agent activates */
   93%      { opacity: 1; }
   98%      { opacity: 0; }
   100%     { opacity: 0; }
