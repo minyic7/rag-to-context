@@ -465,10 +465,10 @@
   justify-content: center;
   gap: 0.5em;
   padding: 0.25em 0.8em;
-  border: 1px dashed rgba(255,255,255,0.08);
+  border: 1px dashed rgba(255,255,255,0.15);
   border-radius: 8px;
   background: rgba(255,255,255,0.015);
 }
-.ds-strip__item { font-size: 0.38em; color: rgba(255,255,255,0.28); white-space: nowrap; }
-.ds-strip__sep  { width: 2px; height: 2px; border-radius: 50%; background: rgba(255,255,255,0.1); flex-shrink: 0; }
-.ds-strip__note { font-size: 0.32em; color: rgba(255,255,255,0.12); font-style: italic; }
+.ds-strip__item { font-size: 0.38em; color: rgba(255,255,255,0.5); white-space: nowrap; }
+.ds-strip__sep  { width: 3px; height: 3px; border-radius: 50%; background: rgba(255,255,255,0.2); flex-shrink: 0; }
+.ds-strip__note { font-size: 0.32em; color: rgba(255,255,255,0.3); font-style: italic; }
