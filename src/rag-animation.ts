@@ -7,9 +7,17 @@ export function initRagAnimation(deck: InstanceType<typeof Reveal>): void {
     if (!scene) return;
 
     if (active) {
-      // Reset by removing class, forcing reflow, then re-adding
+      // For one-shot animations (fill-mode: forwards), setting animation: none
+      // then clearing it forces the browser to restart from 0% on re-entry.
+      // Infinite animations have no .tl-node elements so this is a no-op for them.
+      scene.querySelectorAll<SVGElement>(".tl-node").forEach(node => {
+        node.style.animation = "none";
+      });
       scene.classList.remove("animate");
       void (scene as unknown as HTMLElement).offsetWidth;
+      scene.querySelectorAll<SVGElement>(".tl-node").forEach(node => {
+        node.style.animation = "";
+      });
       scene.classList.add("animate");
     } else {
       scene.classList.remove("animate");
