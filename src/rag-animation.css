@@ -391,7 +391,7 @@
 
 /* ── Preview — FIXED HEIGHT ── */
 .ds-card__preview {
-  height: 7em;
+  height: 8em;
   background: rgba(0,0,0,0.4);
   border-radius: 6px;
   padding: 0.28em 0.38em;
