@@ -257,28 +257,218 @@
 .tl-node a:hover text { fill: rgba(147, 197, 253, 0.9); }
 
 /* ============================================================
-   DATA SOURCES SLIDE — 3 columns fade in left→right, then strip
-   Same play-state pattern as timeline nodes above.
+   DATA SOURCES SLIDE — redesigned (v3 compact, fixed-height)
    ============================================================ */
-.ds-col,
-.ds-more {
+
+.ds-layout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 0.3em 0.4em;
+  position: relative;
+}
+.ds-layout::before {
+  content: '';
+  position: absolute;
+  top: -20%; left: 50%;
+  transform: translateX(-50%);
+  width: 120%; height: 60%;
+  background: radial-gradient(ellipse, rgba(59,130,246,0.06) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+/* ── Title ── */
+.ds-title {
+  text-align: center;
+  margin-bottom: 0.55em;
+  position: relative; z-index: 1;
+}
+.ds-title h2 { font-size: 1.4em; margin: 0 0 0.2em; }
+
+/* ── Enhanced subtitle with decorative lines ── */
+.ds-subtitle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6em;
+  font-size: 0.48em;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.35);
+  margin: 0;
+}
+.ds-subtitle::before,
+.ds-subtitle::after {
+  content: '';
+  width: 36px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.15), transparent);
+}
+
+/* ── Grid ── */
+.ds-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.55em;
+  width: 100%;
+  position: relative; z-index: 1;
+}
+
+/* ── Card ── */
+.ds-card {
+  border-radius: 12px;
+  padding: 0.45em 0.5em 0.35em;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
   opacity: 0;
-  animation: ds-appear 0.42s ease-out forwards;
+  animation: ds-card-in 0.5s ease-out forwards;
   animation-play-state: paused;
 }
+#slide-data-sources.animate .ds-card { animation-play-state: running; }
 
-/* columns: nth-child within their flex-row container */
-.ds-col:nth-child(1) { animation-delay: 0.10s; }
-.ds-col:nth-child(2) { animation-delay: 0.36s; }
-.ds-col:nth-child(3) { animation-delay: 0.62s; }
+.ds-card:nth-child(1) { animation-delay: 0.10s; }
+.ds-card:nth-child(2) { animation-delay: 0.36s; }
+.ds-card:nth-child(3) { animation-delay: 0.62s; }
 
-/* bottom strip — only .ds-more, fixed delay */
-.ds-more { animation-delay: 0.88s; }
-
-#slide-data-sources.animate .ds-col,
-#slide-data-sources.animate .ds-more { animation-play-state: running; }
-
-@keyframes ds-appear {
-  from { opacity: 0; transform: translateY(8px); }
-  to   { opacity: 1; transform: translateY(0);   }
+@keyframes ds-card-in {
+  from { opacity: 0; transform: translateY(10px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
 }
+
+/* ── Card themes ── */
+.ds-card--web {
+  background: linear-gradient(165deg, rgba(59,130,246,0.12) 0%, rgba(59,130,246,0.03) 100%);
+  border: 1px solid rgba(59,130,246,0.18);
+}
+.ds-card--web .ds-card__accent { color: #93c5fd; }
+.ds-card--web .ds-card__icon  { background: rgba(59,130,246,0.15); color: #60a5fa; }
+
+.ds-card--finance {
+  background: linear-gradient(165deg, rgba(8,145,178,0.12) 0%, rgba(8,145,178,0.03) 100%);
+  border: 1px solid rgba(8,145,178,0.18);
+}
+.ds-card--finance .ds-card__accent { color: #67e8f9; }
+.ds-card--finance .ds-card__icon  { background: rgba(8,145,178,0.15); color: #22d3ee; }
+
+.ds-card--pdf {
+  background: linear-gradient(165deg, rgba(5,150,105,0.12) 0%, rgba(5,150,105,0.03) 100%);
+  border: 1px solid rgba(5,150,105,0.18);
+}
+.ds-card--pdf .ds-card__accent { color: #6ee7b7; }
+.ds-card--pdf .ds-card__icon  { background: rgba(5,150,105,0.15); color: #34d399; }
+
+/* ── Card head ── */
+.ds-card__head {
+  display: flex;
+  align-items: center;
+  gap: 0.38em;
+  margin-bottom: 0.3em;
+}
+.ds-card__icon {
+  width: 1.5em; height: 1.5em;
+  border-radius: 7px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.85em;
+  flex-shrink: 0;
+}
+.ds-card__label { display: flex; flex-direction: column; gap: 0.03em; }
+.ds-card__type {
+  font-size: 0.32em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.22);
+  line-height: 1.2;
+}
+.ds-card__name {
+  font-size: 0.65em;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+/* ── Preview — FIXED HEIGHT ── */
+.ds-card__preview {
+  height: 8.5em;
+  background: rgba(0,0,0,0.4);
+  border-radius: 6px;
+  padding: 0.35em 0.45em;
+  font-family: 'SF Mono', 'Cascadia Code', 'Fira Code', monospace;
+  font-size: 0.36em;
+  line-height: 1.7;
+  color: rgba(255,255,255,0.42);
+  overflow: hidden;
+}
+
+/* ── Footer ── */
+.ds-card__foot {
+  margin-top: 0.22em;
+  font-size: 0.32em;
+  color: rgba(255,255,255,0.2);
+  text-align: center;
+  letter-spacing: 0.04em;
+}
+
+/* ── Preview helpers ── */
+.pre-hl   { color: rgba(255,255,255,0.7); }
+.pre-dim  { color: rgba(255,255,255,0.15); }
+.pre-val--blue  { color: #93c5fd; }
+.pre-val--cyan  { color: #67e8f9; }
+
+.pre-header {
+  color: rgba(255,255,255,0.2);
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  padding-bottom: 0.22em;
+  margin-bottom: 0.35em;
+  font-size: 0.92em;
+}
+.pre-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.pre-dots {
+  flex: 1;
+  border-bottom: 1px dotted rgba(255,255,255,0.08);
+  margin: 0 0.35em;
+  position: relative; top: -0.15em;
+}
+.pre-rules { display: flex; flex-direction: column; gap: 4px; margin-bottom: 0.4em; }
+.pre-rule  { height: 2px; border-radius: 1px; background: rgba(255,255,255,0.05); }
+.pre-quote { font-style: italic; color: rgba(255,255,255,0.35); line-height: 1.6; margin-top: 0.2em; }
+.pre-quote-src {
+  display: block; margin-top: 0.15em;
+  font-style: normal; color: rgba(255,255,255,0.15); font-size: 0.9em;
+}
+
+/* ── Strip ── */
+.ds-strip {
+  margin-top: 0.55em;
+  width: 100%;
+  position: relative; z-index: 1;
+  opacity: 0;
+  animation: ds-strip-in 0.4s ease-out forwards;
+  animation-play-state: paused;
+  animation-delay: 0.88s;
+}
+#slide-data-sources.animate .ds-strip { animation-play-state: running; }
+
+@keyframes ds-strip-in {
+  from { opacity: 0; transform: translateY(5px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.ds-strip__inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.7em;
+  padding: 0.32em 1em;
+  border: 1px dashed rgba(255,255,255,0.08);
+  border-radius: 8px;
+  background: rgba(255,255,255,0.015);
+}
+.ds-strip__item { font-size: 0.46em; color: rgba(255,255,255,0.28); white-space: nowrap; }
+.ds-strip__sep  { width: 3px; height: 3px; border-radius: 50%; background: rgba(255,255,255,0.1); flex-shrink: 0; }
+.ds-strip__note { font-size: 0.4em; color: rgba(255,255,255,0.12); font-style: italic; }

@@ -25,10 +25,10 @@ export function initRagAnimation(deck: InstanceType<typeof Reveal>): void {
       }
     }
 
-    // ── Data sources slide: 3 columns + strip stagger in ──
+    // ── Data sources slide: 3 cards + strip stagger in ──
     if ((slide as HTMLElement).id === "slide-data-sources") {
       if (active) {
-        const els = slide.querySelectorAll<HTMLElement>(".ds-col, .ds-more");
+        const els = slide.querySelectorAll<HTMLElement>(".ds-card, .ds-strip");
         els.forEach(el => { el.style.animation = "none"; });
         slide.classList.remove("animate");
         void (slide as HTMLElement).offsetWidth;
