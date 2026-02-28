@@ -1,0 +1,157 @@
+URL: https://www.commbank.com.au/banking/open-banking.html
+Title: Open Banking
+
+## Goodwill and remediation program
+
+## For customers with certain accounts who were unable to share data via the Consumer Data Right
+The Consumer Data Right ( CDR ) is a secure way for customers to share certain data that is collected about them with organisations accredited by the Australian Competition and Consumer Commission ( ACCC ) and other trusted providers.
+CBA has identified that data sharing was not enabled for certain CommBank accounts accessed using CommBiz or NetBank. As a result, affected customers were unable to share data via the CDR. CBA self-reported this issue to the ACCC and cooperated with the ACCC’s subsequent investigation. We have now enabled many of the affected accounts and anticipate that all affected accounts will be enabled for data sharing by 30 September 2026.
+We apologise to customers affected by this issue and we are undertaking a goodwill and remediation program to make things right.
+
+## What's Open Banking?
+Open Banking gives you greater control of your banking data. It was introduced after the Australian Government passed legislation, called the Consumer Data Right. It means you can share your CommBank data with organisations accredited by the Australian Competition and Consumer Commission. You can also share your CommBank data with providers who will collect it from an accredited organisation. See a list of accredited organisations
+Open Banking gives you greater control of your banking data. It was introduced after the Australian Government passed legislation, called the Consumer Data Right. It means you can share your CommBank data with organisations accredited by the Australian Competition and Consumer Commission. You can also share your CommBank data with providers who will collect it from an accredited organisation.
+See a list of accredited organisations
+
+## What's Open Banking?
+Open Banking gives you greater control of your banking data. It was introduced after the Australian Government passed legislation, called the Consumer Data Right. It means you can share your CommBank data with organisations accredited by the Australian Competition and Consumer Commission. You can also share your CommBank data with providers who will collect it from an accredited organisation. See a list of accredited organisations
+Open Banking gives you greater control of your banking data. It was introduced after the Australian Government passed legislation, called the Consumer Data Right. It means you can share your CommBank data with organisations accredited by the Australian Competition and Consumer Commission. You can also share your CommBank data with providers who will collect it from an accredited organisation.
+See a list of accredited organisations
+
+## How to share your data
+Share your CommBank data with accredited organisations and providers Access products and services from other organisations (like budgeting tools) Peace of mind knowing your data is protected by high security standards Easy to set up and stop sharing any time Learn how to share your CommBank data
+
+## Share your CommBank data with accredited organisations and providers
+Access products and services from other organisations (like budgeting tools)
+Peace of mind knowing your data is protected by high security standards
+Easy to set up and stop sharing any time
+Learn how to share your CommBank data
+
+## Our Consumer Data Right policy
+Our Consumer Data Right policy describes what data will be available for you to share, how to share your CommBank data, and how to make a complaint. Download our Consumer Data Right policy (PDF)
+Our Consumer Data Right policy describes what data will be available for you to share, how to share your CommBank data, and how to make a complaint.
+Download our Consumer Data Right policy (PDF)
+
+## Are you a developer?
+Engineer new banking experiences for your customers: Explore CommBank's APIs Explore Bankwest's APIs
+Engineer new banking experiences for your customers:
+Explore CommBank's APIs
+Explore Bankwest's APIs
+
+## Frequently asked questions
+
+## 1. Will my data only be shared with my consent?
+We will only share your CommBank data, if you give us consent to do so, with accredited organisations and providers (data recipients). These data recipients include businesses that are accredited by the ACCC under the Consumer Data Right, or a provider collecting CDR data from, or on behalf of, an accredited recipient.
+
+## 2. What data will be available under the CDR?
+Under the Consumer Data Right (CDR) legislation, eligible customers can share the following data with data recipients – see ‘what data will be available under the CDR’ in our CDR Policy :
+Name, occupation and contact details (and if you’re a business, information about your business)
+Account balance and features of products you have with us
+Saved payees (your NetBank address book)
+Direct debits and scheduled payments
+Information about our products and services
+
+## 3. I received a notification from CommBank that my data was being shared, but I didn’t authorise this. How can I stop data sharing?
+We’ll only share your CommBank data with data recipients if you give us permission to do so. If you suspect that someone has authorised the sharing of your data without your consent, contact us immediately and mention ‘Open Banking data sharing’ so we can connect you with the right support.
+You can stop data sharing any time through CommBank or by contacting the data recipient. To stop data sharing through CommBank:
+Log on to the CommBank app
+Select the profile icon (top left corner), tap Data Sharing and then Open Banking data sharing
+Select the data sharing arrangement, then Stop sharing
+Go to Settings , Manage data sharing , then Open Banking data sharing
+Select the data sharing arrangement, then Stop sharing
+Log on to CommBiz and go to Functions , then Manage data sharing
+Select the data sharing arrangement and click Stop sharing
+
+## 4. I have received a notification that my joint account data is being shared, but I didn’t authorise data sharing for this account.
+Under CDR legislation, any joint account holder can independently set up data sharing on a joint account without the pre-approval or authorisation of the other joint account holder(s). However, as a fellow joint account holder, you have the right to disable sharing in the Joint Account Sharing Preferences section of your data sharing dashboard.
+For accounts that are enabled, any account holder can disable data sharing of the joint account at any time through the CommBank app or NetBank by going to the data sharing dashboard and then Sharing preferences and selecting Disable sharing. This will stop joint account holders from:
+Sharing the joint account in any active data shares
+Setting up a new data share from the joint account
+To re-enable data sharing for a joint account, all account holders will need to approve the request.
+Joint account holders can manage some notifications they receive about data sharing activity in the Notification settings section of your data sharing dashboard.
+
+## 5. Why am I unable to share my account data via Open Banking?
+You may not be eligible to share data if:
+You’re not registered for internet banking (NetBank and/or CommBiz)
+Your account doesn’t meet the account eligibility requirements (e.g. your account has a block or stop in place, for example, due to a lost or stolen card)
+If you're a business customer, you'll need to make sure you’ve set up a data sharing delegate first in NetBank or CommBiz.
+To learn more about who can share data and future data sharing capabilities, visit our website .
+If you’re having trouble data sharing, contact us and mention ‘Open Banking data sharing’ so we can connect you with the right support.
+
+## 6. How do I share data for account/s held under trusts (including SMSFs), with corporate trustees, in NetBank?
+To share data for account/s held under a trust, you must be added as a data sharing delegate for the trust. To do this:
+Log on to the CommBank app and select the profile icon, tap Data Sharing , then Open Banking data sharing , or log on to NetBank and go to Settings , Manage data sharing , then Open Banking data sharing.
+Select manage data sharing delegates under Business customers.
+Complete the form online via Docusign or download and email the completed form to the email address provided on the form . If  you have up to two parties that are required to approve account changes, you can use the online form. If you have more than two parties that are required to approve account changes, please complete the downloaded form and follow the instructions to return.
+If  you have up to two parties that are required to approve account changes, you can use the online form.
+If you have more than two parties that are required to approve account changes, please complete the downloaded form and follow the instructions to return.
+Once the request has been processed, you will be notified. Then you can create a new consent with the data recipient, select the trust profile and select eligible account/s you want to share.
+Things to remember: In Section 1 of the form, under Business name , enter the name of the trust, not the name of the corporate trustee. Make sure the form is signed by authorised individuals.
+
+## 7. Why can’t I share my joint account data?
+If any of the joint account holders, or the account, don’t meet Open Banking eligibility requirements , you won’t be able to share data about the joint account.
+If a joint account holder isn’t registered for NetBank, they can register online .
+If you’re still having trouble data sharing, contact us and mention ‘Open Banking data sharing’ so we can connect you with the right support.
+
+## 8. Will I have to provide my internet banking details to share data via Open Banking?
+No, Open Banking is designed to provide a secure method for you to share your data and manage your data sharing arrangements, without needing to provide your internet banking credentials to a third party. For NetBank customers, you’ll only need to enter the mobile number linked to your online banking so we can send you a one-time password, and for CommBiz customers, you’ll need to enter your CommBiz User ID.
+Providers that ask for your internet banking credentials may be seeking to retrieve your data via ‘screen scraping’. CommBank maintains a position that customers must not share their banking credentials with anyone.
+
+## 9. Where can I view or manage my consents?
+You can view and manage your current and previous data shares in the data sharing dashboard in the CommBank app, NetBank or CommBiz. This includes any data shares that have been removed, expired or cancelled.
+To access your data sharing dashboard:
+Log on to the CommBank app and select the profile icon (top left corner), Data Sharing , Open Banking data sharing.
+Log on to NetBank and go to Settings , Manage data sharing , then Open Banking data sharing .
+Log on to CommBiz and go to Functions , then Manage data sharing .
+
+## 10. Why am I unable to view my accounts when I set up a data share?
+If you’re unable to view some accounts when you set up a data share, the account may not be eligible for Open Banking.
+If you're a business customer, you'll need to make sure you’ve set up a data sharing delegate first in NetBank or CommBiz.
+You may be unable to data share due to a current implementation gap. For more information, see the CDR website .
+For help with sharing accounts, contact us and mention ‘Open Banking data sharing’ so that we can connect you with the right support.
+
+## 11. I received a ‘Something’s gone wrong’ error while creating a consent. What do I do?
+If you received a ‘Something’s gone wrong’ error message, contact us for help and mention ‘Open Banking data sharing’ so we can connect you with the right support.
+
+## 12. Can I share data for a credit card account when I’m the additional card holder?
+You must be set up as a data sharing delegate by the primary card holder. To do this, they should follow these steps:
+Log on to the CommBank app and select the profile icon (top left corner), Data Sharing , then Open Banking data sharing , or
+Log on to NetBank and go to Settings , Manage data sharing , then Open Banking data sharing.
+Then click on Manage data sharing delegates under Personal & Sole Traders
+For more information, see Set up a data sharing delegate - Open Banking .
+
+## 13. How can I remove data sharing delegate/s from a business?
+Removing a delegate for a company in the CommBank app/NetBank:
+Log on to the CommBank app and select the profile icon, Data Sharing , then Open Banking data sharing , or log on to NetBank and go to Settings , Manage data sharing , then Open Banking data sharing
+Select manage data sharing delegates under Business customers.
+Select the company you’d like to remove delegate/s from and then select Remove .
+Removing a delegate for a trust, with a corporate trustee, in NetBank or the CommBank app:
+Log on to the CommBank app and select the profile icon, tap Data Sharing , then Open Banking data sharing , or log on to NetBank and go to Settings , Manage data sharing , then Open Banking data sharing.
+Select manage data sharing delegates under Business customers.
+Complete the form online via Docusign or download and email the completed form to the email address provided on the form.
+Once the request has been processed, you will be notified.
+Removing a delegate for a company in CommBiz:
+Log on to CommBiz and go to Admin , Maintenance requests, then Manage data sharing delegates, and click on Remove delegate .
+For more information, see Set up a data sharing delegate - Open Banking .
+If you’re still having trouble, contact us and mention ‘Open Banking data sharing’ so we can connect you with the right support.
+
+## 14. What’s the difference between Open Banking, bank feeds, and screen scraping?
+Open Banking gives you greater control of your banking data in a safe and secure way, only with your consent. It was introduced after the Australian Government passed legislation, called the Consumer Data Right (CDR). It means you can share your CommBank data with data recipients.
+Bank feed is a feature provided by financial institutions that automatically sends your bank transactions to your accounting software (like Xero or MYOB). CommBank automated bank feed is designed to deliver a secure transfer of data from your business banking accounts and business credit cards directly into your authorised accounting software. Bank feeds can be set up via NetBank (Xero, MYOB) or via the Customer Authority Form submitted with the accounting package providers supported by CommBank.
+Screen scraping practices have been recognised by the Office of the Australian Information Commissioner as posing significant privacy and security risks to individuals. It’s when you give your internet banking credentials to a third party (e.g. budgeting apps) so it can access your bank account. CommBank maintains that customers must not share their banking credentials with anyone
+
+## 15. Where can I find a list of accredited organisations I can share my data with?
+You can see a list of accredited organisations on the Consumer Data Right website .
+
+## 16. I am still having issues data sharing. How can I contact CommBank for support?
+If you have reviewed these FAQs and are still experiencing issues data sharing, contact us and mention ‘Open Banking data sharing’. You can also access additional information in our Consumer Data Right Policy .
+
+## 17. How do I make a complaint about Open Banking?
+If you’d like to make a complaint about Open Banking, visit our complaints page .
+
+## 18. Where can I find the CommBank Consumer Data Right Policy?
+Our Consumer Data Right policy describes your rights under the CDR legislation – including what data will be available for you to share, how to share your CommBank data, and how to make a complaint.
+Download our Consumer Data Right Policy (PDF)
+
+## 19. I want to know more about privacy. Where can I view the CommBank Group Privacy Statement?
+We take our responsibility to protect your privacy very seriously. If you want to know more about how we handle your personal information at CommBank, see our CommBank Group Privacy Statement .

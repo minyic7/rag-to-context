@@ -1,0 +1,25 @@
+URL: https://www.commbank.com.au/articles/sustainability/guide-to-home-ev-charging.html
+Title: A guide to home EV charging
+
+Home electric vehicle (EV) charging offers numerous benefits that make it an attractive option for EV and plug-in hybrid (PHEV) owners. One of the primary advantages is the convenience it provides. Charging your EV at home means you can plug in your vehicle overnight and potentially wake up to a fully charged battery, ready for the day ahead. This may eliminate the need to visit public charging stations, saving you time and effort.
+
+## Benefits of home EV charging:
+Cost savings: Home charging is generally cheaper than using public charging stations, especially if you take advantage of off-peak electricity rates or have a home solar system. 1 By charging your EV during off-peak hours, you can reduce your electricity costs even further.
+Convenience: Home charging offers flexibility and control, allowing you to set your charging schedule to suit your lifestyle and energy needs. This means you can spend less time waiting at public charging stations, and more time charging whilst you’re at home.
+
+## Types of home EV chargers:
+Level 1 – portable charging
+Plugging your EV into a standard power point requires no installation and uses your home's alternating current (AC) power. It's the most portable but slowest option, adding about 10 km of range per hour. 2
+Level 1 charging can be suitable for many people ‘topping up’ overnight after your daily commute. But using this portable charger wouldn’t be workable on a longer road trip due to the full recharge time (which can be as long as 35 hours). Although you can connect your EV to any power point, it must be close by. It’s not safe to use an extension cord, as it may overheat or result in an electric shock.
+Level 2 – AC wall charger
+Installing an alternative current (AC) wall charger at home or work provides faster charging than a level 1 charger, typically adding 30-45km of range per hour with a 7kW unit. 2 Wall chargers can use single-phase or three-phase AC, with three-phase offering faster charging but higher installation costs. Note, the variability of EVs charging rates is due to a multitude of factors, which include the type of battery cell chemistry, and even the ambient temperature.
+The most common sizes for domestic installations are 7.4kW single phase or 11kW three phase. 3 An independent EV charging specialist, or a local electrician with the appropriate EV charging qualifications and training will be able to guide you one what Level 2 wall charger is right for you and your situation.
+Ready to kick start your home electrification journey? Head to the CommBank home energy upgrades page to get started.
+Things you should know
+Things you should know
+This information has been provided without considering your individual objectives, financial situation or needs. Before making any decisions, you should consider its appropriateness to your circumstances and consider obtaining professional advice. The Commonwealth Bank is not authorised and does not make any assertions about reduced consumption from non-renewable energy sources through energy-efficient purchases and installations. Advice and further information should be sought from relevant certified industry professionals. Sources: 1 https://electricvehiclecouncil.com.au/docs/how-much-does-it-cost-to-charge-an-ev/ 2 https://www.transport.nsw.gov.au/projects/electric-vehicles/charging-an-electric-vehicle 3 https://electricvehiclecouncil.com.au/wp-content/uploads/2023/08/EV-Charging-At-Home-Guide.pdf
+This information has been provided without considering your individual objectives, financial situation or needs. Before making any decisions, you should consider its appropriateness to your circumstances and consider obtaining professional advice.
+The Commonwealth Bank is not authorised and does not make any assertions about reduced consumption from non-renewable energy sources through energy-efficient purchases and installations. Advice and further information should be sought from relevant certified industry professionals.
+1 https://electricvehiclecouncil.com.au/docs/how-much-does-it-cost-to-charge-an-ev/
+2 https://www.transport.nsw.gov.au/projects/electric-vehicles/charging-an-electric-vehicle
+3 https://electricvehiclecouncil.com.au/wp-content/uploads/2023/08/EV-Charging-At-Home-Guide.pdf

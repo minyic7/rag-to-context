@@ -1,0 +1,27 @@
+URL: https://www.commbank.com.au/international/fees-charges.html
+Title: Fees and charges for International Money Transfers (IMTs) - CommBank
+
+## Sending money
+
+## Additional fee to cover correspondent bank charges
+We use correspondent banks to process IMTs and there are charges for this service.
+For cross-currency IMTs, we’ll absorb these correspondent bank fees when you send an IMT via NetBank, the CommBank app or in-branch.
+When using CommBiz, we'll pay any correspondent bank fees when you send a cross-currency IMT (Japanese Yen excluded).
+Sending an IMT from a Foreign Currency Account
+You can choose to pay an additional fee when sending same currency transfers (e.g. sending an IMT using your GBP account to a GBP account overseas), using CommBiz or in-branch. The table below sets out the available currencies and corresponding fees. The fees below don’t cover any other charges incurred from the beneficiary’s bank, which may have their own processing fees. The fees are payable in AUD.
+* This fee is waived when sending a cross currency IMT
+For more information about these fees, see our Standard fees and charges for international payment products and travel funds and CommBiz Terms and Conditions .
+
+## Receiving money
+
+## Things you should know
+1 Fees must be paid in Australian Dollars or debited from an Australian Dollar account. 2 This is a request only and is dependent on the overseas bank obtaining the relevant debit authority to be able to return funds.  Returned funds will be converted back to the currency of the funding account at the published Bank buys IMT rate on the day it is credited to the funding account. 3 Overseas banks' charges (which may vary from country to country) could apply in addition to the charges listed above. 4 Fee charged depends on arrangements with overseas banks. For more information about fees and charges for international payments, see our Standard fees and charges for international payment products and travel funds . Whoever is sending money to you needs your full name and home address. They’ll also need the following: Bank name: Commonwealth Bank of Australia CommBank BIC/SWIFT code: CTBAAU2S Your 14 digit account number: 06XXXX XXXXXXXX Log on to NetBank or the CommBank app. This info sits beside the account you want money transferred into.
+1 Fees must be paid in Australian Dollars or debited from an Australian Dollar account.
+2 This is a request only and is dependent on the overseas bank obtaining the relevant debit authority to be able to return funds.  Returned funds will be converted back to the currency of the funding account at the published Bank buys IMT rate on the day it is credited to the funding account.
+3 Overseas banks' charges (which may vary from country to country) could apply in addition to the charges listed above.
+4 Fee charged depends on arrangements with overseas banks.
+For more information about fees and charges for international payments, see our Standard fees and charges for international payment products and travel funds .
+Whoever is sending money to you needs your full name and home address. They’ll also need the following:
+Bank name: Commonwealth Bank of Australia
+CommBank BIC/SWIFT code: CTBAAU2S
+Your 14 digit account number: 06XXXX XXXXXXXX Log on to NetBank or the CommBank app. This info sits beside the account you want money transferred into.

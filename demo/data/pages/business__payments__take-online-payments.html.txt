@@ -1,0 +1,138 @@
+URL: https://www.commbank.com.au/business/payments/take-online-payments.html
+Title: Take online payments - online payment gateways
+
+## Payment gateway solutions
+Our payment gateway solutions can help you offer customers a smoother, secure payment experience. Each comes with a dashboard so you can monitor transactions, manage customer profiles, add subscriptions and more.
+
+## Our payment gateway solutions can help you offer customers a smoother, secure payment experience. Each comes with a dashboard so you can monitor transactions, manage customer profiles, add subscriptions and more.
+
+## PowerBoard
+An eCommerce platform that uses a single API integration. Great for businesses accepting customer-initiated payments and those with a custom website seeking payment choice, operational efficiency and market-leading security.
+
+## BPOINT
+A flexible payment gateway with a range of checkout options. Suitable for businesses offering recurring payments or subscriptions, or that want to offer a more seamless payment experience.
+
+## CommWeb
+A sophisticated, highly customisable payment gateway offering reliable payments, even in times of peak transaction volumes. Popular with large businesses and corporations.
+
+## Qkr for schools
+Qkr is a mobile app that makes it easy for schools and parents to manage payments – including canteen orders, uniforms, excursions and school fees – all in one secure platform.
+Explore Qkr for schools
+
+## Online billing & invoicing solutions
+Our billing and invoicing solutions can help you create a more positive payment experience. Handle day-to-day payments with scheduled bills, customer payment history, payment links and plans, and connect to major shopping carts.
+
+## Our billing and invoicing solutions can help you create a more positive payment experience. Handle day-to-day payments with scheduled bills, customer payment history, payment links and plans, and connect to major shopping carts.
+
+## BPOINT
+Get paid securely, no matter how complex your business needs are, including high-volume billing and recurring payments.
+
+## BPAY®for business
+A fast and easy way for your customers to pay invoices and bills in minutes using desktop or mobile banking.
+
+## Direct debit for business
+Direct Debit allows you to debit regular, recurring payments from your customers, with bulk funds transferred directly to your bank account.
+
+## Why choose CommBank?
+
+## Industry-grade security
+Cardholders are authenticated with EMV 3DS, plus get increased protection against fraud-related disputes and chargebacks.
+Cardholders are authenticated with EMV 3DS, plus get increased protection against fraud-related disputes and chargebacks.
+
+## Integration support
+We'll help set up your payment gateway solution, and remain on hand to answer any questions along the way.
+We'll help set up your payment gateway solution, and remain on hand to answer any questions along the way.
+
+## Get paid same day
+Fast, same-day settlement with a linked CommBank Business Transaction Account. 2
+Fast, same-day settlement with a linked CommBank Business Transaction Account. 2
+
+## Help when you need it
+Your online store works around the clock, and so do we. Get Australia-based support 24/7.
+Your online store works around the clock, and so do we. Get Australia-based support 24/7.
+
+## Connect your payment gateway
+Already have an established payment gateway? Connect it with a CommBank Internet Merchant Account to access industry-grade security and support from Australia's largest bank.
+Explore Internet Merchant Account
+
+## Call us to discuss the payment solution for you
+
+## Frequently asked questions
+
+## What's an online payment gateway?
+If your business sells products or services using a website, you’ll need a payment gateway to receive digital payments. A payment gateway integrates with your website’s shopping cart to accept and encrypt customer card details. It then authenticates the details and payment, before moving the money into your settlement account.
+
+## How do online payments work?
+Customers purchase goods or services using your website. Once they proceed to pay, they enter their credit or debit card details and are authenticated. The money is temporarily held to allow for authorisation and fraud checks, before being moved into your linked settlement account.
+
+## How do I setup an online payment gateway?
+Getting started is simple:
+Create a business account with your chosen provider
+Verify your business with your ID and bank details
+Integrate the gateway with your eCommerce platform or invoicing system
+Test transactions in the testing environment provided by the payment gateway provider. This allows you to simulate real payment transactions without processing actual money
+Go live and start accepting secure online payments.
+We have an integration support team that can help you set-up your CommBank payment gateway.
+
+## How can I make sure online payments are secure?
+You can setup your eCommerce platform with EMV 3D Secure. Doing so will mean customers’ card details are authenticated and you have increased protection against fraud-related disputes and chargebacks. EMV 3D Secure also uses tokenisation so that card details are securely stored.
+Your payment gateway host (e.g. a bank) securely manages the card data so you don’t have to.
+
+## How does EMV 3D Secure work?
+EMV 3D Secure (3DS 2) checks a number of data points to identify and authenticate customers. Based on the calculated transaction risk, the cardholder may be prompted to verify their ID eg. with a one-time password or biometric authentication using your banking app.
+
+## What information do I need to apply?
+Have these details handy:
+Business contact information, including phone and email
+Australian Business Number (ABN), business structure and registered address
+Financial information, including yearly turnover (or estimated average online sales), average transaction value, start date
+Details of every director, partner or trustee depending on your business structure. This includes birth date, residency and occupation information
+
+## Can I settle into an account that's not with CommBank?
+You may be able to settle into another bank account – call 1800 730 554 for assistance.
+
+## Which plugins are available for eCommerce solutions?
+PowerBoard supports WooCommerce and Magento .
+
+## What should I look for when choosing an online payment gateway solution for a small business?
+When choosing an online payment gateway solution for a small business, prioritise a smooth, mobile-friendly checkout and reliable performance to build trust and reduce cart abandonment. Consider a provider with strong encryption and fraud protection, and compare transaction fees and other charges to ensure these are realistic for your business.
+
+## How to set up online payments and recurring billing for a subscription business?
+Define your subscription model, including what you're selling, how often you'll bill customers, and whether fees are flat, tiered or usage based. Then choose a payment gateway that supports recurring payments, allows card-on-file or bank account authorisation, and integrates with your systems.
+
+## What's the difference between a payment gateway and a merchant account?
+A payment gateway integrates with your website’s shopping cart to accept and encrypt customer card details. It then authenticates the details and payment, before moving the money into your settlement account. A merchant account is a type of bank account in which funds from your customers’ cards or electronic payments are temporarily held for authorisation and fraud checks, before being transferred into your regular business bank account.
+
+## For developers
+Customise your payment solutions.
+Customise your payment solutions.
+
+## BPOINT
+Get direct, fast payments to a business account.
+
+## PowerBoard
+Tools, resources, and API documentation.
+Check PowerBoard Platform Status
+Develop with PowerBoard
+
+## CommWeb
+Choose from hosted checkout, hosted session, direct payment, batch options or a combination.
+Develop with CommWeb 2.0
+
+## We can help
+
+## Merchant support& FAQs
+
+## Message usin the CommBank app
+
+## Call 1800 230 177for technical support
+
+## Things you should know
+Applications for a merchant facility are subject to the Bank’s approval. View our Merchant Agreement and Financial Services Guide and consider them before making any decision about these products. As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances. Please view our Merchant Agreement , Financial Services Guide and Operator and User Guides at our merchant support hub . 1 EMV 3D secure is available across BPOINT, PowerBoard, and CommWeb. 2 Same-day settlement is available on all EFTPOS transactions made before 9.30pm (Sydney/Melbourne time) and all eCommerce transactions made before 5:30pm (Sydney/Melbourne time) for eligible customers with a CommBank Business Transaction Account and a linked CommBank merchant facility. 3 24/7 support is available for general enquires only. Technical support is only available 7am–7pm (Sydney/Melbourne time). 4 A Business Transaction Account is required to settle your transactions, if you apply online through NetBank. You can choose to settle your transactions to an alternate account held with us or another financial service provider by calling our Merchant Payment Solutions team on 1800 730 554 , any time after your application is finalised. The information on this website has been prepared without considering your objectives, financial situation or needs. Because of that, you should, before acting on the information, consider its appropriateness to your circumstances. Terms, conditions, fees and charges apply to Business Transaction Accounts and NetBank. Read the Terms and Conditions for Business Transaction and Savings Accounts and the Electronic Banking Terms and Conditions (PDF) and consider whether these products are right for you. The target market for this product can be found within the product’s Target Market Determination . BPAY is a registered trademark of BPAY Pty Limited.
+Applications for a merchant facility are subject to the Bank’s approval. View our Merchant Agreement and Financial Services Guide and consider them before making any decision about these products. As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances. Please view our Merchant Agreement , Financial Services Guide and Operator and User Guides at our merchant support hub .
+1 EMV 3D secure is available across BPOINT, PowerBoard, and CommWeb.
+2 Same-day settlement is available on all EFTPOS transactions made before 9.30pm (Sydney/Melbourne time) and all eCommerce transactions made before 5:30pm (Sydney/Melbourne time) for eligible customers with a CommBank Business Transaction Account and a linked CommBank merchant facility.
+3 24/7 support is available for general enquires only. Technical support is only available 7am–7pm (Sydney/Melbourne time).
+4 A Business Transaction Account is required to settle your transactions, if you apply online through NetBank. You can choose to settle your transactions to an alternate account held with us or another financial service provider by calling our Merchant Payment Solutions team on 1800 730 554 , any time after your application is finalised.
+The information on this website has been prepared without considering your objectives, financial situation or needs. Because of that, you should, before acting on the information, consider its appropriateness to your circumstances. Terms, conditions, fees and charges apply to Business Transaction Accounts and NetBank. Read the Terms and Conditions for Business Transaction and Savings Accounts and the Electronic Banking Terms and Conditions (PDF) and consider whether these products are right for you. The target market for this product can be found within the product’s Target Market Determination .
+BPAY is a registered trademark of BPAY Pty Limited.

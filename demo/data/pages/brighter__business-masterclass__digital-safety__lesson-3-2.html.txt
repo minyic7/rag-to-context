@@ -1,0 +1,39 @@
+URL: https://www.commbank.com.au/brighter/business-masterclass/digital-safety/lesson-3-2.html
+Title: How to spot phishing scams and other cyberthreats
+
+## Digital Safety Masterclass 3.2
+
+## How to spot phishing scams and other cyberthreats
+Phishing and business-email compromise are common tactics used by scammers to infiltrate a business.
+Knowing the latest scams is a good way to protect you and your staff from cyberattacks.
+If you’ve been scammed or had a near miss, you need to report it to help protect others.
+Q: What is a phishing scam?
+A: An email phishing attack is when cybercriminals send an email pretending to be a trusted source, like your bank, an online delivery service or a government body. The email will suggest you need to do something – such as clicking a malicious link, downloading an infected attachment or giving sensitive information like passwords or credit card details.
+Being able to stop scams before they infiltrate your business systems, in part, comes down to being able to spot suspicious activity in the first place. “Cisco’s research found that 43 per cent of cyberattacks are aimed at small and medium businesses and only 18 per cent of SMBs have the right infrastructure in place to defend against cyberattacks¹,” says Rodney Heron, Director of Security ANZ, Cisco.
+Get ahead of cybercriminals by reading up on how to spot a scam.
+
+## The most common scams: from phishing to fake invoices
+The most reported scam – with and without financial loss – is false billing or payment redirection, which is often called business-email compromise. An invoice might come in that looks legitimate but the banking details of your supplier have been intercepted and changed to a different account.
+The biggest losses, though, come from investment scams. "That’s where you get approached – by phone or email, or on social media – with an offer for higher returns or faster growth,” says Rodney. “If it sounds too good to be true, it usually is.”
+Some other common scams are social media accounts impersonating high-profile bank employees giving investment advice; fake text messages with tips on how to improve investments and email phishing attacks that look like they come from your bank and encourage you to click on a malicious link.
+
+## Things you should know about deep-fake technology
+Deep fakes are one of the fastest-growing scam tools because they don’t look or sound like a “classic” con. Cybercriminals can now use AI to mimic a real person’s voice, face and mannerisms – meaning a request can feel urgent and legitimate even when it’s completely fake. The best defence is getting ahead of the trend: make it routine to read up on how deep-fake scams work and what the red flags look like then share those cues with your team.
+In practice, a deep-fake scam might sound like your CEO on the phone asking for a quick money transfer or appear as a convincing video call from a “supplier” pushing you to change payment details. Because the tech is designed to bypass our usual gut checks, staff need clear, current guidance on what to watch for: unexpected urgency, secrecy (“don’t tell anyone”), pressure to bypass normal approval steps or requests that don’t fit the situation.
+
+## How can I protect my business from existing and emerging scams?
+The basics include having strong passwords, using two-factor authentication and having tight systems in place. “Never click on links from unknown sources; tell suspicious callers you’ll ring them back on a trusted number that you look up yourself and double-check email addresses. Fraudulent emails may seem to come from a trusted email address but on closer inspection may have a subtle spelling mistake or a misplaced full stop,” says Rodney.
+
+## How to report a scammer
+Fraud reporting is important in order to raise awareness and stop scammers trying to attack others and to minimise your own financial losses.
+Contact your bank immediately. The quicker you do this, the quicker your accounts can be secured. Then you need to change all your passwords and report the scam. Contact both scamwatch.gov.au and cyber.gov.au.
+“Reporting helps track new and emerging scams and to monitor existing ones,” says Rodney. “It also helps the government and banks build detection processes for those scams. It’s even important to report near-misses.”
+
+## Congratulations, you’ve completed this lesson!
+Next lesson: 3.3 - How to build a culture of digital safety in your business
+Explore more Digital Safety lessons in CommBank Business Masterclass today.
+
+## Things you should know
+1Cisco, Protect your assets anywhere [infographic], November 2025, https://www.cisco.com/c/dam/global/en_uk/solutions/small-business/pdfs/cisco-secure-smb-infographic.pdf Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.
+1Cisco, Protect your assets anywhere [infographic], November 2025, https://www.cisco.com/c/dam/global/en_uk/solutions/small-business/pdfs/cisco-secure-smb-infographic.pdf
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.

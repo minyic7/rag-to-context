@@ -1,0 +1,41 @@
+URL: https://www.commbank.com.au/articles/banking/what-are-pending-transactions.html
+Title: What are pending transactions?
+
+Some payments, cash withdrawals or deposits appear as pending on your account until a transaction is fully processed. This can cause some confusion – you may think a payment hasn’t been successful, or you’ve been charged for something twice.
+Here's some information to help you understand pending transactions, and the steps you can take to raise a dispute if something doesn't look right.
+
+## What is a pending transaction?
+When a transaction is authorised, it's confirming to the merchant your card is valid and there’s money in your account to pay for what you’re buying. The transaction amount is then deducted from your available funds, and the transaction shows as pending on your account until the payment process is complete. This might include deposits paid for services such as hotel accommodation or car rental.
+
+## Where is a pending transaction deducted from?
+Pending transaction amounts are deducted from your available funds, not your account balance. If you want to know how much money you really have in your account, look at your available funds.
+
+## How long does a pending transaction take to process?
+Pending transactions generally take 3 to 5 business days to process. Although some can take up to 10 business days.
+If you let a merchant use your card for pre-authorised payments (like a security deposit for a hotel booking or car hire), you can expect to wait up to 7 days for your payments to be credited back to you.
+
+## Pending and complete transactions
+In some cases, we may authorise your card transaction, but the merchant may not process the same transaction immediately.
+For example, you order 4 items costing $25 each and the merchant asks us to authorise a $100 payment. This appears as a pending transaction. One of the items is ready for delivery before the other three, so the merchant completes that $25 transaction. You’ll see $25 deducted from your account balance, while $75 stays as pending.
+Sometimes, the amount processed to your card may be different to the amount of the authorisation. This is called an outstanding authorisation and will appear as a pending transaction.
+
+## Can I stop or cancel a transaction while it's pending?
+Once a transaction appears as pending on your account, you’re unable to stop or cancel the transaction. If you don’t recognise a transaction or did not authorise it, you can raise a dispute. We’ll investigate your dispute when the pending transaction has been fully processed.
+
+## Expired or cancelled transaction
+Sometimes the pending transaction may disappear from your transaction history and the amount returned to your available balance. This means the transaction has expired or cancelled and wasn’t processed by the merchant. It’s still a good idea to keep an eye on your account and if you see unauthorised transactions in future, contact us.
+
+## What to do if you don’t recognise a transaction
+If you don’t recognise a transaction, check if it's:
+A purchase made by an additional cardholder
+From a business who trades under a different name from the one shown in your transaction history. A quick Google search can often help identify the merchant.
+A pending transaction (a payment already deducted from your available balance, but still being processed)
+A conversion rate applied to an international purchase
+A regular membership or subscription fee
+If it’s none of the above, we can help you dispute a transaction .
+We’ll need to wait until the transaction is complete and no longer pending before we can start investigating your dispute.
+
+## What's a pending transaction and how is it useful?
+
+## Things you should know
+This article is intended to provide general information of an educational nature only. It does not have regard to the financial situation or needs of any reader and must not be relied upon as financial product advice. As this information has been prepared without considering your objectives, financial situation or needs. You should, before acting on this, consider the appropriateness to your circumstances.

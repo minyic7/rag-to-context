@@ -1,0 +1,32 @@
+URL: https://www.commbank.com.au/brighter/business-masterclass/AI/lesson-1-1.html
+Title: 10 ways business can save time with AI
+
+## AI Masterclass 1.1
+
+## 10 Real-world Ways Businesses Are Saving Time With AI
+Businesses are cutting admin hours with AI tools, from scheduling to quoting.
+Case studies show AI can free up one to two workdays a month.
+Time savings compound into real productivity gains and better customer outcomes.
+Q: How can you work faster in your business? A: From instant invoicing to automated staff FAQs, AI for business is already helping owners save time and improve productivity.
+Businesses are under more pressure than ever to work faster and do more with less. Emily Leiding, AI marketing lead for Microsoft, is keen to let you in on a secret: AI can help you claw back time you’d otherwise spend bogged down in admin.
+
+## How can AI help save me time?
+Leiding reveals 10 real-world ways she’s seen business owners work faster with AI. The good news? Productive business solutions can be part of your journey, too.
+Smarter scheduling: Forget 10 back-and-forth emails; businesses are now using AI for scheduling, utilising tools like Microsoft Copilot to autoset rosters and meeting times, and even capture action items in minutes. “It can take notes so no-one has to be the scribe,” explains Leiding.
+Automating admin: Service providers are using workflow tools, such as Zapier or Make (formerly Integromat), to connect their email with quoting software. Any time an enquiry hits the inbox, it automatically creates a record in your CRM and a tailored quote is drafted.
+Inbox clearance 101: No need to drown in a sea of emails; an AI email generator can draft professional replies in under two minutes, a process that Leiding says can save hours each month.
+Streamlined product descriptions: Retailers are generating SEO-friendly product descriptions in a fraction of the time it would take to write manually. How? By using generative AI, such as Microsoft CoPilot and ChatGPT , which can ultimately improve the speed and efficiency of the work produced by a comms team.
+Social media support: Similarly, retailers are also creating full content calendars – captions, hashtags and the brand’s unique tone of voice included – with AI writing assistants.
+Automated staff FAQs: Why spend hours answering staff questions when they can self-solve most dilemmas with an agentic system that’s been fed a knowledge base straight from your employee handbook? Answers to questions about penalty rates, shift swaps and even laundry allowances can be easily answered by an AI-powered agent using a tool like CoPilot Studio .
+Automated customer FAQs: Hospitality venues are increasingly using AI agents to handle booking enquiries or answer questions about opening hours or the menu. This leaves more time to liaise with guests in person and less time to deal with questions of the “Do you have gluten-free options?” variety.
+Drafting documents: Small operators are adopting AI tools, such as CoPilot or ChatGPT , to update contracts, polish proposals, prepare FAQs for their websites or even write a usable first draft of their newsletters. You can still tweak and add your personality later but with a considered prompt, much of the heavy lifting is done within moments.
+Event follow-ups: Hosting an event? Some are already using agentic AI systems that can take registrations for an event or attendance data at a webinar, integrate it with CRM software and create personalised follow-ups and tasks for sellers to follow up on, says Leiding.
+Data and insights: Retailers are using AI to analyse sales patterns and stock levels. This means less time spent in spreadsheets and more time making more inspired decisions.
+
+## Congratulations, you’ve completed this lesson!
+Next lesson: 1.2 - 5 AI-prompting mistakes business owners should avoid
+Explore AI lessons in CommBank Business Masterclass today.
+
+## Things you should know
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.

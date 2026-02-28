@@ -1,0 +1,29 @@
+URL: https://www.commbank.com.au/brighter/business-masterclass/AI/lesson-1-2.html
+Title: 5 AI-prompting mistakes business owners should avoid
+
+## AI Masterclass 1.2
+
+## 5 AI-prompting Mistakes Business Owners Should Avoid
+Many business owners waste time when they ask AI a question without clear prompts.
+Common artificial intelligence prompt mistakes include vague inputs, one-shot thinking and ignoring security.
+Knowing how to write a good prompt helps you get faster, more accurate results.
+Q: How do you ask AI a question effectively?
+A: By avoiding vague prompts, adding context and refining your requests. These simple changes can transform artificial intelligence prompts from average to powerful.
+Everyone knows you reap what you sow and it’s never been clearer than when your fingers – itching to ask AI a question – type the first thing that comes to mind. It’s a move that can dampen powerful AI systems into a frustrating experience that wastes time and delivers mediocre and oh-so-generic outputs, says Microsoft’s AI marketing lead, Emily Leiding.
+“It’s important to get it right, because we’ll eventually see prompting evolve from words to workflows so that business owners will be able to move from asking a question to delegating a task with outcomes, constraints and deadlines,” she says. “I think we’ll then be able to go from prompts to products.”
+
+## Common AI prompt mistakes to avoid
+If you’d like to sharpen your AI-prompting skills, Leiding recommends avoiding the following mistakes:
+Writing a vague prompt: Before you send AI a single word, remember that this isn’t a internet search. “People talk about getting generic outcomes from ChatGPT or Microsoft CoPilot but if you type ‘write a great sales email to help me clear stock’ you’ll get something super-generic,” says Leiding. She adds that a better prompt would be: “Draft a 90-word intro email directed to my independent retailers about our latest inventory drop and include two product benefits and offer a 15-minute face-to-face meeting or call. Use Australian spelling and make it friendly.”
+No context: A big part of learning how to prompt AI is understanding context: the tone, the audience and any rules you want covered off, says Leiding. “You need to think of AI as your partner, not just your tool, and that means explaining the details. You’re not saying ‘write me an invite’ but ‘I need a 120-word invitation, which is going out to HR leaders. I need it to be conversational in tone but be clear in RSVP details.’”
+One-shot thinking: Practicing how to ask AI a question is easy – because you need to do it again and again, says Leiding. “You can’t just write a single prompt, receive a response and then walk away. You need to ask AI a question and then keep on asking until it perfects the task.”
+Overloading prompts: It’s easy to get carried away with prompts but AI can struggle with large information dumps that are best described as “streams of consciousness”.  Break down complex requests into smaller, manageable sections so essential details don’t get buried in the noise.
+Not thinking about security: Learning how to prompt AI is one thing but there’s foundational work that needs to be done to ensure that any AI solutions that you integrate into your businesses are safe and compliant, says Leiding. “You need your data to stay in your own network so I encourage you to use your gen-AI tool to say, ‘What do I need to think about when it comes to security and governance as I roll out my AI?’”
+
+## Congratulations, you’ve completed this lesson!
+Next lesson: 1.3 - The best free AI tools for business owners
+Explore AI lessons in CommBank Business Masterclass today.
+
+## Things you should know
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.

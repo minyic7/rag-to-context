@@ -1,0 +1,123 @@
+URL: https://www.commbank.com.au/support/security/card-fraud.html
+Title: Card fraud - CommBank
+
+## How card fraud happens
+Here are the most common ways card fraud can occur
+Here are the most common ways card fraud can occur
+
+## Database breach
+A database breach is a violation of any personal/confidential information (including cards details) you may have disclosed to a company, organisation or another third party, through either theft or loss. It can occur as a result of an unintentional breach by, or via a deliberate attack on, a company, organisation, third party and/or website you may have used before.
+
+## Random card number generation (BIN Attack)
+Fraudsters take the first 6 digits of your card number and use software to generate the remaining sequence of numbers. Combinations of card numbers, expiration dates and CVCs are tested to see if they’re correct and active. When successful combinations are found, card details can be used to make unauthorised transactions.
+
+## Large scale attacks
+When fraudsters get hold of your full card credentials, generally through the black market or through a database breach, they can use these details to make a large number of purchases without your knowledge.
+
+## Counterfeit cards (skimming)
+ATMs or EFTPOS machines can be tampered with to copy the magnetic strip on your card and record the PIN you enter. Fraudsters can then create a counterfeit card and withdraw cash from your account.
+
+## Malware
+Malicious software, like viruses, worms and spyware are designed to disrupt and invade computer systems, to acquire and distribute sensitive information such as credit card numbers. If your mobile phone or computer device becomes infected with malware, any sensitive information stored on the device (including your card numbers or banking passwords) can be stolen. Fraudsters can use your card details to process transactions online or attempt to gain unauthorised access to your online banking account(s).
+
+## Giving your card details to third parties
+You’ll never need to give your CVC number when making an in-store purchase. Even if the merchant tells you otherwise, you should only tap, swipe or insert your card into an EFTPOS machine to make a payment. Sometimes you might need to provide your CVC number when making a payment over the phone or online. When doing so, always make sure to check the receipt emailed to you and/or the amount debited from your account.
+
+## Stolen mail
+Mail from CommBank often includes private and important information for yourself only. If stolen, this information can be used to access your accounts, steal funds from your card, used in crime or sold. Contact us straight away if your mail has been stolen and report your cards stolen to help prevent any financial loss.
+Always make sure your address and contact details are up to date and are correct.
+
+## Lost or stolen cards
+As soon as you notice your card is missing, lost, misplaced or stolen, report your card lost or stolen to us to stop anyone else from using it. Contact us immediately if you notice any unauthorised transactions on your account(s) with us.
+
+## Digital cards
+Never provide any login, password and PIN details, never allow remote access or share the details of your digital card/s (including screenshots). If you are worried that your details are compromised, lock your card and report any suspicious activity to us immediately.
+
+## Security features that help protect you
+Staying alert with Push Notifications Our CommBank app notifications offer security alerts about transactions that appear suspicious. To turn this feature on, simply follow the below steps: Open the CommBank app and select the menu in the top left corner Select your name and tap on ‘Notifications preferences’ Under 'Alerts', slide the toggle to turn this feature on Check and see if notifications are enabled on your phone Open your phones settings and select 'Notifications' Scroll down to CommBank and slide the toggle to ‘on’ Tightening your security with location based security We’ll use your approximate location when you’re logged on to help identify suspicious account activity from unexpected places. To turn on location-based security, simply follow the below steps: Open the CommBank app and select the menu in the top left corner Select your name and tap on ‘Accounts & security’ Select ‘Location based security’ Slide the toggle to turn this feature on
+
+## Staying alert with Push Notifications
+Our CommBank app notifications offer security alerts about transactions that appear suspicious.
+To turn this feature on, simply follow the below steps:
+Open the CommBank app and select the menu in the top left corner
+Select your name and tap on ‘Notifications preferences’
+Under 'Alerts', slide the toggle to turn this feature on Check and see if notifications are enabled on your phone
+Open your phones settings and select 'Notifications'
+Scroll down to CommBank and slide the toggle to ‘on’
+Tightening your security with location based security We’ll use your approximate location when you’re logged on to help identify suspicious account activity from unexpected places. To turn on location-based security, simply follow the below steps: Open the CommBank app and select the menu in the top left corner Select your name and tap on ‘Accounts & security’ Select ‘Location based security’ Slide the toggle to turn this feature on
+
+## Tightening your security with location based security
+We’ll use your approximate location when you’re logged on to help identify suspicious account activity from unexpected places.
+To turn on location-based security, simply follow the below steps:
+Open the CommBank app and select the menu in the top left corner
+Select your name and tap on ‘Accounts & security’
+Select ‘Location based security’
+Slide the toggle to turn this feature on
+
+## Suspicious activity on your account?
+Message us immediately if you're worried about the security of your account. Our virtual assistant Ceba can help you lock your card or securely connect you to a specialist.
+
+## Suspect fraud has occurred? What next?
+Get in touch If you (or someone you know) is a CommBank customer and has been targeted or lost money as a result of fraud that is believed to have occurred, contact us immediately . We’ll let you know if you need to lodge a dispute with us . Report it Report fraud via the Australian Cyber Security Centre . Reports may be referred to the police for possible investigation. Take control and stay protected Change your passwords and PINs straight away if you suspect your security has been compromised. Change these regularly as a preventative measure. Seek support Contact IDCARE on 1800 595 160. IDCARE is a free government-funded service that provides support to victims of identity crime.
+
+## Get in touch
+If you (or someone you know) is a CommBank customer and has been targeted or lost money as a result of fraud that is believed to have occurred, contact us immediately . We’ll let you know if you need to lodge a dispute with us .
+
+## Report it
+Report fraud via the Australian Cyber Security Centre . Reports may be referred to the police for possible investigation.
+
+## Take control and stay protected
+Change your passwords and PINs straight away if you suspect your security has been compromised. Change these regularly as a preventative measure.
+
+## Seek support
+Contact IDCARE on 1800 595 160. IDCARE is a free government-funded service that provides support to victims of identity crime.
+
+## Lodged a dispute with us. What's next?
+We’ll keep you updated We’ll try to resolve your issue as quickly as possible. Once you’ve contacted us to raise a dispute, we'll either send you a letter or email confirming the outcome of our investigation. How long will it take? The time it takes to resolve a dispute depends on how complex it is. We can only start investigating once the transactions are fully processed. If any disputed transactions are still pending , we need to wait for them to be fully processed before we can initiate a dispute on your behalf. It generally takes 3 to 5 business days to process a transaction, although it can take up to 10 business days. Dispute investigations can take up to 21 days. We’ll contact you if the investigation is taking longer. Resolution of your dispute If your dispute is successful, your credit will appear as at the date the disputed transaction was processed. For example, if it was in pending and then processed on 5 February, your credit will appear as at 5 February, not the date you raised the dispute with us or the date your dispute was resolved.
+
+## We’ll keep you updated
+We’ll try to resolve your issue as quickly as possible.
+Once you’ve contacted us to raise a dispute, we'll either send you a letter or email confirming the outcome of our investigation.
+How long will it take? The time it takes to resolve a dispute depends on how complex it is. We can only start investigating once the transactions are fully processed. If any disputed transactions are still pending , we need to wait for them to be fully processed before we can initiate a dispute on your behalf. It generally takes 3 to 5 business days to process a transaction, although it can take up to 10 business days. Dispute investigations can take up to 21 days. We’ll contact you if the investigation is taking longer. Resolution of your dispute If your dispute is successful, your credit will appear as at the date the disputed transaction was processed. For example, if it was in pending and then processed on 5 February, your credit will appear as at 5 February, not the date you raised the dispute with us or the date your dispute was resolved.
+
+## How long will it take?
+The time it takes to resolve a dispute depends on how complex it is.
+We can only start investigating once the transactions are fully processed.
+If any disputed transactions are still pending , we need to wait for them to be fully processed before we can initiate a dispute on your behalf. It generally takes 3 to 5 business days to process a transaction, although it can take up to 10 business days.
+Dispute investigations can take up to 21 days. We’ll contact you if the investigation is taking longer.
+Resolution of your dispute If your dispute is successful, your credit will appear as at the date the disputed transaction was processed. For example, if it was in pending and then processed on 5 February, your credit will appear as at 5 February, not the date you raised the dispute with us or the date your dispute was resolved.
+
+## Resolution of your dispute
+If your dispute is successful, your credit will appear as at the date the disputed transaction was processed. For example, if it was in pending and then processed on 5 February, your credit will appear as at 5 February, not the date you raised the dispute with us or the date your dispute was resolved.
+
+## Debit & credit card security
+Debit & credit card security
+Security tips for using your credit or debit card when paying in-store, shopping online and travelling.
+Credit card security tips
+
+## How to spot a hoax or scam
+How to spot a hoax or scam
+From strange looking emails and text messages, to suspicious phone calls. Protect yourself from scams
+
+## Smarter ways to shop online
+Smarter ways to shop online
+Our top tips to keep yourself and your money secure when online shopping.
+Secure online shopping
+
+## We're here to help
+Message us Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+
+## Message us
+Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+Contact us Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+
+## Contact us
+Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+Report an email or SMS Send us a copy or screenshot if you receive a hoax email or SMS.
+
+## Report an email or SMS
+Send us a copy or screenshot if you receive a hoax email or SMS.
+
+## Things you should know
+As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on the advice, consider its appropriateness to your circumstances. The information provided on this page has been compiled by CommBank to educate you on ways to minimise the likelihood of being victim to fraud or experience unauthorised transactions on your accounts, and where to seek help if you believe either of these have occurred.
+As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on the advice, consider its appropriateness to your circumstances. The information provided on this page has been compiled by CommBank to educate you on ways to minimise the likelihood of being victim to fraud or experience unauthorised transactions on your accounts, and where to seek help if you believe either of these have occurred.

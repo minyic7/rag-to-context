@@ -1,0 +1,38 @@
+URL: https://www.commbank.com.au/brighter/business-masterclass/digital-safety/lesson-3-3.html
+Title: How to build a culture of digital safety in your business
+
+## Digital Safety Masterclass 3.3
+
+## How to build a culture of digital safety in your business
+Instilling a culture of questioning is a great way to build cybersecurity awareness into your business.
+Doing cybersecurity training online with your staff can help identify potential weaknesses in your security framework.
+Consistent cybersecurity training for all staff means everyone can follow the same processes, keeping themselves and your business safe online.
+Q: Should I be running cybersecurity training for my staff?
+A. Cybersecurity training is essential for businesses, no matter the size. You may choose to introduce written processes, bring it up in meetings, have your staff watch these CommBank Business Masterclass videos or do online training. Better still, you might offer a combination of all of these options.
+You may also choose to run random tests, which can help identify knowledge gaps. It’s not about catching people out – it’s about finding the areas where more support or training is needed.
+Want an easy way to put up a wall against cyberattacks? Train your staff in cybersecurity. “When everyone in your business shares a culture of questioning and awareness, your people become your strongest layer of protection against cyberattacks, instead of a potential weak link,” says Rodney Heron, Director of Security ANZ, Cisco.
+
+## Get everyone on the same page
+When it comes to cybersecurity staff training, a good place to start is with your business’s culture. “You want your team to feel confident pausing, asking questions and verifying anything that doesn’t feel quite right,” says Rodney.
+“If a staff member gets a strange request, a slightly odd invoice or an unexpected message from someone pretending to be internal, they need to know they can stop and escalate the issue with someone senior. That psychological safety is what can prevent mistakes.”
+
+## Consistency is key
+You’re only as strong as your weakest link so you need to make sure your cybersecurity training is the same for every employee and new starter. Everyone should be following the same procedure.
+“Make sure your team understands the processes you expect them to follow, such as how to verify unfamiliar requests, who to talk to if something looks suspicious and what information should not be shared,” says Rodney. “Clear, simple rules reduce anxiety and increase confidence.”
+
+## How can I make cybersecurity training relatable?
+One of the most powerful things you can do is bring digital safety back to a personal level. Data breaches don’t just affect your business – they can also expose private information about your staff and your customers.
+“This is how it can happen: you log on to your work email from your personal computer and your personal computer gets hacked,” says Rodney. “The scammer could now have access to all your business account credentials. This blurring of personal and professional is a huge risk for businesses, especially as personal computers rarely have the same level of cybersecurity as business systems.”
+Identity theft can lead to credit issues, financial loss and even challenges getting loans or passports. When people understand how the risks affect them, they may take the habits more seriously.
+
+## Talk about cybersecurity with your customers, too
+“It’s important to have open conversations with your customers and suppliers about safe ways of working,” Rodney says. “Let customers know how you will contact them for payment and encourage them to call you on a verified number if they ever want to double-check details. If supplier bank details change, always confirm verbally – it takes seconds and protects everyone involved.”
+It’s through working together – and creating the same security standards across your network – that you can get better at keeping scammers out.
+
+## Congratulations, you’ve completed this lesson!
+Next module: 3.4 - Help protect your business with these 3 small cyber safety changes
+Explore more Digital Safety lessons in CommBank Business Masterclass today.
+
+## Things you should know
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.

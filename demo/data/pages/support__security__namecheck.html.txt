@@ -1,0 +1,76 @@
+URL: https://www.commbank.com.au/support/security/namecheck.html
+Title: NameCheck - CommBank
+
+## What is NameCheck?
+NameCheck is a security tool that searches the account details you’ve entered when making a first-time payment in NetBank, the CommBank app or CommBiz . Based on our available payment data, NameCheck will then indicate whether the account details look right. For example, if we’ve never seen an account name used for a particular BSB and account number, we’ll prompt you to take further steps to help ensure you’re paying the intended recipient.
+NameCheck is a security tool that searches the account details you’ve entered when making a first-time payment in NetBank, the CommBank app or CommBiz . Based on our available payment data, NameCheck will then indicate whether the account details look right. For example, if we’ve never seen an account name used for a particular BSB and account number, we’ll prompt you to take further steps to help ensure you’re paying the intended recipient.
+
+## What is NameCheck?
+NameCheck is a security tool that searches the account details you’ve entered when making a first-time payment in NetBank, the CommBank app or CommBiz . Based on our available payment data, NameCheck will then indicate whether the account details look right. For example, if we’ve never seen an account name used for a particular BSB and account number, we’ll prompt you to take further steps to help ensure you’re paying the intended recipient.
+NameCheck is a security tool that searches the account details you’ve entered when making a first-time payment in NetBank, the CommBank app or CommBiz . Based on our available payment data, NameCheck will then indicate whether the account details look right. For example, if we’ve never seen an account name used for a particular BSB and account number, we’ll prompt you to take further steps to help ensure you’re paying the intended recipient.
+
+## Why NameCheck?
+NameCheck is designed to help our customers avoid false billing scams and mistaken payments. An account name that doesn’t match an account can be a sign of a false billing scam . Also known as a business email compromise, this occurs when a scammer hacks into a business’ email account and redirects existing payment requests, or initiates new falsified payment emails. On the other hand, a mistaken payment occurs when you enter incorrect account details by making a typo, or you’ve been given the wrong information. Now when you make a first-time payment in NetBank, the CommBank app or CommBiz, NameCheck will search the account details you’ve entered for typos and possible signs of a scam. If things don’t look right, we’ll prompt you to check the account details and speak with the intended recipient – helping reduce the risk of mistaken payments and false billing scams.
+NameCheck is designed to help our customers avoid false billing scams and mistaken payments.
+An account name that doesn’t match an account can be a sign of a false billing scam . Also known as a business email compromise, this occurs when a scammer hacks into a business’ email account and redirects existing payment requests, or initiates new falsified payment emails.
+On the other hand, a mistaken payment occurs when you enter incorrect account details by making a typo, or you’ve been given the wrong information.
+Now when you make a first-time payment in NetBank, the CommBank app or CommBiz, NameCheck will search the account details you’ve entered for typos and possible signs of a scam. If things don’t look right, we’ll prompt you to check the account details and speak with the intended recipient – helping reduce the risk of mistaken payments and false billing scams.
+
+## How does NameCheck work?
+NameCheck uses advanced algorithms to review the account details you entered against our available payment information. It then gives you one of five results to indicate the likelihood that the account name matches the account:
+Each result comes with an explanation along with prompts on what you should do next if things don’t look right. Keep in mind the results of NameCheck are based on our available payment information, which means we’re unable to confirm whether the name and account are an absolute match.
+
+## FAQs
+
+## What is the difference between NameCheck and Confirmation of Payee?
+CommBank customers could benefit from CommBank’s security tool NameCheck which works alongside Confirmation of Payee. Together, the two solutions provide more information to CommBank customers to help them protect themselves against scams and mistaken payments.
+Confirmation of Payee builds on New Payments Platform (NPP) infrastructure to match the name entered by the payee with the name held by the receiving bank, when sending a domestic payment via BSB and account number.
+NameCheck searches the account details customers have entered when making a first-time payment in NetBank, the CommBank app or CommBiz. Based on CommBank’s available payment data, NameCheck will then indicate whether the account details look right, taking into account additional factors such as preferred names, nicknames, business trading names and risk activity indicators.
+
+## How does NameCheck know if the account details look right?
+NameCheck reviews the account details and gives a view on the likelihood that the name and account details match based on our available payment data. It then shows you one of five possible results.
+If the results indicate that the account details don’t look right, we’ll prompt you to check the account details and speak with the intended recipient.
+
+## How does NameCheck work for shortened or similar names?
+NameCheck will accept some names that are similar to other names that we’ve seen used for the account.
+For example, if you enter ‘Jess’ instead of ‘Jessica’ for the account name, it will indicate that the name seems to match the account.
+
+## Where can I view the results of NameCheck?
+You can view the results after you add a new payee and search their account details in NetBank, the CommBank app or CommBiz. The results of NameCheck are also shown when making a first-time payment to a payee that’s already in your address book.
+
+## Does NameCheck apply to payments made using PayID?
+No. NameCheck only applies to first-time payments made using a BSB and account number. A PayID already shows the actual name of the registered person or business.
+
+## Can NameCheck confirm that the account name actually matches the account?
+No. NameCheck is based on our available payment information, which means we’re unable to confirm that the name and account are an absolute match.
+
+## What should I do if NameCheck says the account name doesn’t seem to match the account?
+A name that doesn't match an account can be a sign of a scam . You should speak to the payee to check it's really them requesting the payment and confirm the BSB and account number. Or, there could be a typo - check the BSB and account number you've entered are correct.
+
+## Why do I receive a different NameCheck result for the same account depending on how many zeros I include at start of the account number?
+We will resolve this issue by making an update to NameCheck soon. While it’s important to use exactly 6 digits for BSB numbers, any zeros at the start of an account number don’t make a difference when making payments. If you're confident you've entered the correct BSB and account number, rest assured the payment will go through regardless of how many zeros you include at the start of the account number, as long as the total length is 9 digits or less.
+
+## Where can I find more information about NameCheck for CommBiz ?
+Learn more about NameCheck for CommBiz
+
+## Does  NameCheck apply to all payments made via CommBiz?
+No. In CommBiz, NameCheck will review the bank account details of first-time payees for the following payment types:
+Direct Credit (up to 50 payees)
+Fast Payment (using BSB & account number)
+Manually imported file (Direct Credit payments up to 5,000 payees only)
+
+## More ways to stay safe
+
+## We're here to help
+Message us Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+
+## Message us
+Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+Contact us Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+
+## Contact us
+Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+Report an email or SMS Send us a copy or screenshot if you receive a hoax email or SMS.
+
+## Report an email or SMS
+Send us a copy or screenshot if you receive a hoax email or SMS.

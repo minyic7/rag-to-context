@@ -1,0 +1,49 @@
+URL: https://www.commbank.com.au/brighter/financial-education/latest-scam-tactics.html
+Title: The latest scam tactics to watch out for
+
+Scammers are using AI to impersonate celebrities, generate fake testimonials and create realistic trading platforms.
+Phishing scams intend to deceive you into disclosing sensitive information. A key giveaway is the sense of urgency these messages come with.
+If an online marketplace ad seems to good to be true, it probably is. And be wary of a caller asking you to download an app or program.
+
+## The celebrity crypto ad
+You spot an online ad featuring a well-known Aussie claiming they’ve struck gold with a new crypto investment scheme. The website looks slick, the pitch sounds convincing and the financial gains are “guaranteed”. Sounds intriguing, right? Wrong.
+“That’s red flag number one,” says James Roberts, CommBank’s general manager of group fraud. “Scammers now use AI to impersonate celebrities, generate fake testimonials and create realistic trading platforms to lure you in. They’ll often promise fast returns and no risk and they’ll tell you to act quickly.” Sometimes, they’ll go as far as sending you voice notes from your “broker” and offering you exclusive investment deals. But once you hand over your money, it’s gone.
+
+## “Urgent” messages from trusted brands
+“Phishing is when you get an email or text message pretending to be from a company you trust—like a bank, a delivery service or a ticket seller,” says Roberts. The intention is to deceive you into disclosing sensitive information and the key giveaway is the sense of urgency these fake messages come with.
+“You might get one like: ‘Your package couldn’t be delivered. Click here to update your details immediately.’ It looks legit but it’s a trap,” says Roberts. The link can lead to malware or a fake website capturing payment details and security information. “And just like that, scammers have access to your accounts.”
+
+## Sellers who push to make the sale
+An online marketplace ad captures your attention—it looks convincing, with beautiful photos of limited-edition sneakers at a really low price. That’s your first warning sign. “If it seems too good to be true, it probably is,” says Roberts.
+Scammers on marketplace platforms will often pressure you for payment by stressing that “others are interested”. “It’s a tactic to make you rush,” says Roberts. “But here’s the clincher: they ask for payment by bank transfer or even crypto before you’ve even seen the shoes in person.”
+Often, the sneakers never arrive and you can’t get your money back.
+
+## “Tech support” asking you to download software
+There are cases where someone will call you and say they’re from your bank, telco or a software company. “This may sound legit—polite, professional and even helpful,” says Roberts. “But behind the scenes, it’s likely to be a scam.” The red flag to look out for is if they ask you to download an app or program because they’ve detected a problem with your service.
+“Boom, they’re in. Now they can see everything: your emails, your bank accounts, even your passwords,” says Roberts. Before downloading anything, it’s vital that you reach out to the company directly through a verified phone number or email address from their website or app.
+
+## Watch out for money muling
+Identity theft can be distressing and it’s often just the start. Criminals don’t only use stolen details to buy goods or apply for credit. Increasingly, they open money mule accounts: bank accounts set up in someone else’s name to move stolen money. Because these accounts aren’t credit-based, they don’t show up in credit reports, meaning victims may never know. Sydneysider Heather found out how quickly things can spiral a few weeks after she noticed her letterbox was damaged.
+“I got a bill for four brand-new iPhones delivered to an address I didn’t know and had a meltdown,” she says. Thankfully, quick action with her telco and the police meant the charges were cancelled. Afterwards, Heather signed up to Credit Savvy . “Now I get monthly updates on my credit rating and notifications anytime someone tries to use my name or licence,” she explains. For broader protection, services such as Truyu also help monitor personal information.
+
+## The lesson
+ID theft is often the first step in a scam. Acting fast and using monitoring tools can help stop fraudsters misusing your name, credit or accounts.
+
+## How CommBank and Apate.ai are fighting back
+CommBank has teamed up with Apate.ai, a cyber-intelligence company using AI to beat scammers at their own game.
+Thousands of AI bots pose as real people and waste scammers’ time in fake conversations over phone and text.
+These bots gather insight into scam tactics, which CommBank uses to protect customers and disrupt scams before they cause harm.
+It’s like a sting operation on a massive scale. Every minute a scammer is talking to a bot is a minute they’re not targeting everyday Aussies.
+Apate.ai’s “honey-pot” system uses decoy phone numbers designed to lure scammers into revealing their tricks, without talking to a real person.
+Visit CommBank Safe to learn more.
+To learn more from James about how to identify and avoid common scams, stream The Brighter Side on 10.
+
+## Related articles
+How to better spot and avoid online marketplace scams
+Travel scams to watch out for
+Common social media scams to avoid
+Published: 7 November 2025
+
+## Things you should know
+An earlier version of this article was published in Brighter magazine .
+This article provides general information of an educational nature only. It does not have regard to the financial situation or needs of any reader and must not be relied upon as personal financial product advice. The views expressed by contributors are their own and don’t necessarily reflect the views of CBA. As the information has been provided without considering your objectives, financial situation or needs, you should, before acting on this information, consider what is appropriate for your circumstances, and where appropriate, consider the relevant Target Market Determination, Product Disclosure Statement and Terms and Conditions available on our website. You should also consider whether seeking independent professional legal, tax and financial advice is necessary. Every effort has been taken to ensure the information was correct as at the time of publishing but it may be subject to change. No part of the editorial contents may be reproduced or copied in any form without the prior permission and acknowledgement of CBA.

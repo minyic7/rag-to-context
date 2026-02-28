@@ -1,0 +1,40 @@
+URL: https://www.commbank.com.au/brighter/business-masterclass/AI/lesson-1-4.html
+Title: How to use AI for daily tasks in your business
+
+## AI Masterclass 1.4
+
+## Using AI Daily: What I’ve Learned And How You Can Apply It In Your Business
+Discover what daily use of AI revealed to Ryan Zahrai about how to use AI for business effectively – including early mistakes and lessons learnt.
+Key insights show that AI for business works best when human expertise leads, pain points are clearly defined and adoption is paced.
+Practical takeaways help owners experiment with AI for business, from automating small tasks to pressure-testing new ideas.
+Q: How do you use AI for business effectively?
+A: Daily use of AI for business can uncover quick wins, like automating admin or pressure-testing new ideas, while also highlighting where human expertise still leads. The real lesson? Embracing AI for business is about saving time, reducing stress and creating space to focus on growth.
+How do you create one of the fastest, most nimble law firms around? It was that very question that saw Zed Law founder and principal lawyer Ryan Zahrai deploy an industry-disrupting AI-powered platform where clients can input their legal needs and receive quick responses before lawyers step in for verification.
+The goal was lofty but the process, as Zahrai tells it, was not without its challenges.
+
+## Zahrai’s learnings from adopting AI
+
+## Q: Did you have any hesitations when it came to using AI for business?
+A: As lawyers, we’re naturally trained to be a little risk-averse so there were certainly question marks around “how safe is the data we’ve injected into this platform?” We’ve had to be very careful – even from the perspective of using it as a tool to provide a friction point or a healthy kind of sparring partner for idea generation.
+
+## Q: Was it smooth sailing from the get-go?
+A: Not at all. Our AI race was initially driven by FOMO – that sense of “If we don’t do this, someone else will do it before us” but we should have clearly defined our desired outcomes and why we were adopting AI in the first place. The lack of early clarity led to a technical migration from suite to suite, which cost us a lot of money and took nine months to reverse.
+
+## Q: What are your key lessons learnt about AI use in business?
+A: Don’t be intimated or second-guess yourself on account of what AI has produced. Remember, humans still exercise an expertise that AI can’t match (five years of law school doesn’t mean nothing). Secondly, if you’re going to onboard AI for business, first understand what the pain point of your business that you’re trying to address is.
+Finally, remember that the world of AI is ever-changing and in six months the terrain will be unrecognisable so don’t rush to deploy. Keep yourself up to date but take time to think about ways to optimise your business before digging in.
+
+## Q: What’s one piece of practical advice you want every business owner to know?
+A: Start simple. Don’t try to transform your whole business overnight. I suggest everyone get comfortable with creating their own personalised GPTs: give it a personality and ask it to intentionally challenge any ideas you put to it. That’s when you can derive real value from AI’s responses, as opposed to it being an echo chamber.
+
+## Takeaway tasks you can try today:
+Map out one process in your business that’s slow or repetitive. Test an AI tool to handle it.
+Write a risky idea down then feed it to AI to see where it pokes holes.
+Experiment with a custom persona (marketing buddy, operations coach, idea challenger) and track what works.
+
+## Congratulations, you’ve completed this module!
+Explore AI lessons in CommBank Business Masterclass today.
+
+## Things you should know
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.

@@ -1,0 +1,78 @@
+URL: https://www.commbank.com.au/support/security/digital-wallet-scams.html
+Title: Digital wallet scams: How to protect yourself
+
+## What are digital wallet scams?
+Digital wallet scams occur when you are contacted, usually by SMS or email, asking for personal information. It may look like it has come from a trusted company such as a bank, telco or government agency tricking you into taking a specific action which includes sharing card and one-time passwords. It may ask you to click on a link directing you to a scammer’s website that looks like a genuine website or asks you to enter your card details which results in a NetCode being generated. Then you are tricked into sharing this confidential information like a NetCode. By sharing both your card details and the code, the scammer can enter your card details into a digital wallet on another phone, tablet or watch. This allows the scammer to start spending on your card.
+Digital wallet scams occur when you are contacted, usually by SMS or email, asking for personal information. It may look like it has come from a trusted company such as a bank, telco or government agency tricking you into taking a specific action which includes sharing card and one-time passwords.
+It may ask you to click on a link directing you to a scammer’s website that looks like a genuine website or asks you to enter your card details which results in a NetCode being generated. Then you are tricked into sharing this confidential information like a NetCode.
+By sharing both your card details and the code, the scammer can enter your card details into a digital wallet on another phone, tablet or watch. This allows the scammer to start spending on your card.
+
+## Don’t be a victim of a digital wallet scam
+Learn how to protect yourself.
+Learn how to protect yourself.
+
+## Don’t be a victim of a digital wallet scam
+Learn how to protect yourself.
+Learn how to protect yourself.
+
+## Tips to keep your digital wallet safe
+
+## Check your digital wallet
+In an Australian major bank first, the new Review digital wallets feature in the CommBank app provides a convenient way to view and delete digital wallets which have your debit or credit card in it. If you notice any suspicious activity on your accounts, you can help secure your money by deregistering any digital wallets that you don’t recognise. Find your digital wallet check feature under card settings in the CommBank app.
+In an Australian major bank first, the new Review digital wallets feature in the CommBank app provides a convenient way to view and delete digital wallets which have your debit or credit card in it. If you notice any suspicious activity on your accounts, you can help secure your money by deregistering any digital wallets that you don’t recognise. Find your digital wallet check feature under card settings in the CommBank app.
+
+## Guarding your login
+Never share your login details, PINs or NetCodes with anyone, even someone claiming to be from the bank.
+Never share your login details, PINs or NetCodes with anyone, even someone claiming to be from the bank.
+
+## Use strong passwords or biometrics
+You can help ensure your mobile device is protected with a strong password, PIN or biometric authentication such as fingerprint or facial recognition. This adds an extra layer of protection if your device is lost or stolen.
+You can help ensure your mobile device is protected with a strong password, PIN or biometric authentication such as fingerprint or facial recognition. This adds an extra layer of protection if your device is lost or stolen.
+
+## Stay vigilant
+Always question any email or SMS that has a link, even messages from familiar companies under the same contact or message thread. Scammers use clever tactics to trick you into clicking on links and providing personal details, so take your time to review the message.
+Always question any email or SMS that has a link, even messages from familiar companies under the same contact or message thread. Scammers use clever tactics to trick you into clicking on links and providing personal details, so take your time to review the message.
+
+## Check your digital wallet
+What you’ll need Download the latest version of the CommBank app. Review your digital wallet in a few easy steps and watch this video To start, tap Cards on the home screen of the CommBank app Tap Go to card settings Tap Review digital wallets Check your list of digital wallets Tap delete to remove any digital wallets you don’t need or recognise
+Download the latest version of the CommBank app.
+Review your digital wallet in a few easy steps and watch this video To start, tap Cards on the home screen of the CommBank app Tap Go to card settings Tap Review digital wallets Check your list of digital wallets Tap delete to remove any digital wallets you don’t need or recognise
+Review your digital wallet in a few easy steps and watch this video
+To start, tap Cards on the home screen of the CommBank app
+Tap Go to card settings
+Tap Review digital wallets
+Check your list of digital wallets
+Tap delete to remove any digital wallets you don’t need or recognise
+
+## Think you've been scammed?
+Message us immediately if you're worried about the security of your account. Our virtual assistant Ceba can help you lock your card or securely connect you to a specialist.
+
+## Been scammed? What next?
+Get in touch If you (or someone you know) is a CommBank customer and has been targeted or lost money as a result of being scammed, contact us . Report it Report the scam via the Australian Cyber Security Centre . Reports may be referred to the police for possible investigation. Take control and stay protected Change your passwords and PINs straight away if you suspect your security has been compromised. Change these regularly as a preventative measure. Seek support Contact IDCARE on 1800 595 160 . IDCARE is a free, government-funded service that provides support to victims of identity crime. Visit the ScamWatch website for more information on scams.
+
+## Get in touch
+If you (or someone you know) is a CommBank customer and has been targeted or lost money as a result of being scammed, contact us .
+
+## Report it
+Report the scam via the Australian Cyber Security Centre . Reports may be referred to the police for possible investigation.
+
+## Take control and stay protected
+Change your passwords and PINs straight away if you suspect your security has been compromised. Change these regularly as a preventative measure.
+
+## Seek support
+Contact IDCARE on 1800 595 160 . IDCARE is a free, government-funded service that provides support to victims of identity crime.
+Visit the ScamWatch website for more information on scams.
+
+## We're here to help
+Message us Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+
+## Message us
+Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+Contact us Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+
+## Contact us
+Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+Report an email or SMS Send us a copy or screenshot if you receive a hoax email or SMS.
+
+## Report an email or SMS
+Send us a copy or screenshot if you receive a hoax email or SMS.

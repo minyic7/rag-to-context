@@ -1,0 +1,106 @@
+URL: https://www.commbank.com.au/business/online-banking/commbiz/commbiz-mobile.html
+Title: CommBiz Mobile - CommBank
+
+## Simple, secure & intuitive
+We've redesigned CommBiz Mobile with:
+Smoother payment authorisations
+Faster, PIN-based log on
+Advanced security & fraud detection
+
+## Authorisations made simple
+No need to enter your PIN and password for payments less than $500,000
+Select and authorise multiple payments
+
+## Sophisticated security
+Built-in fraud detection and multi-factor authentication for high-value payments.
+
+## Do your business banking on the go
+Quick search for your accounts
+View balances at a glance
+Browse transaction history
+Group favourite accounts
+Urgent payments display top of screen
+
+## You asked, we listened
+Each new feature was developed in collaboration with CommBiz customers.
+Each new feature was developed in collaboration with CommBiz customers.
+
+## Modern design
+Streamlined navigation makes it faster to find and complete key tasks.
+
+## Simplified keyboard
+Previous keyboard replaced with your built-in iPhone or Android keyboard.
+
+## Seamless connection
+Use CommBiz on your desktop and mobile at the same time.
+
+## Notification control
+Pause eToken reminders for up to 30 days.
+
+## Coming soon in 2026
+Allow users with merged profiles to register. Log on securely using Face ID or your fingerprint. Got feedback? If you have feedback on the new CommBiz Mobile, or want to share what you’d like to see next, email us at [email protected]
+Allow users with merged profiles to register.
+Log on securely using Face ID or your fingerprint.
+Got feedback? If you have feedback on the new CommBiz Mobile, or want to share what you’d like to see next, email us at [email protected]
+
+## Got feedback?
+If you have feedback on the new CommBiz Mobile, or want to share what you’d like to see next, email us at [email protected]
+
+## Frequently asked questions
+
+## How do I get started with CommBiz Mobile?
+You need to be personally identified as a CommBiz user before you can use the app (your Administrator can set this up for you)
+Download the app from the App Store or Google Play. Each user can register 1 device, such as an iPhone or Android mobile.
+Activate the app to make it fully secure. You’ll need to enter a NetCode and accept the Terms and Conditions.
+The new app version will be rolled out gradually on the App Store and Google Play from July 2025, so not everyone will have access to it at the same time.
+If you have automatic updates turned on, you won’t have to do anything. Your CommBiz Mobile app will update automatically.
+
+## Will the new CommBiz Mobile work if I have an older phone?
+To use the new CommBiz Mobile, your phone must meet the minimum operating system requirements:
+Apple iOS 16 or later
+If your device can’t be updated, you won't be able to use CommBiz Mobile as the current app will no longer be available.
+You can continue to use CommBiz on your desktop, but you’ll need to ask your Administrator to order you a physical token.
+
+## Can I use the new CommBiz Mobile if I have a physical token and eToken is disabled on my service?
+If you currently use a physical token, you’ll need to switch to eToken to continue using the mobile app.
+If eToken is disabled on your CommBiz service, the error message ‘Your service is not eToken enabled’ will show during CommBiz Mobile registration and you won't be able to continue.
+To enable eToken, an Administrator will need to call us on 13 2339.
+
+## What if I’m locked out of my CommBiz service?
+If you have a physical token and your account is locked or expired: You can still use My Security Centre in CommBiz to unlock your account without logging on.
+If you have eToken and your account is locked or expired: You need to log on to access eToken in the new CommBiz Mobile. This means if your account is locked or expired, you can't access eToken to unlock it yourself. Contact your Administrator to unlock your account. They can either: Use the unlock functionality in CommBiz (without resetting your password) Reset your password and provide a temporary one for you to log on with
+If you're a CommBiz Administrator and your account is locked: Unlock your account from My Security Centre in CommBiz if you have a physical token. If you're the only Administrator, you’ll need to call us on 13 2339. eToken user guide
+
+## Can I register for the new CommBiz Mobile if I’m overseas?
+To access the new experience, you'll be sent a NetCode by SMS. If you're using an international number, you may not receive it. We suggest you:
+Confirm the mobile number on your user profile is correct
+Ask your Administrator to order you a physical token
+This could take up to 3 weeks to arrive, so make sure to plan ahead.
+
+## Can I go back to the old version of CommBiz Mobile?
+No, once you upgrade to the new version you can’t go back.
+
+## Can I use CommBiz Mobile if I have multiple CommBiz services?
+This feature is coming soon.
+
+## I'm an Administrator. What happens if I opt in or opt out of CommBiz Mobile?
+When you opt in for CommBiz Mobile, all users will get access.
+If you opt out of CommBiz Mobile, it gets cancelled overnight and all users will be notified in CommBiz.
+Note: Opting in or out of CommBiz Mobile won't change user permissions or CommBiz settings.
+
+## Download the new CommBiz Mobile
+
+## We can help
+Message us in CommBiz, Mon–Fri, 7am–7pm (Syd/Melb time)
+Message us in CommBiz, Mon–Fri, 7am–7pm (Syd/Melb time)
+Message us in the CommBank app
+Message us in the CommBank app
+Call the CommBiz helpdesk on 13 2339
+Call the CommBiz helpdesk on 13 2339
+
+## Things you should know
+Apple, the Apple logo, iPhone and iPad are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Google Play and Android are trademarks of Google Inc. As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on this advice, consider its appropriateness to your circumstances. You must be registered for CommBiz and be identified to be able to use CommBiz Mobile. For optimum experience you need a compatible Apple device running iOS version 16 or above and Android device running version 8.0 or above. View our CommBiz Terms and Conditions and Financial Services Guide . View our Privacy Policy .
+Apple, the Apple logo, iPhone and iPad are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+Google Play and Android are trademarks of Google Inc.
+As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on this advice, consider its appropriateness to your circumstances. You must be registered for CommBiz and be identified to be able to use CommBiz Mobile. For optimum experience you need a compatible Apple device running iOS version 16 or above and Android device running version 8.0 or above. View our CommBiz Terms and Conditions and Financial Services Guide .
+View our Privacy Policy .

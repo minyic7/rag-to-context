@@ -1,0 +1,131 @@
+URL: https://www.commbank.com.au/business/payments/take-online-payments/commweb-payment-gateway.html
+Title: CommWeb
+
+## Customise the payment experience
+Integrate with your existing payment pages or you can use ours
+Flexible options for easy integration, with hosted checkout, hosted lightbox, hosted session and direct payment via API
+Access a full software development kit
+Get specialist technical support when you need it
+
+## Stay protected even with high transaction volumes
+We'll keep your transactions secure with:
+The option to build your own fraud rules to help manage risk
+Tokenisation for the secure storage of customer card details
+PCI compliant facilities
+AI that monitors and asseses transactions in real-time
+EMV 3D Secure verification to authenticate your cardholders and reduce fraud
+
+## Enjoy big benefits from Australia's largest bank
+Same day settlement 1 into your CommBank Business Transaction Account, 2 to help with cash flow management
+Compatibility to accept digital wallet payments and most major card types
+An easy-to-use merchant portal to search transactions, run reports, configure user accounts and manage your risk settings
+
+## Pricing
+Custom pricing – your Relationship Manager will talk you through the fees and costs.
+Custom pricing – your Relationship Manager will talk you through the fees and costs.
+
+## Get started
+Please contact your Relationship Manager - they can help confirm that CommWeb is right for you and walk you through the application process. If you don't have a Relationship Manager, we'd still love to hear from you. Call 1800 730 554 to speak directly with an eCommerce specialist.
+Please contact your Relationship Manager - they can help confirm that CommWeb is right for you and walk you through the application process.
+If you don't have a Relationship Manager, we'd still love to hear from you. Call 1800 730 554 to speak directly with an eCommerce specialist.
+
+## Our payment solutions
+
+## CommWeb
+A sophisticated and highly customisable payment gateway. Popular with medium to large businesses.
+
+## Features
+Yes Direct payments via API
+Direct payments via API
+Yes Shopping cart plug-in
+Shopping cart plug-in
+Yes Virtual terminal (MOTO)
+Virtual terminal (MOTO)
+Yes Digital wallets 4
+No Manage store via app
+No Billing & recurring payments
+Billing & recurring payments
+No Alternative Payment Methods
+Alternative Payment Methods
+
+## BPOINT
+A flexible payment gateway with a range of checkout options. Popular with businesses that have complex needs around recurring payments.
+
+## Features
+Yes Direct payments via API
+Direct payments via API
+Yes Shopping cart plug-in
+Shopping cart plug-in
+Yes Virtual terminal (MOTO)
+Virtual terminal (MOTO)
+Yes Digital wallets 3
+Yes Manage store via app
+Yes Billing & recurring payments
+Billing & recurring payments
+Yes Alternative Payment Methods
+Alternative Payment Methods
+
+## PowerBoard
+An eCommerce solution delivering payment choice, operational efficiency and security via a single API integration.
+
+## Features
+Yes Direct payments via API
+Direct payments via API
+Yes Shopping cart plug-in
+Shopping cart plug-in
+Yes Virtual terminal (MOTO)
+Virtual terminal (MOTO)
+Yes Digital wallets 5
+No Manage store via app
+Yes Billing & recurring payments
+Billing & recurring payments
+Yes Alternative Payment Methods
+Alternative Payment Methods
+
+## Developers
+
+## Frequently asked questions
+
+## What's the difference between CommWeb's integration options?
+The cardholder is redirected to CommWeb payment page to enter their card details
+The CommBank logo can be added to the page to provide customers with peace-of-mind around authenticity of the transaction
+The payment page is presented as a lightbox over your website
+CommBank logo can be added to the page to provide customers with peace-of-mind around authenticity of the transaction
+The cardholder will stay on your website while completing the payment
+Any customer sensitive data is passed securely through the payment gateway
+Direct payment via API
+The cardholder will stay on your website
+You retain full control over the experience and are required to collect the card details
+
+## How does EMV 3D Secure work?
+EMV 3D Secure (3DS 2.0) checks a number of data points to identify and authenticate customers. Based on the calculated transaction risk, the cardholder may be prompted to verify their ID eg. with a one-time password or biometric authentication.
+
+## What are the eligible shopping carts for CommWeb?
+CommWeb integrates with Magento, WooCommerce, OpenCart and many others – please contact your Relationship manager to discuss.
+
+## How can I access the developer guide?
+Access CommWeb developer guide
+
+## What payment options are available on CommWeb?
+We accept online payments from major card types, including:
+Mastercard®, VISA®, Amex®, JCB® and Union Pay®
+Credit, scheme debit and prepaid cards
+Digital wallet payments e.g. Apple Pay and Google Pay
+
+## We can help
+
+## We can help
+Merchant support & FAQs
+Merchant support & FAQs
+Message us in the CommBank app
+Message us in the CommBank app
+
+## Things you should know
+As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances. Please view our Merchant Agreement , Financial Services Guide and Operator and User Guides at our merchant support hub. Applications for a merchant facility are subject to the Bank’s approval. View our Merchant Agreement , and further information available at our merchant support hub. 1 Same day settlement available to eligible customers with a Commonwealth Bank Business Transaction Account and a linked Commonwealth Bank merchant facility. ‘Same day’ includes all card sales before 5.30 pm (Sydney/Melbourne time). 2 A Business Transaction Account is required to settle your transactions, if you apply online through NetBank. You can choose to settle your transactions to an alternate account held with us or another financial service provider by calling our Merchant Payment Solutions team on 1800 730 554 , any time after your application is finalised. The information on this website has been prepared without considering your objectives, financial situation or needs. Because of that, you should, before acting on the information, consider its appropriateness to your circumstances. Terms, conditions, fees and charges apply to Business Transaction Accounts and NetBank. Read the Terms and Conditions for Business Transaction and Savings Accounts and the Electronic Banking Terms and Conditions (PDF) and consider whether these products are right for you. The target market for this product can be found within the product’s Target Market Determination . 3 Apple Pay only. 4 Apple Pay and Google Pay™. Google Pay™ is currently available for Android running 5.0 (Lollipop) or higher with a Near Field Communication (NFC) antenna and Host Card Emulation (HCE) support. Full terms and conditions available on the Google Pay™ app. 5 Includes Apple Pay and Google Pay™. In order to set up digital wallets on PowerBoard, you will need existing credentials with the relevant service provider. Google Pay™ is currently available for Android running 5.0 (Lollipop) or higher with a Near Field Communication (NFC) antenna and Host Card Emulation (HCE) support. Full terms and conditions available on the Google Pay™ app. American Express is a trademark of American Express. JCB is a registered trademark of JCB Co. Ltd. Mastercard is a registered trademark of Mastercard International Incorporated. Visa is a registered trademark of Visa International Service Association. Google, Google Pay and related marks and logos are trademarks of Google LLC. Apple, the Apple logo and Apple Pay are trademarks of Apple Inc., registered in the U.S. and other countries. Afterpay and the related service mark and logo are registered and unregistered trademarks of Afterpay Australia Pty Ltd. PayPal and the PayPal logo are trademarks of PayPal Inc.
+As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances. Please view our Merchant Agreement , Financial Services Guide and Operator and User Guides at our merchant support hub.
+Applications for a merchant facility are subject to the Bank’s approval. View our Merchant Agreement , and further information available at our merchant support hub.
+1 Same day settlement available to eligible customers with a Commonwealth Bank Business Transaction Account and a linked Commonwealth Bank merchant facility. ‘Same day’ includes all card sales before 5.30 pm (Sydney/Melbourne time).
+2 A Business Transaction Account is required to settle your transactions, if you apply online through NetBank. You can choose to settle your transactions to an alternate account held with us or another financial service provider by calling our Merchant Payment Solutions team on 1800 730 554 , any time after your application is finalised. The information on this website has been prepared without considering your objectives, financial situation or needs. Because of that, you should, before acting on the information, consider its appropriateness to your circumstances. Terms, conditions, fees and charges apply to Business Transaction Accounts and NetBank. Read the Terms and Conditions for Business Transaction and Savings Accounts and the Electronic Banking Terms and Conditions (PDF) and consider whether these products are right for you. The target market for this product can be found within the product’s Target Market Determination .
+4 Apple Pay and Google Pay™. Google Pay™ is currently available for Android running 5.0 (Lollipop) or higher with a Near Field Communication (NFC) antenna and Host Card Emulation (HCE) support. Full terms and conditions available on the Google Pay™ app.
+5 Includes Apple Pay and Google Pay™. In order to set up digital wallets on PowerBoard, you will need existing credentials with the relevant service provider. Google Pay™ is currently available for Android running 5.0 (Lollipop) or higher with a Near Field Communication (NFC) antenna and Host Card Emulation (HCE) support. Full terms and conditions available on the Google Pay™ app.
+American Express is a trademark of American Express. JCB is a registered trademark of JCB Co. Ltd. Mastercard is a registered trademark of Mastercard International Incorporated. Visa is a registered trademark of Visa International Service Association. Google, Google Pay and related marks and logos are trademarks of Google LLC. Apple, the Apple logo and Apple Pay are trademarks of Apple Inc., registered in the U.S. and other countries. Afterpay and the related service mark and logo are registered and unregistered trademarks of Afterpay Australia Pty Ltd. PayPal and the PayPal logo are trademarks of PayPal Inc.

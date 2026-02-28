@@ -1,0 +1,33 @@
+URL: https://www.commbank.com.au/institutional/commbankiq/privacy.html
+Title: CommBank iQ privacy approach - CommBank
+
+## About CommBank iQ
+CommBank iQ is a joint venture between the Commonwealth Bank and Quantium. Insights are provided to businesses and governments by analysing Commonwealth Bank de-identified customer demographic profile information, transaction information, loan and repayment information (including security information), loan application information and savings information.
+CommBank iQ is a joint venture between the Commonwealth Bank and Quantium. Insights are provided to businesses and governments by analysing Commonwealth Bank de-identified customer demographic profile information, transaction information, loan and repayment information (including security information), loan application information and savings information.
+
+## You & your privacy
+The security of our customers’ personal information is extremely important to us. To protect your privacy, we take the following steps to de-identify customer data:
+1. Replace information that could identify you with alphanumeric strings
+2. Alter other information that could be used to identify you
+3. Run tests on the data to ensure it has been de-identified in this way
+This process is shown in the diagram.
+
+## What happens next?
+The de-identified dataset is then used to provide insights to businesses and governments. Examples of the types of insights include: Market share in their industry Trends on spending behaviour of customers (for example, if spend on travel is increasing or decreasing compared with spend on entertainment) General characteristics of groups of customers (for example, by age, income bracket or location) Spending behaviour based on brands of goods or services purchased (for example, people who ski are likely to spend less on entertainment) Impact of governments policies on the demographics of the population High-level economic and social insights. We also help businesses to refine their customer marketing and targeting strategies .
+The de-identified dataset is then used to provide insights to businesses and governments. Examples of the types of insights include:
+Market share in their industry
+Trends on spending behaviour of customers (for example, if spend on travel is increasing or decreasing compared with spend on entertainment)
+General characteristics of groups of customers (for example, by age, income bracket or location)
+Spending behaviour based on brands of goods or services purchased (for example, people who ski are likely to spend less on entertainment)
+Impact of governments policies on the demographics of the population
+High-level economic and social insights.
+We also help businesses to refine their customer marketing and targeting strategies .
+
+## Australians in their early thirties and renters feeling most pressure from rising cost of living
+New CommBank iQ Cost of Living Insights Report uses bank transaction data to provide business customers with powerful insights into changes in consumer spending.
+
+## Things you should know
+About CommBank iQ CommBank iQ is a joint venture between Commonwealth Bank of Australia ABN 48 123 123 124 (Commonwealth Bank) and The Quantium Group Pty Ltd, designed to give businesses and institutions the power of Australia’s largest de-identified banking dataset, unlocked by leading analytics and artificial intelligence. This unique partnership enables businesses and institutions to understand and predict the needs of Australians like never before. Visit: commbank.com.au/commbankiq
+
+## About CommBank iQ
+CommBank iQ is a joint venture between Commonwealth Bank of Australia ABN 48 123 123 124 (Commonwealth Bank) and The Quantium Group Pty Ltd, designed to give businesses and institutions the power of Australia’s largest de-identified banking dataset, unlocked by leading analytics and artificial intelligence. This unique partnership enables businesses and institutions to understand and predict the needs of Australians like never before. Visit: commbank.com.au/commbankiq

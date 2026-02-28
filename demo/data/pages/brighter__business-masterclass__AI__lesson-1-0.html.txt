@@ -1,0 +1,36 @@
+URL: https://www.commbank.com.au/brighter/business-masterclass/AI/lesson-1-0.html
+Title: AI readiness: How to prepare your business for AI
+
+## AI Masterclass 1.0
+
+## AI readiness: How To Prepare Your Business For AI
+AI in business is no longer unconventional. In fact, it can give you a competitive edge.
+A quick self-audit can help identify where AI tools for business could make the biggest impact.
+From ecommerce to real estate and trades, businesses are already using AI to boost efficiency and growth.
+Q: What does it mean for a business to be AI-ready?
+A: Being AI-ready means knowing where AI can save time, having clean data and having the confidence to use tools responsibly. With those foundations, AI becomes a powerful advantage for growth.
+If there’s one thing Tariq Scherer - Data Science and AI at CommBank - wants you to know, it’s this: AI in business isn’t just the future, it’s here now. And no matter the kind of industry you’re in, there’s a chance certain AI tools for business are already reshaping your work.
+From real estate agents analysing market trends to tradies automating quotes, Scherer has no shortage of examples of the ways businesses are making the leap into AI. His key takeaway? AI for business is no longer a “nice to have” but a useful asset that can move you ahead of the pack. “Businesses adopting AI aren’t just keeping up, they’re creating opportunities to move ahead and that’s where you want to be,” he says.
+Before you throw money at the latest platform, however, it’s worth asking yourself: is your business really ready for AI solutions?
+
+## The AI readiness checklist
+Assess your readiness by considering the following questions:
+Bottlenecks: Do you know which tasks chew up time and could be automated? Scherer recommends creating a list of your top five time-wasters and asking a generative AI tool, such as CoPilot or Gemini , for help on how to save time.
+Peers: How are AI solutions currently being used in your industry and are you comfortable with that? In ecommerce, for example, AI is commonly used to generate posts and respond to customer queries.
+Data: Is your customer or sales data organised enough for AI to learn from?
+Skills: Do you (or your team) have the confidence to experiment with generative AI or large language models?
+Ethics: Do you have a process to fact-check and use AI responsibly? “If customers are giving you private information, it’s important to ask yourself whether you’re comfortable releasing that to these platforms and whether you have a contractual agreement to support it,” explains Scherer.
+If you’ve ticked yes to most of these points, you’re in a strong position to explore AI tools for business.
+
+## How can I build confidence in using AI for business?
+Just 15 minutes of your time can make a big difference to building your AI confidence, says Scherer. He suggests using this time to research how AI is being used in your particular industry but also to run a quick audit on your business’s pain points by sharing detailed context with the tool.
+He stresses, however, that it’s important to still be mindful of what you share. Avoid inputting sensitive or proprietary business information, as many generative AI tools operate in open environments where that data may not remain private.
+“With that context, you can trigger AI to take on a role, take on a persona and potentially provide you with free market research. You’d be surprised what you can do and it’s a safe way to experiment.”
+
+## Congratulations, you’ve completed this lesson!
+Next lesson: 1.1 - 10 real-world ways businesses are saving time with AI
+Explore AI lessons in CommBank Business Masterclass today.
+
+## Things you should know
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.

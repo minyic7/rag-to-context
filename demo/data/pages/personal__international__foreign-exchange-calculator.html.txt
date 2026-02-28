@@ -1,0 +1,162 @@
+URL: https://www.commbank.com.au/personal/international/foreign-exchange-calculator.html
+Title: Currency Converter - Foreign Exchange Calculator - CommBank
+
+## I want to
+
+## Convert
+
+## Into
+
+## Exchange rate:1 {{srcCountry}} = {{conversionRate | currencyFilter : 5}} {{targetCountry}}
+
+## Transfer fee:{{cbaFee}} AUD
+
+## Total (You pay):{{totalFee}} {{srcCountry}}
+
+## :{{cbaFee}} AUD
+
+## :{{totalFee}} {{srcCountry}}
+
+## :{{cbaFee}} AUD
+
+## :{{totalFee}} {{srcCountry}}
+
+## :{{cbaFee}} AUD
+
+## :{{totalFee}} {{srcCountry}}
+
+## Transaction fee:{{cbaFee}} AUD
+
+## Total (You pay):{{totalFee}} {{srcCountry}}
+
+## Transaction fee:{{cbaFee}} AUD
+
+## Total:{{totalFee}} {{srcCountry}}
+
+## :{{cbaFee}} AUD
+
+## :{{totalFee}} {{srcCountry}}
+
+## Transfer fee:{{cbaChangeFee}} {{targetCountry}}
+
+## Total (You pay):{{cbaChangeTotal}} {{targetCountry}}
+
+## :{{cbaChangeFee}} {{targetCountry}}
+
+## :{{cbaChangeTotal}} {{targetCountry}}
+
+## :{{cbaChangeFee}} {{targetCountry}}
+
+## :{{cbaChangeTotal}} {{targetCountry}}
+
+## :{{cbaChangeFee}} {{targetCountry}}
+
+## :{{cbaChangeTotal}} {{targetCountry}}
+
+## Transaction fee:{{cbaChangeFee}} {{targetCountry}}
+
+## Total (You pay):{{cbaChangeTotal}} {{targetCountry}}
+
+## Transaction fee:{{cbaChangeFee}} {{targetCountry}}
+
+## Total:{{cbaChangeTotal}} {{targetCountry}}
+
+## :{{cbaChangeFee}} {{targetCountry}}
+
+## :{{cbaChangeTotal}} {{targetCountry}}
+
+## Transfer fee:{{cbaChangeFeeConvert}} {{srcCountry}}
+
+## Total (You pay):{{cbaChangeTotal}} {{srcCountry}}
+
+## :{{cbaChangeFeeConvert}} {{srcCountry}}
+
+## :{{cbaChangeTotal}} {{srcCountry}}
+
+## :{{cbaChangeFeeConvert}} {{srcCountry}}
+
+## :{{cbaChangeTotal}} {{srcCountry}}
+
+## :{{cbaChangeFeeConvert}} {{srcCountry}}
+
+## :{{cbaChangeTotal}} {{srcCountry}}
+
+## Transaction fee:{{cbaChangeFeeConvert}} {{srcCountry}}
+
+## Total (You pay):{{cbaChangeTotal}} {{srcCountry}}
+
+## Transaction fee:{{cbaChangeFeeConvert}} {{srcCountry}}
+
+## Total:{{cbaChangeTotal}} {{srcCountry}}
+
+## :{{cbaChangeFeeConvert}} {{srcCountry}}
+
+## :{{cbaChangeTotal}} {{srcCountry}}
+
+## Send money overseas
+Send in foreign currency and lock in the exchange rate Discover how
+Send in foreign currency and lock in the exchange rate
+
+## Receive money
+An International Money Transfer is a convenient and secure way for you to receive money from overseas.
+An International Money Transfer is a convenient and secure way for you to receive money from overseas.
+
+## It's quick and easy
+Lock in the exchange rate with a Travel Money Card and load up to 13 currencies in real time.
+Lock in the exchange rate with a Travel Money Card and load up to 13 currencies in real time.
+
+## It's quick and easy
+Lock in the exchange rate with a Travel Money Card and load up to 13 currencies in real time.
+Lock in the exchange rate with a Travel Money Card and load up to 13 currencies in real time.
+
+## Before you travel
+Be prepared with foreign cash for your next trip.
+Be prepared with foreign cash for your next trip.
+
+## Have leftover currency?
+Convert foreign cash back to AUD when you return from your trip.
+Convert foreign cash back to AUD when you return from your trip.
+
+## How do I transfer money?
+You can transfer money between your Foreign Currency Accounts at any time using NetBank.
+You can transfer money between your Foreign Currency Accounts at any time using NetBank.
+Rates are current as at {{timeStamp}}. More about fees .
+NetBank and CommBank app IMT transfers only When you send money overseas using NetBank or the CommBank app, we’ll waive the transfer fee (excludes AUD to AUD). Other fees apply for other IMTs.
+Correspondent bank fees for transfers We’ll pay any correspondent bank fees when you send an IMT in any currency, as long as the originating account currency is different to the payment currency.
+Beneficiary bank fees Fees charged by the beneficiary bank may still be deducted from the funds received by the recipient.
+
+## Relatedproducts
+
+## Travel Money Card
+Lock in the exchange rate for up to 16 using a reloadable prepaid card and access your money securely in-store, online and over the phone.
+
+## Foreign Cash
+Be prepared with Foreign Cash for your next trip. Buy in selected branches.
+
+## International Money Transfer
+Send money to over 200 countries using NetBank and the CommBank app. It's easy and secure.
+
+## Learn more about foreign exchange
+
+## A guide to currency exchange rates
+
+## How to use a Travel Money Card
+
+## Travelling overseas: Travel Wallet Checklist
+
+## How to receive a payment from overseas
+
+## Talk to us
+
+## Call the Travel Money Customer Service Centre at any time
+
+## Your questions answered
+
+## Visit us
+Things you should know
+The rates quoted above are indicative only and may not reflect the specific rate that will apply to you or your transaction. Rates are subject to change at the Bank's discretion. You should confirm the latest situation with the Bank prior to making a decision.
+Rates and other terms:
+Transaction limits apply. See the Electronic Banking Terms & Conditions .
+The advertised retail exchange rate includes a margin.
+The information quoted above is indicative only and will be confirmed at the time of transaction.
+Currencies available to buy in branch are USD, EUR, GBP, NZD, JPY, CAD, SGD, HKD and CNY.

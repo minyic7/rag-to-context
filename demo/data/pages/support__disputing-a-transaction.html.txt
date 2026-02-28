@@ -1,0 +1,210 @@
+URL: http://www.commbank.com.au/support/disputing-a-transaction.html
+Title: Disputing a Transaction - CommBank
+
+## Before you raise a dispute
+Investigate the transaction • Log on to the CommBank app and tap on the transaction to see the merchant details • Ask family members or kids (especially for app/game purchases) • Check your Apple or Google account for matching charges. If it looks familiar, it may be authorised.
+Contact the merchant (if applicable) • For authorised transactions, try contacting the merchant first before raising a dispute with us. If you skip this step, we may not be able to help you with your dispute.
+Choose the right dispute type • Use our guide to match your situation with the correct dispute type. This will ensure the assessment is correct and there are no delays with your case.
+Prepare supporting documents • For authorised disputes, you may need evidence to support your claim (e.g. receipts, emails, photographs) • After submitting your dispute, you’ll receive a case number via email. Reply to this email with your documents.
+For unauthorised transactions , we'll have to cancel and replace your card to protect your account from further fraudulent activity. But don’t worry, you’ll still be able to make purchases using your digital card in the CommBank app.
+
+## Keep your account safe
+For extra control and security, put a temporary lock 1 on your debit card or credit card . For Corporate Cards, call 13 1576 for Australian based support 24/7.
+To continue making payments while you wait for a new card, you can use your digital card straight away, before your physical card arrives in the mail. If you’re already set up with a digital wallet, you can still use your phone to make payments securely. 2 It’s a good idea to review your digital wallets and delete any cards you don’t recognise or no longer use. Log on to the CommBank app, tap “Cards”, then “Card settings” and “Review digital wallets”.
+If you have an Everyday Transaction Account, you can also withdraw cash using QR Cardless - the safe way to make transactions without a card or PIN, using the CommBank app at compatible CommBank ATMs.
+
+## Disputes guide
+
+## Don’t recognise or didn’t authorise a transaction
+When to choose this dispute type
+A transaction has been made using your card without your knowledge, or the knowledge of anyone who has access to your card.
+Free trials that you signed up to and now being charged a fee should be disputed under ‘Periodical payment’ (see below for eligibility criteria)
+What you’ll need to do first
+- Log on to the CommBank app, tap on the transaction to see the merchant details
+- Ask family members or kids (especially for app/game purchases)
+- Check your Apple or Google account for matching charges. If it looks familiar, it may be authorised.
+- If you’ve confirmed this is an unauthorised transaction, you’ll need report your card as lost/stolen. We’ll cancel your card and replace it with a new one
+Documents/information required
+
+## Goods or service not received
+When to choose this dispute type
+You made a transaction, but the merchant hasn’t delivered the goods/service on the specified date or not provided confirmation when you’ll receive the items.
+We’re not able to dispute a transaction for a future dated event/delivery date, unless you have documentation from the merchant confirming that they’ll no longer be able to provide the goods/service.
+Note: if the merchant has offered a resolution or replacement, we may not be able to dispute the transaction.
+What you’ll need to do first
+- Wait a few days after the expected delivery date, to allow for any delay in postal services.
+- If there isn’t an expected delivery date in your order, you’ll need to wait at least 15 business days from the time of transaction before raising a dispute.
+- Always contact the merchant first to resolve the matter. Allow up to 10 business days for a response.
+- If available, raise a dispute directly through the merchant’s process.
+Documents/information required
+- In the dispute questionnaire, add as much detail of the purchase as possible (including good/service type, sizing, brand, colour, specifications).
+- All correspondence with the merchant attempting to resolve.
+If available: A detailed invoice with expected delivery date noted.
+If applicable: Confirmation from the merchant that they’ll not deliver your goods/service. (e.g. airline entering voluntary administration).
+
+## Periodical payment has been cancelled but merchant continues to debit
+When to choose this dispute type
+You provided your card details to a merchant and have authorised for them to take out periodical payments (e.g memberships) OR you authorised a one-off payment without agreeing to a subscription/recurring payment.
+You’ve contacted the merchant to cancel the recurring payments, but they’ve continued to debit your account.
+Note: We can only dispute a charge based on the terms and conditions agreed to with the merchant.
+What you’ll need to do first
+- Read the cancellation terms and conditions to understand any notice period required.
+- Contact the merchant directly to resolve. Allow 10 business days for a response.
+- If available, raise a dispute directly through the merchant’s process.
+Documents/information required
+May be required: All correspondence with the merchant including:
+- Proof of cancellation of service
+- Terms and conditions of the merchant to confirm notice is or isn’t required.
+
+## Paid by other means
+When to choose this dispute type
+You’ve authorised a transaction for goods/service, however:
+- You were required to make payment by another method to finalise the purchase, or
+- Where you’ve manually paid for goods/service and an automatic payment for the same service/charge was made.
+Example: Purchased an item using your card, however the merchant advised the transaction wasn’t successful, therefore you had to use another method (a different card, cash, gift card etc.)
+What you’ll need to do first
+- If the transaction is in ‘Pending’, allow 3-10 days for it to process. Note: we can only investigate the transaction once it’s fully processed. Most duplicate charges that appear as ‘Pending’ will usually drop off/not process.
+- If the transaction is not ‘Pending’, contact the merchant directly to resolve. Allow up to 10 business days.
+- If available, raise a dispute directly through the merchant’s process.
+Documents/information required
+All correspondence with the merchant, including proof of other payment method (e.g. cash receipt, other bank statement etc).
+
+## Duplicate transaction
+When to choose this dispute type
+You’ve authorised a transaction for goods/service but were charged twice on the account.
+Note: We can only dispute a charge if the card, merchant name, transaction date and transaction amount are an exact match.
+What you’ll need to do first
+- If the transaction is in ‘Pending’, allow 3-10 days for it to process. Note: we can only investigate the transaction once it’s fully processed. Most duplicate charges that appear as ‘Pending’ will usually drop off/not process.
+- If the transaction is not ‘Pending’, contact the merchant directly to resolve. Allow up to 10 business days.
+- If available, raise a dispute directly through the merchant’s process.
+Documents/information required
+None. The duplicate transactions would be visible on your CBA account.
+
+## Incorrect amount charged
+When to choose this dispute type
+You authorised a transaction but were charged a different amount to what was confirmed at time of purchase.
+Note: We’ll only be able to dispute where the amount is different to what is charged as per terms and conditions of the sale. That is, we’re unable to assist with disputing a transaction on a ‘different amount’ due to foreign currency differences.
+What you’ll need to do first
+- Confirm if the original charge was in AUD or in a foreign currency. We can’t dispute if you weren’t aware that it was in a foreign currency at time of purchase.
+- If the transaction is in ‘Pending’, allow 3-10 days for it to process. Note: we can only investigate the transaction once it’s fully processed. Some charges that appear as ‘Pending’ will usually drop off/not process.
+- Contact the merchant to resolve. Allow up to 10 business days for a response.
+- If available, raise a dispute directly through the merchant’s process.
+Documents/information required
+- A detailed invoice or receipt with the correct amount to be charged that matches the transaction details (except for the amount).
+- All correspondence with the merchant attempting to resolve the dispute.
+
+## Waiting for a refund
+When to choose this dispute type
+You’ve authorised the purchase of goods/service, and the merchant has agreed to provide you a refund, however this hasn’t yet been received.
+This dispute type also covers where a merchant has a cancellation policy (e.g free cancellation within 48 hours), which hasn’t been honoured.
+Note: If you’ve requested a refund and the merchant hasn’t agreed, we won’t be able to assist with the dispute. Please review other dispute types that may be more appropriate.
+What you’ll need to do first
+- Allow 15 business days for a refund to be received into your bank account from the merchant.
+- Review the merchant’s terms and conditions on refunds and free cancellations.
+- Contact the merchant to resolve. This includes confirming when you’ll receive the refund/or that you haven’t yet received it.
+Documents/information required
+- All correspondence with the merchant, including confirmation that the merchant agreed to provide a refund.
+- An invoice of the refund processed by the merchant.
+If applicable: The terms and conditions stating the free cancellation.
+
+## Goods not as described or defective
+When to choose this dispute type
+You’ve purchased goods/service and it’s been delivered by the merchant, however it’s not as described and/or is defective.
+Note: this won’t cover personal preference/quality of goods/service provided (e.g. massage was too rough, music was too loud, food was cold).
+Examples include: Purchased men’s shoes and received a women’s jacket. Purchased a brand-new item and receive a broken/used/damaged item.
+What you’ll need to do first
+- Contact the merchant to resolve. Allow up to 10 business days for a response.
+- If available, raise a dispute directly through the merchant’s process.
+Documents/information required
+- In the dispute questionnaire, add as much detail of the purchase as possible (including good/service type, sizing, brand, colour, specifications).
+- A detailed explanation of how the goods/service is not as described or defective from what was originally purchased. Photos may also be provided to assist.
+- All correspondence with the merchant attempting to resolve.
+If applicable: A letter from a specialist in the relevant field explaining how the goods/service is not as described/defective. (e.g a registered mechanic validating your claim against a car having defective parts)
+
+## Cash amount not received at checkout
+When to choose this dispute type
+You have requested cash out during check-out in a store, but you did not receive some or all of the cash requested.
+What you’ll need to do first
+- Contact the merchant to resolve. Allow up to 10 business days for a response.
+- If available, raise a dispute directly through the merchant’s process
+Documents/information required
+
+## Raising a dispute
+If you want to raise a dispute, here’s how to contact us: Dispute online - For debit cards and credit cards, log on to the CommBank app or NetBank. - In the app: go to the transaction you want to dispute and select ‘Get help with this transaction’, then ‘Dispute transaction’. - In NetBank: expand the transaction and select ‘Dispute transaction’. Message us in the CommBank app to quickly get connected to the right help. Don’t have the app 3 ? Download it now or contact us to raise a dispute For Travel Money Cards – complete and email us the dispute form . If you need assistance with this form, please contact us.
+If you want to raise a dispute, here’s how to contact us:
+Dispute online - For debit cards and credit cards, log on to the CommBank app or NetBank.
+- In the app: go to the transaction you want to dispute and select ‘Get help with this transaction’, then ‘Dispute transaction’.
+- In NetBank: expand the transaction and select ‘Dispute transaction’.
+Message us in the CommBank app to quickly get connected to the right help. Don’t have the app 3 ? Download it now or contact us to raise a dispute
+For Travel Money Cards – complete and email us the dispute form . If you need assistance with this form, please contact us.
+
+## Message us 24/7
+Get instant help from Ceba in the CommBank app or connect with a specialist who can message you back. You’ll need CommBank app notifications turned on so you know when you’ve received a reply.
+
+## What happens next
+
+## Communication
+You’ll get updates from us via email, app notifications, and sometimes SMS. Make sure CommBank app notifications are turned on so you know when you’ve received a reply.
+Final outcomes are sent via email (or letter if you’ve opted in).
+
+## Unauthorised Transactions
+Your card will be cancelled and we’ll send you a new one (arrives in 5–7 business days)
+You’ll get your digital card details straight away, so you can add this to your digital wallet and continue making payments using your phone
+You may need to review any scheduled payments and contact billers to update your new card details
+For credit cards, you can still make repayments via the app or NetBank
+Once a transaction appears as “PENDING” on your account, we’re unable to stop or cancel the transaction. We will start our investigation once the transaction is fully processed (usually 3–10 business days).
+
+## Authorised Transactions
+After submitting your dispute, check your email for a case number
+Reply with as much supporting evidence as possible to support your claim
+Check your emails regularly. If we ask for more info and you don’t reply, your case may be closed
+If the transaction appears as “PENDING” on your account, we’re unable to stop or cancel the transaction until it’s complete. We can only investigate the transaction once it’s fully processed (usually 3–10 business days).
+
+## Getting a resolution
+How long will it take? Most disputes are resolved within 3 business days, after all pending transactions have cleared More complex disputes needing further investigation can take up to 21 calendar days, and we’ll contact you if it is any longer 5 Refunds If successful, you’ll receive a refund to your account within 3 business days of the outcome being provided Once your dispute is resolved, we’ll contact you via email or send a letter that details the reasons for our decision.
+
+## How long will it take?
+Most disputes are resolved within 3 business days, after all pending transactions have cleared
+More complex disputes needing further investigation can take up to 21 calendar days, and we’ll contact you if it is any longer 5
+Refunds If successful, you’ll receive a refund to your account within 3 business days of the outcome being provided Once your dispute is resolved, we’ll contact you via email or send a letter that details the reasons for our decision.
+
+## Refunds
+If successful, you’ll receive a refund to your account within 3 business days of the outcome being provided
+Once your dispute is resolved, we’ll contact you via email or send a letter that details the reasons for our decision.
+
+## Support and FAQ
+Disputing a pending transaction Card fraud Lock, block, limit your credit card Lock, block your debit card Change your PIN QR Cardless Digital wallets and wearables Scams and fraud protection with CommBank Safe Card and account security What to do if your wallet is lost or stolen What to do if your phone, smartwatch or laptop is stolen
+Disputing a pending transaction
+Lock, block, limit your credit card
+Lock, block your debit card
+Digital wallets and wearables
+Scams and fraud protection with CommBank Safe
+Card and account security
+What to do if your wallet is lost or stolen
+What to do if your phone, smartwatch or laptop is stolen
+
+## We're here to help
+Contact us Message us in the CommBank app or call to connect to the right help.
+
+## Contact us
+Message us in the CommBank app or call to connect to the right help.
+Message us Get instant help from our virtual assistant or connect to a specialist.
+
+## Message us
+Get instant help from our virtual assistant or connect to a specialist.
+FAQs Search support and our most frequently asked questions.
+
+## FAQs
+Search support and our most frequently asked questions.
+Find a branch Find a branch, ATM or specialist near you.
+
+## Find a branch
+Find a branch, ATM or specialist near you.
+
+## Things you should know
+1 Cancelling your card or applying a temporary lock to your card won’t stop all transactions including digital wallet transactions (such as Apple Pay and Google Pay or CommBank Tap & Pay), some online transactions where the merchant has stored your card details, and any transaction not sent to us for authorisation (e.g. transactions processed when there’s a system interruption). 2 Digital and mobile wallets (e.g. CBA Tap & Pay, Apple Pay) allow you to make payments with your digital device while hiding your card info from stores and merchants. Adding your card to a digital wallet encrypts the card number replacing it with a token number instead. This means your card isn’t stored on the device or ever shared with you when you process your payment. 3 The CommBank app is free to download however your mobile network provider charges you for accessing data on your phone. You should refer to your mobile phone plan or contact your provider to find out more. Terms and conditions are available on the CommBank app. NetBank access with NetCode SMS required. Find out about the minimum operating requirements on the CommBank app page . 4 Some transactions may take longer than 10 business days to process, but this is rare. 5 In exceptional circumstances disputes can take up to 45 calendar days to resolve.
+1 Cancelling your card or applying a temporary lock to your card won’t stop all transactions including digital wallet transactions (such as Apple Pay and Google Pay or CommBank Tap & Pay), some online transactions where the merchant has stored your card details, and any transaction not sent to us for authorisation (e.g. transactions processed when there’s a system interruption).
+2 Digital and mobile wallets (e.g. CBA Tap & Pay, Apple Pay) allow you to make payments with your digital device while hiding your card info from stores and merchants. Adding your card to a digital wallet encrypts the card number replacing it with a token number instead. This means your card isn’t stored on the device or ever shared with you when you process your payment.
+3 The CommBank app is free to download however your mobile network provider charges you for accessing data on your phone. You should refer to your mobile phone plan or contact your provider to find out more. Terms and conditions are available on the CommBank app. NetBank access with NetCode SMS required. Find out about the minimum operating requirements on the CommBank app page .
+4 Some transactions may take longer than 10 business days to process, but this is rare.
+5 In exceptional circumstances disputes can take up to 45 calendar days to resolve.

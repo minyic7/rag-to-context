@@ -1,0 +1,95 @@
+URL: https://www.commbank.com.au/business/payments/take-online-payments/powerboard.html
+Title: PowerBoard
+
+## Why choose PowerBoard?
+
+## Exceed expectations
+Offer customers greater payment choice and always be launch-ready when new payment services arrive.
+Offer customers greater payment choice and always be launch-ready when new payment services arrive.
+
+## Single API integration
+Streamline multiple integrations into one, saving time and money – now and into the future.
+Streamline multiple integrations into one, saving time and money – now and into the future.
+
+## Fast & efficient checkout
+Enhance and future-proof your website's checkout experience at the pace of customer demand.
+Enhance and future-proof your website's checkout experience at the pace of customer demand.
+
+## Peace of mind
+Our industry-aligned security and fraud protection is designed to keep your business and your customers safe.
+Our industry-aligned security and fraud protection is designed to keep your business and your customers safe.
+
+## What is PowerBoard?
+Using a single API integration, PowerBoard is our eCommerce platform that connects you with multiple payment providers to minimise drop-off at checkout.
+Using a single API integration, PowerBoard is our eCommerce platform that connects you with multiple payment providers to minimise drop-off at checkout.
+
+## Key features
+
+## One API, multiple payment methods1,2
+Mastercard, Visa, American Express and JCB
+Apple Pay and Google Pay
+AfterPay and PayPal Checkout
+
+## Protect your customer & business data
+Get industry-grade payments security to provide a safer online payments experience. You and your customers can benefit from the latest fraud prevention and management technologies.
+
+## Unlock trends to accelerate growth
+PowerBoard streamlines reporting and delivers customer insights. The dashboard gives a single view of transaction trends across payment providers, helping you stay ahead of evolving preferences.
+
+## End-to-end integration support
+Access a specialised tech-care support team for a smooth end-to-end experience, plus get help when you need it once PowerBoard is up and running.
+
+## What's new?
+
+## We've added new features to help you accelerate growth, and improve safety and checkout completion rates.
+Mobile SDK for seamless in-app payment integration
+Click to Pay for faster checkout with fewer steps
+Click to Pay for faster checkout with fewer steps
+Scheme tokenisation for secure recurring card payments
+Scheme tokenisation for secure recurring card payments
+Plug-ins for easy platform integration setup
+Plug-ins for easy platform integration setup
+
+## Case studies
+
+## Sydney Zoo meets demand for choice at the checkout
+Even though the Sydney Zoo launched in Eastern Creek in Sydney’s West just over three years ago, it’s become one of the city’s most popular attractions.
+
+## QBD Books delivers a seamless shopping experience
+Leading bricks and mortar retailer QBD Books set out to revitalise its digital presence and increase online sales.
+
+## Pricing
+We offer custom pricing designed for your business. Contact your Relationship Manager to discuss or call us on 1800 730 554 .
+
+## Dive into our developer portal
+Access our self-serve developer hub with step-by-step guides on how to integrate a payment gateway, plus tips and resources to help you use PowerBoard with confidence.
+
+## Need a different solution?
+
+## BPOINT
+A flexible payment gateway with a range of checkout options. Suitable for businesses offering recurring payments or subscriptions.
+
+## CommWeb
+A sophisticated and highly customisable payment gateway offering reliable payments, even in times of peak transaction volumes.
+
+## Qkr for schools
+Qkr is a mobile app that makes it easy for schools and parents to manage payments – all in one secure platform.
+Explore Qkr for schools
+
+## Ready to start taking payments?
+Talk to your Relationship Manager to discuss whether PowerBoard is right for you. Don’t have a Relationship Manager? Call 1800 730 554 to speak with one of our eCommerce specialists.
+
+## We can help
+
+## Merchant support& FAQs
+
+## Message usin the CommBank app
+
+## Call 1800 230 177for technical support
+
+## Things you should know
+As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances. Please view our Merchant Agreement (PDF 232KB) , Financial Services Guide (PDF 72KB) and Operator and User Guides at our merchant support hub. 1 To utilise alternative payment methods, AMEX/JCB or value added services via PowerBoard, you will be required to enter into separate commercial agreements with the relevant service provider and be responsible for organising settlement with the alternative payment method provider and any potential fees with the relevant service provider. 2 In order to set up digital wallets on PowerBoard, you will need existing credentials with the relevant service provider. Google Pay™ is currently available for Android running 5.0 (Lollipop) or higher with a Near Field Communication (NFC) antenna and Host Card Emulation (HCE) support. Full terms and conditions available on the Google Pay™ app. Mastercard, the Mastercard brand mark and Qkr are registered trademarks of Mastercard International Incorporated. Visa is a registered Trademark of Visa in the United States. American Express is a trademark of American Express. JCB is a registered trademark of JCB International. Apple Pay is a trademark of Apple Inc. Google Pay is a trademark of Google LLC. Afterpay and the related service mark and logo are registered and unregistered trademarks of Afterpay Australia Pty Ltd. PayPal and the PayPal logo are trademarks of PayPal Inc.
+As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances. Please view our Merchant Agreement (PDF 232KB) , Financial Services Guide (PDF 72KB) and Operator and User Guides at our merchant support hub.
+1 To utilise alternative payment methods, AMEX/JCB or value added services via PowerBoard, you will be required to enter into separate commercial agreements with the relevant service provider and be responsible for organising settlement with the alternative payment method provider and any potential fees with the relevant service provider.
+2 In order to set up digital wallets on PowerBoard, you will need existing credentials with the relevant service provider. Google Pay™ is currently available for Android running 5.0 (Lollipop) or higher with a Near Field Communication (NFC) antenna and Host Card Emulation (HCE) support. Full terms and conditions available on the Google Pay™ app.
+Mastercard, the Mastercard brand mark and Qkr are registered trademarks of Mastercard International Incorporated. Visa is a registered Trademark of Visa in the United States. American Express is a trademark of American Express. JCB is a registered trademark of JCB International. Apple Pay is a trademark of Apple Inc. Google Pay is a trademark of Google LLC. Afterpay and the related service mark and logo are registered and unregistered trademarks of Afterpay Australia Pty Ltd. PayPal and the PayPal logo are trademarks of PayPal Inc.

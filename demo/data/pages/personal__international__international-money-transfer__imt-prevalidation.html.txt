@@ -1,0 +1,57 @@
+URL: https://www.commbank.com.au/personal/international/international-money-transfer/imt-prevalidation.html
+Title: Introducing IMT pre-validation: send money overseas with more confidence
+
+## What is IMT pre-validation?
+IMT pre-validation is a real-time security feature that checks the details you’ve entered before sending an international payment. It verifies key information such as the beneficiary’s name, account number and bank identifiers like Swift BIC or routing codes.
+If something doesn’t match our available data, we’ll prompt you to review the details – helping avoid errors, prevent scams and speed up cross-border payments.
+
+## Why pre-validate IMTs?
+Even small errors can lead to a failed or delayed international payment.
+IMT pre-validation provides instant feedback before you send an IMT to help:
+Reduce failed payments and delays
+Avoid the cost and hassle of tracing payments manually
+As a CommBank customer, you’ll enjoy faster delivery and greater peace of mind.
+
+## How does IMT pre-validation work?
+Before you send an IMT in NetBank or the CommBank app, our real-time validation technology:
+Instantly checks the details entered against trusted payment data
+If the details look right, you can proceed with your payment
+If any issues are found, you’ll get alerts and guidance on what you can do next
+
+## FAQs
+
+## What’s the difference between IMT pre-validation, NameCheck and Confirmation of Payee?
+IMT pre-validation is designed specifically for international money transfers, while NameCheck and Confirmation of Payee apply to domestic payments. Together, these tools help reduce errors and protect customers from mistaken payments and scams across different payment types.
+IMT pre-validation checks the beneficiary’s name, account number and other bank identifiers before an international payment is sent. It uses real-time validation technology to compare the details entered against trusted global payment data. Any discrepancies are then flagged before the payment is submitted.
+
+## How does IMT pre-validation know if the account details are correct?
+It securely checks the name, account number, bank code and other bank identifiers (e.g. SWIFT, BIC) against trusted international payment data. If the details match, you can continue with your payment. If issues are found, you’ll be alerted and guided on what you can do next.
+
+## Does IMT pre-validation apply to all international payments?
+IMT pre-validation helps check details like account numbers and bank codes before you send money overseas, reducing the chance of delays or errors.
+It applies to international money transfers made through NetBank and the CommBank app, but only for countries and banking networks where we can access validation data.
+If validation isn’t available for the destination bank or country, your payment will continue using the usual IMT path.
+
+## Can IMT pre-validation confirm that the account name matches the account?
+No, IMT pre-validation is based on available payment data and cannot guarantee an exact match. It provides a likelihood that the details look right based on known patterns.
+
+## What happens if I proceed despite a warning?
+If you choose to continue with the payment after a warning, you accept the risk that the account details may be incorrect. The bank provides pre-validation as a guidance tool, not a guarantee. In such cases, you may be liable for any loss or recovery costs if the payment is misdirected.
+
+## What should I do if IMT pre-validation flags an issue?
+If you receive an alert, double-check the account number and other bank identifiers like SWIFT BIC or routing codes and beneficiary name. Contact the intended recipient to confirm the details before proceeding. This helps reduce the risk of mistaken payments and scams.
+
+## Is IMT pre-validation available in CommBiz?
+Currently, IMT pre-validation is only available in NetBank and the CommBank app.
+
+## We can help
+Your questions answered
+Your questions answered
+Visit your nearest branch
+Visit your nearest branch
+
+## Things you should know
+Read about our IMT terms and conditions for NetBank and the CommBank app . The CommBank app is free to download however your mobile network provider charges you for accessing data on your phone. Find out about the minimum operating system requirements on the CommBank app page . Terms and conditions are available on the app. NetBank access with NetCode SMS required. Commonwealth Bank of Australia ABN 48 123 123 124.
+Read about our IMT terms and conditions for NetBank and the CommBank app .
+The CommBank app is free to download however your mobile network provider charges you for accessing data on your phone. Find out about the minimum operating system requirements on the CommBank app page . Terms and conditions are available on the app. NetBank access with NetCode SMS required.
+Commonwealth Bank of Australia ABN 48 123 123 124.

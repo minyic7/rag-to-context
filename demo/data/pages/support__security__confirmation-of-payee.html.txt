@@ -1,0 +1,70 @@
+URL: https://www.commbank.com.au/support/security/confirmation-of-payee.html
+Title: Confirmation of Payee (CoP) - CommBank
+
+## What is Confirmation of Payee?
+Confirmation of Payee provides an added check for first-time payments made in NetBank or the CommBank app.
+Confirmation of Payee gives you more confidence that your money is going to the right place, helping you avoid scams.
+It provides extra information when sending money via a BSB and account number.
+Confirmation of Payee can also help reduce errors and mistaken payments by verifying the recipient’s account details.
+For CommBank customers, Confirmation of Payee and NameCheck  work together to give you more information about the person or business you are sending money to, and helps you confirm who you’re paying.
+
+## How does it work?
+Before you make a first-time payment, Confirmation of Payee and NameCheck confirms if the account is open and compares the account name, BSB and account number you’ve entered against the information registered at the receiving bank.
+Confirmation of Payee will then show your intended recipient name and together with NameCheck it will show you one of five possible match results. This gives you a chance to make an informed decision about what action you take.
+
+## Match
+The entered recipient account name is a match of the payee's account name.
+
+## Close Match
+The entered recipient account name closely matches but is not an exact match of the payee's account name.
+
+## No Match
+The entered recipient account name doesn't match the payee's account name.
+
+## Error
+The Confirmation of Payee service could not confirm the account details you entered match. Check the details carefully.
+
+## Account Closed
+The entered recipient account is no longer open.
+
+## Frequently Asked Questions
+
+## When will it be available?
+Confirmation of Payee has been available to CommBank customers since 2025.
+It will be automatically available when you make a first-time payment using the CommBank app or NetBank.
+
+## Does Confirmation of Payee stop me from making a payment?
+No, Confirmation of Payee will only stop a payment where the recipient’s account is closed. However, we encourage you to carefully review the Confirmation of Payee result before proceeding, especially if the name doesn’t match. It’s an important step to help protect against mistaken payments or fraudulent payments.
+
+## Will people be able to see my name on Confirmation of Payee?
+No – your name will only be shown to the payer if the details they enter are a match or close match. If the information entered is incorrect, your name will not be displayed. This helps protect your privacy and prevents misuse of your personal details.
+For non-individual accounts, Confirmation of Payee will display the name on the recipient’s account, even if it doesn’t match the name you’ve entered.
+If you have any further questions, please contact us .
+
+## Confirmation of Payee isn’t working as expected
+If Confirmation of Payee is not working as expected or you’re having issues, contact us .
+
+## What is the difference between Confirmation of Payee and NameCheck?
+CommBank customers will benefit from Confirmation of Payee and NameCheck , which work together to give you more information about the person or business you are sending money to.
+Confirmation of Payee checks whether the account name you entered matches the account details at the receiving bank.
+NameCheck is a security tool that searches the account details you’ve entered when making a first-time payment and then indicates whether the account details look right.
+
+## The account number field won’t accept the full account number, what do I do?
+If the account number you're entering exceeds the character limit in your online banking and the account number you are entering starts with zeros, you can remove the zeros and check those account details match. If you're still unsure, let the recipient know and contact us .
+
+## Useful links
+Australian Payments Plus - Confirmation of Payee
+
+## We're here to help
+Message us Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+
+## Message us
+Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+Contact us Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+
+## Contact us
+Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+Report an email or SMS Send us a copy or screenshot if you receive a hoax email or SMS.
+
+## Report an email or SMS
+Send us a copy or screenshot if you receive a hoax email or SMS.

@@ -1,0 +1,127 @@
+URL: https://www.commbank.com.au/business/payments/take-online-payments/bpoint-payment-gateway.html
+Title: BPOINT
+
+## Manage your payments all in one place
+BPOINT caters for businesses with complex payment needs, making it easy for you to:
+Process one-off , recurring or batch payments and refunds
+Take card and bank account payments through a virtual terminal, shopping cart plugin, API or hosted payment page
+Securely store customer data
+Issue invoices by email
+
+## Count on a fast, reliable platform
+BPOINT is a trusted platform that removes friction in your cashflow and helps streamline business administration, with:
+Fast processing and real-time authorisation
+Same day settlement 1 to your CommBank Business Transaction Account 2
+An easy-to-use administration portal
+
+## Get the security of Australia's largest bank
+Activate EMV 3D Secure on all payments to authenticate cardholders and reduce the risk of fraud
+Use tokenisation for the secure storage of customer card details
+
+## Packages
+Your Relationship Manager will talk you through the packages and pricing to help decide what's right for you.
+
+## Case studies and insights
+
+## Case studies and insights
+
+## Smarter, safer, simpler: payment innovation in education
+How Australian schools and universities are modernising payments to reduce risk, improve operations, and better serve their communities.
+
+## Curtin University Simplifies Student Payments
+Curtin University streamlines payments with secure, automated online tools that enhance visibility, reduce friction and boost global accessibility.
+
+## Get started with BPOINT
+We'll tailor a package to suit your business needs. To get started speak to your Relationship Manager or give us a call on 1800 730 554 .
+We'll tailor a package to suit your business needs. To get started speak to your Relationship Manager or give us a call on 1800 730 554 .
+
+## Our payment solutions
+
+## BPOINT
+A flexible payment gateway with a range of checkout options. Popular with businesses that have complex needs around recurring payments.
+
+## Features
+Yes Direct payments via API
+Direct payments via API
+Yes Shopping cart plug-in
+Shopping cart plug-in
+Yes Virtual terminal (MOTO)
+Virtual terminal (MOTO)
+Yes Digital wallets 4
+Yes Manage store via app
+Yes Billing & recurring payments
+Billing & recurring payments
+Yes Alternative Payment Methods
+Alternative Payment Methods
+
+## CommWeb
+A sophisticated and highly customisable payment gateway. Popular with medium to large businesses.
+
+## Features
+Yes Direct payments via API
+Direct payments via API
+Yes Shopping cart plug-in
+Shopping cart plug-in
+Yes Virtual terminal (MOTO)
+Virtual terminal (MOTO)
+Yes Digital wallets 5
+No Manage store via app
+No Billing & recurring payments
+Billing & recurring payments
+No Alternative Payment Methods
+Alternative Payment Methods
+
+## PowerBoard
+An eCommerce solution delivering payment choice, operational efficiency and security via a single API integration.
+
+## Features
+Yes Direct payments via API
+Direct payments via API
+Yes Shopping cart plug-in
+Shopping cart plug-in
+Yes Virtual terminal (MOTO)
+Virtual terminal (MOTO)
+Yes Digital wallets 6
+No Manage store via app
+Yes Billing & recurring payments
+Billing & recurring payments
+Yes Alternative Payment Methods
+Alternative Payment Methods
+
+## Developers
+
+## Frequently asked questions
+
+## How does BPOINT protect data and reduce fraud?
+Payments are authenticated through EMV 3D Secure (3DS 2.0), which checks a number of data points to identify customers. Based on the calculated transaction risk, the cardholder may be prompted to verify their ID eg. with a one-time password or biometric authentication.
+The Checkout and Enterprise packages also come with the added security benefit of tokenisation. This means you're not storing sensitive card data, reducing your risk of data leaks.
+
+## What is IVR?
+Interactive Voice Response (IVR) lets your customers make payments over the phone by following customised, automated prompts. Your customers can call at their convenience and you don't need to worry about staffing the phone line.
+
+## I already have BPOINT, where can I find support?
+Visit the BPOINT Support Centre for easy guides on how to use your BPOINT facility. If you'd like to speak with someone, call 1300 766 031 .
+
+## Can I build a website with BPOINT?
+
+## How do I reset my BPOINT password?
+Visit BPOINT to reset your password .
+
+## We can help
+
+## We can help
+Merchant support & FAQs
+Merchant support & FAQs
+Message us in the CommBank app
+Message us in the CommBank app
+
+## Things you should know
+As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances. Please view our Merchant Agreement , Financial Services Guide and Operator and User Guides at our merchant support hub . 1 Same day settlement available to eligible customers with a Commonwealth Bank Business Transaction Account and a linked Commonwealth Bank merchant facility. ‘Same day’ includes all card sales before 5.30 pm (Sydney/Melbourne time) 2 A Business Transaction Account is required to settle your transactions, if you apply online through NetBank. You can choose to settle your transactions to an alternate account held with us or another financial service provider by calling our Merchant Payment Solutions team on 1800 730 554 , any time after your application is finalised. The information on this website has been prepared without considering your objectives, financial situation or needs. Because of that, you should, before acting on the information, consider its appropriateness to your circumstances. Terms, conditions, fees and charges apply to Business Transaction Accounts and NetBank. Read the Terms and Conditions for Business Transaction and Savings Accounts and the Electronic Banking Terms and Conditions (PDF) and consider whether these products are right for you. The target market for this product can be found within the product’s Target Market Determination . 3 Subject to an approval process. Please discuss this with your relationship manager. As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances. Please view our Merchant Agreement , Financial Services Guide and Operator and User Guides at our merchant support hub . 4 Includes Apple Pay and Google Pay™. Google Pay is also available on Chrome and other browsers. Full terms and conditions available on the Google Pay™ app. In order to set up digital wallets on BPOINT, you will need existing credentials with the relevant service provider. 5 Apple Pay and Google Pay.™ Google Pay™ is currently available for Android running 5.0 (Lollipop) or higher with a Near Field Communication (NFC) antenna and Host Card Emulation (HCE) support. Full terms and conditions available on the Google Pay™ app. 6 Includes Apple Pay and Google Pay™. In order to set up digital wallets on PowerBoard, you will need existing credentials with the relevant service provider. Google Pay™ is currently available for Android running 5.0 (Lollipop) or higher with a Near Field Communication (NFC) antenna and Host Card Emulation (HCE) support. Full terms and conditions available on the Google Pay™ app. American Express is a trademark of American Express. JCB is a registered trademark of JCB Co. Ltd. Mastercard is a registered trademark of Mastercard International Incorporated. Visa is a registered trademark of Visa International Service Association. Google, Google Pay and related marks and logos are trademarks of Google LLC. Apple, the Apple logo and Apple Pay are trademarks of Apple Inc., registered in the U.S. and other countries. Afterpay and the related service mark and logo are registered and unregistered trademarks of Afterpay Australia Pty Ltd. PayPal and the PayPal logo are trademarks of PayPal Inc.
+As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances. Please view our Merchant Agreement , Financial Services Guide and Operator and User Guides at our merchant support hub .
+1 Same day settlement available to eligible customers with a Commonwealth Bank Business Transaction Account and a linked Commonwealth Bank merchant facility. ‘Same day’ includes all card sales before 5.30 pm (Sydney/Melbourne time)
+2 A Business Transaction Account is required to settle your transactions, if you apply online through NetBank. You can choose to settle your transactions to an alternate account held with us or another financial service provider by calling our Merchant Payment Solutions team on 1800 730 554 , any time after your application is finalised. The information on this website has been prepared without considering your objectives, financial situation or needs. Because of that, you should, before acting on the information, consider its appropriateness to your circumstances. Terms, conditions, fees and charges apply to Business Transaction Accounts and NetBank. Read the Terms and Conditions for Business Transaction and Savings Accounts and the Electronic Banking Terms and Conditions (PDF) and consider whether these products are right for you. The target market for this product can be found within the product’s Target Market Determination .
+3 Subject to an approval process. Please discuss this with your relationship manager. As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances. Please view our Merchant Agreement , Financial Services Guide and Operator and User Guides at our merchant support hub .
+4 Includes Apple Pay and Google Pay™. Google Pay is also available on Chrome and other browsers. Full terms and conditions available on the Google Pay™ app. In order to set up digital wallets on BPOINT, you will need existing credentials with the relevant service provider.
+5 Apple Pay and Google Pay.™ Google Pay™ is currently available for Android running 5.0 (Lollipop) or higher with a Near Field Communication (NFC) antenna and Host Card Emulation (HCE) support. Full terms and conditions available on the Google Pay™ app.
+6 Includes Apple Pay and Google Pay™. In order to set up digital wallets on PowerBoard, you will need existing credentials with the relevant service provider. Google Pay™ is currently available for Android running 5.0 (Lollipop) or higher with a Near Field Communication (NFC) antenna and Host Card Emulation (HCE) support. Full terms and conditions available on the Google Pay™ app.
+American Express is a trademark of American Express. JCB is a registered trademark of JCB Co. Ltd. Mastercard is a registered trademark of Mastercard International Incorporated. Visa is a registered trademark of Visa International Service Association. Google, Google Pay and related marks and logos are trademarks of Google LLC. Apple, the Apple logo and Apple Pay are trademarks of Apple Inc., registered in the U.S. and other countries. Afterpay and the related service mark and logo are registered and unregistered trademarks of Afterpay Australia Pty Ltd. PayPal and the PayPal logo are trademarks of PayPal Inc.

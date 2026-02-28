@@ -1,0 +1,372 @@
+URL: https://www.commbank.com.au/home-loans/interest-rates.html
+Title: Home loan interest rates
+
+## Qantas Points Offer
+Take off with up to 300,000 Qantas Points when you apply for a new Digi Home Loan of $300,000 or more. Eligibility criteria, exclusions and Terms and Conditions apply.
+
+## Choose a home loan that’s right for you
+
+## My loan is for
+
+## Estimated Property Value
+Estimated Property Value
+
+## I want to
+
+## Loan Amount
+
+## I'll pay back
+Loan to Value Ratio (LVR) doesn’t impact interest rates for Fixed Rate home loans
+Loan to Value Ratio (LVR) doesn’t impact interest rates for Fixed Rate home loans
+All other rates have been updated in line with your #_LVR_VALUE_#% LVR and could improve with a lower LVR.
+Show Wealth Package on Standard Variable Rate and Fixed Rate products
+Enjoy discounts on eligible home loans and a fee waiver on one eligible credit card per package, in exchange for an annual fee.
+Enjoy discounts on eligible home loans and a fee waiver on one eligible credit card per package, in exchange for an annual fee.
+Wealth Package rates require a minimum initial package lending balance of $150,000.
+A digital home loan with a low variable rate and access to one Everyday Offset account 8 . Only available online. Tell me more
+A digital home loan with a low variable rate and access to one Everyday Offset account 8 . Only available online.
+
+## Repayments
+
+## Payments
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying principal and interest.
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying principal and interest.
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying interest only. Once #_KEY_IO_YEARS_DROPDOWN_# Interest Only period ends, repayments will be $#_KEY_REPAYMENT_IO_# based on current Principal and Interest rates - which may change.
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying interest only.
+Once #_KEY_IO_YEARS_DROPDOWN_# Interest Only period ends, repayments will be $#_KEY_REPAYMENT_IO_# based on current Principal and Interest rates - which may change.
+View rates by updating Loan amount. Minimum loan amount $100,000
+Wealth Package rates require a minimum initial package lending balance of $150,000. Update Loan amount or uncheck Wealth Package
+Wealth Package rates require a minimum initial package lending balance of $150,000. Update Loan amount or uncheck Wealth Package
+Digi Home Loan is only available for LVR’s lower than 80%. Update Estimated property value and/or Loan amount
+Digi Home Loan is only available for LVR’s lower than 80%. Update Estimated property value and/or Loan amount
+View rates by updating Estimated property value and/or Loan amount
+View rates by updating Estimated property value and/or Loan amount
+Option to link one offset account for a fee
+Monthly cashback for eligible CommBank Yello customers
+Unlimited additional repayments
+Eligible for interest rate reductions
+Link multiple offsets
+Unlimited additional repayments
+Access features like top ups
+Eligible for interest rate reductions
+Not protected from interest rate increases
+Not available to company or trust borrowers
+Fees apply when switching your loan purpose, repayment type or product type
+Not available for off the plan purchase, purchase of land, building and construction loans and bridging
+No Wealth Package selected
+Not protected from interest rate increases
+$10 offset feature fee, if an offset account is linked
+$#_KEY_ESTALISHMENT_FEE_# establishment fee
+$#_KEY_ONGOING_FEE_# monthly loan service fee (monthly cashback for eligible CommBank Yello customers 9 )
+Additional fees may apply
+$#_KEY_ESTALISHMENT_FEE_# establishment fee
+$#_KEY_ONGOING_FEE_# monthly loan service fee
+Additional fees may apply
+A Simple Home Loan with a competitive variable rate and the choice to access two offset accounts 2&8 Tell me more
+A Simple Home Loan with a competitive variable rate and the choice to access two offset accounts 2&8
+
+## Repayments
+
+## Payments
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying principal and interest.
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying principal and interest.
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying interest only. Once #_KEY_IO_YEARS_DROPDOWN_# Interest Only period ends, repayments will be $#_KEY_REPAYMENT_IO_# based on current Principal and Interest rates - which may change.
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying interest only.
+Once #_KEY_IO_YEARS_DROPDOWN_# Interest Only period ends, repayments will be $#_KEY_REPAYMENT_IO_# based on current Principal and Interest rates - which may change.
+View rates by updating Loan amount Minimum loan amount $10,000
+Wealth Package rates require a minimum initial package lending balance of $150,000. Update Loan amount or uncheck Wealth Package
+Wealth Package rates require a minimum initial package lending balance of $150,000. Update Loan amount or uncheck Wealth Package
+Digi Home Loan is only available for LVR’s lower than 80%. Update Estimated property value and/or Loan amount
+Digi Home Loan is only available for LVR’s lower than 80%. Update Estimated property value and/or Loan amount
+View rates by updating Estimated property value and/or Loan amount
+View rates by updating Estimated property value and/or Loan amount
+Owner occupied Interest Only rates are only available for LVR’s lower than 80%. Update Estimated property value and/or Loan amount
+Owner occupied Interest Only rates are only available for LVR’s lower than 80%. Update Estimated property value and/or Loan amount
+Investment Interest Only rates are only available for LVR’s lower than 90%. Update Estimated property value and/or Loan amount
+Investment Interest Only rates are only available for LVR’s lower than 90%. Update Estimated property value and/or Loan amount
+Option to link up to two offset accounts to each Simple Home Loan for a monthly fee
+Monthly cashback for eligible CommBank Yello customers 9
+Unlimited additional repayments
+Access features like top ups
+Eligible for interest rate reductions
+Link multiple offsets
+Unlimited additional repayments
+Access features like top ups
+Eligible for interest rate reductions
+Not protected from interest rate increases
+Not available to company or trust borrowers
+Not available for split loans, purchase of land, building and construction loans and bridging
+No Wealth Package selected
+Not protected from interest rate increases
+$10 monthly Offset Feature fee, if up to two Everyday Offset accounts are linked
+$300 establishment fee
+$0 establishment fee on Simple Home Loans – limited time only ^^
+$20 monthly loan service fee (up to $15 monthly cashback available for eligible CommBank Yello customers 9 )
+Additional fees may apply
+$#_KEY_ESTALISHMENT_FEE_# establishment fee
+$#_KEY_ONGOING_FEE_# monthly loan service fee
+Additional fees may apply
+A variable rate with discounts tailored to you, plus access to offset and an extensive range of features. 2 Tell me more
+A variable rate with discounts tailored to you, plus access to offset and an extensive range of features. 2
+
+## Repayments
+
+## Payments
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying principal and interest.
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying principal and interest.
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying interest only. Once #_KEY_IO_YEARS_DROPDOWN_# Interest Only period ends, repayments will be $#_KEY_REPAYMENT_IO_# based on current Principal and Interest rates - which may change.
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying interest only.
+Once #_KEY_IO_YEARS_DROPDOWN_# Interest Only period ends, repayments will be $#_KEY_REPAYMENT_IO_# based on current Principal and Interest rates - which may change.
+View rates by updating Loan amount Minimum loan amount $10,000
+Wealth Package rates require a minimum initial package lending balance of $150,000. Update Loan amount or uncheck Wealth Package
+Wealth Package rates require a minimum initial package lending balance of $150,000. Update Loan amount or uncheck Wealth Package
+View rates by updating Estimated property value and/or Loan amount
+View rates by updating Estimated property value and/or Loan amount
+Owner occupied Interest Only rates are only available for LVR’s lower than 80%. Update Estimated property value and/or Loan amount
+Owner occupied Interest Only rates are only available for LVR’s lower than 80%. Update Estimated property value and/or Loan amount
+Investment Interest Only rates are only available for LVR’s lower than 90%. Update Estimated property value and/or Loan amount
+Investment Interest Only rates are only available for LVR’s lower than 90%. Update Estimated property value and/or Loan amount
+Wealth Package interest rate discount 1
+Link multiple offsets
+Unlimited additional repayments
+Access features like top ups
+Eligible for interest rate reductions
+Link multiple offsets
+Unlimited additional repayments
+Access features like top ups
+Eligible for interest rate reductions
+Not protected from interest rate increases
+No Wealth Package selected
+Not protected from interest rate increases
+$#_KEY_PACKAGE_FEE_# annual Wealth Package fee
+Additional fees may apply
+$#_KEY_ESTALISHMENT_FEE_# establishment fee
+$#_KEY_ONGOING_FEE_# monthly loan service fee
+Additional fees may apply
+Always know what your repayments will be with a locked-in rate. 3 Tell me more
+Always know what your repayments will be with a locked-in rate. 3
+
+## Repayments
+
+## Payments
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying principal and interest.
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying principal and interest.
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying interest only. Once #_KEY_IO_YEARS_DROPDOWN_# Interest Only period ends, repayments will be $#_KEY_REPAYMENT_IO_# based on current Principal and Interest rates - which may change.
+Borrowing $#_KEY_LOAN_AMOUNT_# over 30 years paying interest only.
+Once #_KEY_IO_YEARS_DROPDOWN_# Interest Only period ends, repayments will be $#_KEY_REPAYMENT_IO_# based on current Principal and Interest rates - which may change.
+View rates by updating Loan amount Minimum loan amount $10,000
+Wealth Package rates require a minimum initial package lending balance of $150,000. Update Loan amount or uncheck Wealth Package
+Wealth Package rates require a minimum initial package lending balance of $150,000. Update Loan amount or uncheck Wealth Package
+Digi Home Loan is only available for LVR’s lower than 80%. Update Estimated property value and/or Loan amount
+Digi Home Loan is only available for LVR’s lower than 80%. Update Estimated property value and/or Loan amount
+View rates by updating Estimated property value and/or Loan amount
+View rates by updating Estimated property value and/or Loan amount
+Owner occupied Interest Only rates are only available for LVR’s lower than 80%. Update Estimated property value and/or Loan amount
+Owner occupied Interest Only rates are only available for LVR’s lower than 80%. Update Estimated property value and/or Loan amount
+Investment Interest Only rates are only available for LVR’s lower than 90%. Update Estimated property value and/or Loan amount
+Investment Interest Only rates are only available for LVR’s lower than 90%. Update Estimated property value and/or Loan amount
+Wealth Package interest rate discount 1
+Protected from interest rate increases during fixed term
+Option to lock in the reference interest rate with the Rate Lock feature at a fee of $750 – learn more about Rate Lock
+Additional repayments up to $10k in a fixed year without incurring additional charges
+Option to split loan (ERA may apply)
+Protected from interest rate increases during fixed term
+Option to lock in the reference interest rate with the Rate Lock feature at a fee of $750 – learn more about Rate Lock
+Additional repayments up to $10k in a fixed year without incurring additional charges
+Option to split loan (ERA may apply)
+Rate drops won’t apply to this loan during fixed term
+No access to features like top ups
+Charges may apply for additional repayments over $10k in a fixed year
+No Wealth Package selected
+Rate drops won’t apply to this loan during fixed term
+No access to features like top ups
+Charges may apply for additional repayments over $10k in a fixed year
+$#_KEY_PACKAGE_FEE_# annual Wealth Package fee
+$750 fee applies if you rate lock ~
+Early Repayment Adjustment and Administrative Fee may apply if additional repayments are over $10k in a fixed year,  switching or breaking your loan during fixed term
+Additional fees may apply
+$#_KEY_ESTALISHMENT_FEE_# establishment fee
+$#_KEY_ONGOING_FEE_# monthly loan service fee
+$750 fee applies if you ratelock ~ – learn more about rate lock
+Early Repayment Adjustment and Administrative Fee may apply if  switching or breaking your loan
+Additional fees may apply
+^Available for new borrowings only.
+Comparison rate warning Download home loan interest rates (PDF)
+Comparison rate warning
+Download home loan interest rates (PDF)
+
+## Why start online?
+
+## No obligation
+Get conditional approval with no commitment. You're not locked into any rate or product, and have the flexibility to save and resume your application at any time.
+Get conditional approval with no commitment. You're not locked into any rate or product, and have the flexibility to save and resume your application at any time.
+
+## Fast & flexible
+Pre-fill your details online in as little as 10 minutes, then discuss your application with a lender who can help you get the best rate on offer and find the best fit for your needs.
+Pre-fill your details online in as little as 10 minutes, then discuss your application with a lender who can help you get the best rate on offer and find the best fit for your needs.
+
+## Personalised support
+Receive a call from a dedicated specialist after submitting your application online, guiding you through the process.
+Receive a call from a dedicated specialist after submitting your application online, guiding you through the process.
+
+## Get ahead in the market
+Apply for conditional approval online to get a step ahead on your application and in the property market, whether you've found a new property or just starting your search.
+Apply for conditional approval online to get a step ahead on your application and in the property market, whether you've found a new property or just starting your search.
+
+## Steps to take after a rate change
+
+## Home loan considerations
+Home loan considerations
+Assess long-term goals
+Make lump sum repayments
+
+## Get the most out of your loan.
+Get the most out of your loan.
+Choosing a home loan or refinancing in a changing rate environment can be a daunting task. We can help guide you through the considerations after an interest rate change.
+
+## Discover your next step
+We can help you find the next best step on your home loan journey.
+
+## Start your home buying journey with us today
+
+## 1. Check your borrowing power
+Understand how much you could borrow in just a couple of minutes.
+Understand how much you could borrow in just a couple of minutes.
+
+## 2. Get help & support from a lender
+Access market and property insights and ongoing support with a CommBank lender.
+Access market and property insights and ongoing support with a CommBank lender.
+Find out more about property reports
+
+## 3. Get conditional approval
+Turn your borrowing power into conditional approval so you can house hunt or refinance with confidence.
+Turn your borrowing power into conditional approval so you can house hunt or refinance with confidence.
+
+## Already have a home loan with us?
+Find personalised rates and discounts when you switch or fix your home loan View all available rates when you log onto NetBank , To switch in NetBank, go to 'Settings' and then select 'Change to fixed rate / refix home loan'. In the CommBank app, go to your home loan, tap ‘Manage loan’ then select ‘Change your loan’ Some home loan types can’t be changed in NetBank, such as Interest Only. Call 13 2224 for any changes to your loan that you can’t make in NetBank. Change in NetBank Check your home loan Split your loan You can also split your home loan and enjoy the best of fixed and variable. More about splitting your home loan Split in NetBank Check your current rate To check your interest rate, log into NetBank or the  ​ CommBank app . CommBank app: Log into the app Tap 'Accounts' and then 'Home Loan' Tap the 'Manage button' NetBank: Log on to NetBank Click on the Home Loan tab Click on 'Rate and info' Check your home loan
+
+## Find personalised rates and discounts when you switch or fix your home loan
+View all available rates when you log onto NetBank , To switch in NetBank, go to 'Settings' and then select 'Change to fixed rate / refix home loan'.
+In the CommBank app, go to your home loan, tap ‘Manage loan’ then select ‘Change your loan’
+Some home loan types can’t be changed in NetBank, such as Interest Only. Call 13 2224 for any changes to your loan that you can’t make in NetBank.
+Split your loan You can also split your home loan and enjoy the best of fixed and variable. More about splitting your home loan Split in NetBank Check your current rate To check your interest rate, log into NetBank or the  ​ CommBank app . CommBank app: Log into the app Tap 'Accounts' and then 'Home Loan' Tap the 'Manage button' NetBank: Log on to NetBank Click on the Home Loan tab Click on 'Rate and info' Check your home loan
+
+## Split your loan
+You can also split your home loan and enjoy the best of fixed and variable.
+More about splitting your home loan
+Check your current rate To check your interest rate, log into NetBank or the  ​ CommBank app . CommBank app: Log into the app Tap 'Accounts' and then 'Home Loan' Tap the 'Manage button' NetBank: Log on to NetBank Click on the Home Loan tab Click on 'Rate and info' Check your home loan
+
+## Check your current rate
+To check your interest rate, log into NetBank or the  ​ CommBank app .
+Tap 'Accounts' and then 'Home Loan'
+Tap the 'Manage button'
+Click on the Home Loan tab
+Click on 'Rate and info'
+
+## Tools & calculators
+Calculators How much can I borrow? Stamp duty calculator Home loan repayments calculator Refinance calculator View more calculators Property guides Investing in property Refinancing your home Buying your first property Buying your next property Renovating your home
+
+## Calculators
+How much can I borrow?
+Stamp duty calculator
+Home loan repayments calculator
+View more calculators
+Property guides Investing in property Refinancing your home Buying your first property Buying your next property Renovating your home
+
+## Property guides
+Investing in property
+Refinancing your home
+Buying your first property
+Buying your next property
+
+## $699 conveyancing**
+Home-in’s experienced team and secure, award-winning app will help guide you through the conveyancing process. Built by CommBank and trusted by thousands of Australian home buyers, receive real-time status updates, six-hour contract reviews, and one of the industry’s best on-day settlement rates 5 . Plus, eligible CommBank customers can access $699 conveyancing with Home-in ** .
+
+## Save up to $40 per month on More nbn® plans with CommBank Yello
+Save up to $40 per month on More nbn® plans with CommBank Yello
+Get up to $40 off per month for 36 months on new nbn® plans. Plus, enjoy up to $40 off a Wi-Fi router pack with a new nbn® plan.
+(This offer ends on 31 March 2026) 4
+
+## Home buying support for business owners
+Self-employed business owner? Achieve your property goals with the help of our lending specialists.
+
+## Say hello to CommBank Yello!
+Be rewarded as part of CommBank Yello , our customer recognition program, and you could receive benefits including prize draws, cashbacks and other offers while you bank with us.
+
+## Frequently asked questions
+
+## What are home loan interest rates?
+Home interest rates are the percentage of the loan amount that lenders charge borrowers for using their money to purchase a home. These rates can be either fixed or variable:
+Fixed Interest Rates: These rates remain the same for a set period, usually 1 to 5 years. They provide stability and predictability in your repayments.
+Variable Interest Rates: These rates can change over time, influenced by the Reserve Bank of Australia's (RBA) cash rate and other economic factors. Variable rates can offer more flexibility but come with the risk of rate increases.
+
+## What is a home loan comparison rate?
+A home loan comparison rate helps show the true cost of the loan by combining the interest rate with certain fees and charges. It's expressed as a single percentage to make it easier to compare different loans. This way, you can see the overall cost, not just the advertised interest rate.
+
+## Message us 24/7
+Get help from Ceba in the CommBank app or connect with a specialist who can message you back. You’ll need CommBank app notifications turned on so you know when you’ve received a reply.
+Was the information on this page useful?
+Thanks for your feedback. Have a suggestion? Please help us improve .
+
+## We're here to help
+Book an appointment Book instantly to speak to a Home Loan Specialist at a time that suits you.
+
+## Book an appointment
+Book instantly to speak to a Home Loan Specialist at a time that suits you.
+Manage your loan online Redraw, change your repayments or loan type to better meet your needs and more.
+
+## Manage your loan online
+Redraw, change your repayments or loan type to better meet your needs and more.
+Contact us Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+
+## Contact us
+Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+Message us Get instant help from our virtual assistant or chat to a specialist.
+
+## Message us
+Get instant help from our virtual assistant or chat to a specialist.
+
+## Things you should know
+Please refer to our Home Loan Fact Sheets for details regarding our loans. The reference rate for your loan will depend on the repayment type you select – Principal and Interest or Interest Only.  Interest Only period switches and extensions can be requested in both years and/or months via selected processes. The reference rate applicable for an Interest Only period applied in years and/or months will be the same as the Interest Only reference rate applicable to your loan type. Talk to your lender for more information. See rates for products no longer offered (PDF) 1 Prior to 14 March 2026: To apply for a Wealth Package, you must have an eligible home loan or line of credit with an initial package lending balance of at least $150,000 at the time of your application. Package lending balance is the sum of the account balance of eligible Standard Variable Rate home loans, Fixed Rate home loans that you have with us at the time you apply for Wealth Package. Please refer to the Wealth Package Fact Sheet and Package Terms and Conditions for full details. On and from 14 March 2026: The Wealth Package will become part of eligible home loans. Eligible home loans include: Standard Variable Rate home loans and Fixed Rate home loans. Eligibility also extends to Viridian Line of Credits which were receiving Package benefits on 13 March 2026, or where a customer/s holds a Viridian Line of Credit and applies for a Standard Variable Rate and/or Fixed Rate home loan after 14 March 2026. A non-refundable annual fee of $395 is payable in advance. The package can be established in the name of one or two individual’s name/s, or in the name of a corporate entity. It cannot be established in the name of a business or family investment trust. 2 Rate/s apply to new lending only and may include a margin below or above the applicable reference rate. The current reference rates can be found here . 3 At the end of the fixed rate period, the interest rate converts to the applicable Standard Variable Rate relevant to your loan purpose and repayment type at that time, less any applicable package discount specified in your Loan Contract. 4 Offer of a monthly discount off the Recommended Retail Price (RRP) of a More nbn® plan for 36 months for new services, or 24 months for existing services is for eligible CommBank Yello customers that qualify for the relevant CommBank Yello tier and who complete sign up by 30 June 2026 using a CommBank credit or debit card and entering a unique offer code at checkout on the More website (to access the 36 month offer on new services) or applying a unique offer code to an existing service via the More customer portal (to access the 24 month offer on existing services). Eligible CommBank Yello customers that qualify for the relevant CommBank Yello tier can also receive a one-time discount off the RRP of a Wi-Fi router pack, when they sign up to a new More nbn® plan in the same transaction. You must continue to pay using an eligible CommBank online bill payment method to maintain the discount. After the promotional period ends, the cost of your plan will revert to the RRP current at that time, subject to an ongoing monthly discount for your CommBank Yello tier provided you continue use an eligible CommBank online bill payment method and remain a CommBank Yello customer. You may be eligible to receive this offer as a CommBank Yello customer under the relevant CommBank Yello tier if you meet each of the applicable eligibility criteria set out in the CommBank Yello Terms and Conditions and your eligibility is not excluded by those terms. The CommBank Yello terms and conditions and eligibility criteria for each tier may be subject to change. Please read the full CommBank Yello Terms and Conditions . If you change CommBank Yello tiers, the discount available to you may be adjusted to reflect your new CommBank Yello tier. If you cease to meet the eligibility for CommBank Yello at any time, your access to the offer may be revoked with effect from the next billing period. During the Offer Period, if you are or you become eligible to receive this offer, you should receive a unique offer code via the CommBank app. Limit of one offer code per customer. CommBank customers are only entitled to receive a discount under any CommBank offer on a maximum of 2 nbn® services per account, and on up to 2 Wi-Fi router packs on an account. The discount on the Wi-Fi router pack is only available when a new More nbn plan is purchased in the same transaction, and this discount only applies once per transaction, regardless of whether you add more than one Wi-Fi Router pack in a single transaction. Wi-Fi routers available under this offer are as set out on the More website from time to time and are subject to change without notice. The RRP of your More nbn® services are subject to change in line with More’s Standard Form of Agreement. CommBank and More reserve the right to vary, update or remove this offer at any time.  Please see full terms and condition for the offer, More Standard Form of Agreement and polices at www.more.com.au/policies . We are making changes to our More offers for CommBank customers. As part of changes to our CommBank Yello More offers we will be removing the current CommBank Yello, Plus, Gold and Diamond More Mobile and More NBN offers from 1 April 2026. These offers will only be available to eligible customers who complete sign up before 1 April 2026. 5 We Money - Property Innovation of the Year Award (2024), Customer Service Excellence Award - Customer Service Organization of the Year: Small (2023), Finder Innovation Awards - Best Online Customer Service Innovation (2023). Contracts are reviewed within six business hours 95% of the time (October 2023). To ensure contracts are reviewed within six business hours, customers must upload the entire contract within the Home-in app. Home-in has one of the highest on-time settlement rates in the industry with 95% of Home-in customers settling on time in 2023. 7 Cashback calculated over the first five years of a 30-year loan with an initial borrowing value over $1,000,000 paid as a monthly cashback. Loans with an initial borrowing value under $1,000,000 can get up to $960. To receive this CommBank Yello benefit, you must meet the ongoing eligibility requirements for the CommBank Yello Gold or CommBank Yello Diamond tiers, which is subject to change. For full terms and conditions, eligibility criteria and information on benefits, visit commbank.com.au/commbankyello . 8 You can link one Everyday Offset account to each eligible Digi Home Loan and up to two Everyday Offset accounts to each eligible Simple Home Loan. An offset feature fee will apply, see ‘Fees we charge for consumer mortgage lending products' . 9 To receive this CommBank Yello cashback benefit, you must meet the eligibility requirements for the CommBank Gold or CommBank Diamond tier. Ongoing eligibility criteria applies for CommBank Yello, for full terms and conditions and information on benefits, see commbank.com.au/commbankyello . ** This offer is valid from 6 May 2025. To secure the offer you will need to engage the services of a Home-in partner law firm via the Home-in app on or after this date. If you engaged the services of a Home-in partner law firm via the Home-in app before this date, you are not eligible for this offer. This offer cannot be combined with other Home-in offers. This offer is only available to CommBank customers who meet the following criteria: (a) have an eligible CommBank transaction account: Smart Access, Complete Access, Everyday Offset, Pensioner Security (excluding Pensioner Security Passbook accounts) or Private Bank Account; and (b) fund an eligible residential property purchase with a CommBank home loan; and (c) settle this property purchase using the in-app legal services provided through Home-in. This offer only applies to buy-side conveyancing services for residential property purchases in Australia. Home-in does not offer conveyancing services for the purchase of off-the-plan, rural/agricultural, retail or commercial properties, or properties with a purchase price in excess of $5,000,000. Additional fees apply to conveyancing services in respect of complex titles (such as old system, leasehold and company titles), which are excluded from this offer. This offer is only available through CommBank’s proprietary channels, it is not available to customers that originate through Bankwest, Unloan or a broker channel. If you settle on a property without meeting the eligibility criteria, this offer will not apply and you will be required to pay the standard list price for your conveyancing services. If you do not ultimately settle on a property purchase with Home-in within 6 months of your first contract review, any disbursements, contract review fees and ancillary service fees incurred will become payable to Home-in at the standard list price. The $699 (including GST) offer includes the following conveyancing services: one standard contract review, reasonable negotiation with the vendor’s solicitor, preparation of documents and figures required for settlement and electronic or paper settlement for your property. Disbursements are additional and charged at cost. For some property purchases, you may require or request additional services for which we charge a professional fee, such as expedited settlement or usage of a trust account. Find out more about Home-in's pricing by visiting home-in.com.au/pricing. Home-in reserves the right to terminate the offer and change the pricing at any time. Home-in is a brand of CBA New Digital Businesses Pty Ltd ABN 38 633 072 830 trading as Home-in Digital. CBA New Digital Businesses Pty Ltd is a wholly owned but non-guaranteed subsidiary of the Commonwealth Bank of Australia ABN 48 123 123 124. CBA New Digital Businesses Pty Ltd is not an Authorised Deposit-taking Institution for the purposes of the Banking Act 1959 (Cth) and its obligations do not represent deposits or other liabilities of Commonwealth Bank of Australia. ^ The rates shown are interest rates for new borrowings with Principal and Interest repayments. For all our rates, including interest rates for Interest Only payments, see our Home Loan Interest Rates page. ~ We charge the Rate Lock Fee when we process your request. It is therefore important that you have sufficient funds in your nominated account. The Rate Lock feature only applies to new Fixed Rate home loan and Fixed Rate Investment home loan applications. Rate Lock does not apply to Home Seekers, switching, splitting, top-ups, loan purpose transfers or repayment changes. # You can choose to pay Principal and Interest weekly, fortnightly, or monthly. Only monthly payments are available for Interest Only. The maximum Interest Only payment period over the life of a loan is 10 years for Investment Home Loans and 5 years for Owner Occupied Home Loans, so long as there is at least 5 years remaining on the Contracted Loan Term. We have different rates that apply, depending on whether you are making Interest Only payments or Principal and Interest repayments. During an Interest Only period, your Interest Only payments won't reduce your loan balance unless you choose to make additional repayments. At the end of an Interest Only period, your repayments will increase to cover Principal and Interest components. Information provided (including interest rates) are subject to change. Calculations are estimates provided as a guide only. They assume interest rates don’t change over the life of the loan and are calculated on the rate that applies for the initial period of the loan. Interest rates referenced are current rates and may change at any time. Fees and charges are payable. The calculations do not take into account fees, charges or other amounts that may be charged to your loan (such as establishment or monthly service fees or stamp duty). Lenders' Mortgage Insurance or a Low Deposit Premium may apply to your loan depending on the size of your deposit; security, applicant and loan attributes. This is a one-off cost and will be added to the loan amount. Any of these additional amounts will increase repayments under the loan. We have different rates that apply, depending on whether you are making interest only payments or principal and interest repayments. During an interest only period, your interest only payments won't reduce your loan balance. At the end of an interest only period, your repayments will increase to cover principal and interest components. Rates are subject to change. Applications are subject to normal credit approval. Full terms and conditions will be included in our loan offer. Fees and charges are payable. * Comparison rate calculated on a $150,000 secured loan over a 25-year term. WARNING: Comparison rate is true only for the examples given and may not include all fees and charges. Different terms, fees or other loan amounts might result in a different comparison rate. Comparison rates for variable Interest Only loans are based on an initial 5-year Interest Only period. Comparison rates for fixed Interest Only loans are based on an initial Interest Only period equal in length to the fixed period. During an Interest Only period, your interest only payments will not reduce your loan balance. This may mean you pay more interest over the life of the loan. ^^ $0 establishment fee offer is available on Simple Home Loan applications submitted between 6 December 2025 and 31 March 2026 inclusive through CommBank’s proprietary and broker channels. Applications submitted outside this period and via other channels are not eligible for this offer. This offer is only available to CommBank customers who meet the following criteria: (a) All borrowers must be individuals. Applications from trusts or companies are not eligible; and (b) Application must be submitted through CommBank’s proprietary or broker channels, it is not available to customers that submit an application through Bankwest or Unloan. (c) The loan must be for one of the following eligible products: - Simple Home Loan - Simple Investment Home Loan. If your application does not meet the eligibility criteria, the standard establishment fees: $300 for non-off-the-plan purchases and $800 for off-the-plan purchases, will apply. • CommBank reserves the right to withdraw or amend this offer at any time without notice.
+Please refer to our Home Loan Fact Sheets for details regarding our loans. The reference rate for your loan will depend on the repayment type you select – Principal and Interest or Interest Only.  Interest Only period switches and extensions can be requested in both years and/or months via selected processes. The reference rate applicable for an Interest Only period applied in years and/or months will be the same as the Interest Only reference rate applicable to your loan type. Talk to your lender for more information. See rates for products no longer offered (PDF)
+1 Prior to 14 March 2026: To apply for a Wealth Package, you must have an eligible home loan or line of credit with an initial package lending balance of at least $150,000 at the time of your application. Package lending balance is the sum of the account balance of eligible Standard Variable Rate home loans, Fixed Rate home loans that you have with us at the time you apply for Wealth Package. Please refer to the Wealth Package Fact Sheet and Package Terms and Conditions for full details.
+On and from 14 March 2026: The Wealth Package will become part of eligible home loans. Eligible home loans include: Standard Variable Rate home loans and Fixed Rate home loans. Eligibility also extends to Viridian Line of Credits which were receiving Package benefits on 13 March 2026, or where a customer/s holds a Viridian Line of Credit and applies for a Standard Variable Rate and/or Fixed Rate home loan after 14 March 2026.
+A non-refundable annual fee of $395 is payable in advance. The package can be established in the name of one or two individual’s name/s, or in the name of a corporate entity. It cannot be established in the name of a business or family investment trust.
+2 Rate/s apply to new lending only and may include a margin below or above the applicable reference rate. The current reference rates can be found here .
+3 At the end of the fixed rate period, the interest rate converts to the applicable Standard Variable Rate relevant to your loan purpose and repayment type at that time, less any applicable package discount specified in your Loan Contract.
+4 Offer of a monthly discount off the Recommended Retail Price (RRP) of a More nbn® plan for 36 months for new services, or 24 months for existing services is for eligible CommBank Yello customers that qualify for the relevant CommBank Yello tier and who complete sign up by 30 June 2026 using a CommBank credit or debit card and entering a unique offer code at checkout on the More website (to access the 36 month offer on new services) or applying a unique offer code to an existing service via the More customer portal (to access the 24 month offer on existing services). Eligible CommBank Yello customers that qualify for the relevant CommBank Yello tier can also receive a one-time discount off the RRP of a Wi-Fi router pack, when they sign up to a new More nbn® plan in the same transaction. You must continue to pay using an eligible CommBank online bill payment method to maintain the discount. After the promotional period ends, the cost of your plan will revert to the RRP current at that time, subject to an ongoing monthly discount for your CommBank Yello tier provided you continue use an eligible CommBank online bill payment method and remain a CommBank Yello customer. You may be eligible to receive this offer as a CommBank Yello customer under the relevant CommBank Yello tier if you meet each of the applicable eligibility criteria set out in the CommBank Yello Terms and Conditions and your eligibility is not excluded by those terms. The CommBank Yello terms and conditions and eligibility criteria for each tier may be subject to change. Please read the full CommBank Yello Terms and Conditions . If you change CommBank Yello tiers, the discount available to you may be adjusted to reflect your new CommBank Yello tier. If you cease to meet the eligibility for CommBank Yello at any time, your access to the offer may be revoked with effect from the next billing period. During the Offer Period, if you are or you become eligible to receive this offer, you should receive a unique offer code via the CommBank app. Limit of one offer code per customer. CommBank customers are only entitled to receive a discount under any CommBank offer on a maximum of 2 nbn® services per account, and on up to 2 Wi-Fi router packs on an account. The discount on the Wi-Fi router pack is only available when a new More nbn plan is purchased in the same transaction, and this discount only applies once per transaction, regardless of whether you add more than one Wi-Fi Router pack in a single transaction. Wi-Fi routers available under this offer are as set out on the More website from time to time and are subject to change without notice. The RRP of your More nbn® services are subject to change in line with More’s Standard Form of Agreement. CommBank and More reserve the right to vary, update or remove this offer at any time.  Please see full terms and condition for the offer, More Standard Form of Agreement and polices at www.more.com.au/policies .
+We are making changes to our More offers for CommBank customers. As part of changes to our CommBank Yello More offers we will be removing the current CommBank Yello, Plus, Gold and Diamond More Mobile and More NBN offers from 1 April 2026. These offers will only be available to eligible customers who complete sign up before 1 April 2026.
+5 We Money - Property Innovation of the Year Award (2024), Customer Service Excellence Award - Customer Service Organization of the Year: Small (2023), Finder Innovation Awards - Best Online Customer Service Innovation (2023).
+Contracts are reviewed within six business hours 95% of the time (October 2023). To ensure contracts are reviewed within six business hours, customers must upload the entire contract within the Home-in app.
+Home-in has one of the highest on-time settlement rates in the industry with 95% of Home-in customers settling on time in 2023.
+7 Cashback calculated over the first five years of a 30-year loan with an initial borrowing value over $1,000,000 paid as a monthly cashback. Loans with an initial borrowing value under $1,000,000 can get up to $960. To receive this CommBank Yello benefit, you must meet the ongoing eligibility requirements for the CommBank Yello Gold or CommBank Yello Diamond tiers, which is subject to change. For full terms and conditions, eligibility criteria and information on benefits, visit commbank.com.au/commbankyello .
+8 You can link one Everyday Offset account to each eligible Digi Home Loan and up to two Everyday Offset accounts to each eligible Simple Home Loan. An offset feature fee will apply, see ‘Fees we charge for consumer mortgage lending products' .
+9 To receive this CommBank Yello cashback benefit, you must meet the eligibility requirements for the CommBank Gold or CommBank Diamond tier. Ongoing eligibility criteria applies for CommBank Yello, for full terms and conditions and information on benefits, see commbank.com.au/commbankyello .
+** This offer is valid from 6 May 2025. To secure the offer you will need to engage the services of a Home-in partner law firm via the Home-in app on or after this date. If you engaged the services of a Home-in partner law firm via the Home-in app before this date, you are not eligible for this offer. This offer cannot be combined with other Home-in offers.
+This offer is only available to CommBank customers who meet the following criteria:
+(a) have an eligible CommBank transaction account: Smart Access, Complete Access, Everyday Offset, Pensioner Security (excluding Pensioner Security Passbook accounts) or Private Bank Account; and
+(b) fund an eligible residential property purchase with a CommBank home loan; and
+(c) settle this property purchase using the in-app legal services provided through Home-in.
+This offer only applies to buy-side conveyancing services for residential property purchases in Australia. Home-in does not offer conveyancing services for the purchase of off-the-plan, rural/agricultural, retail or commercial properties, or properties with a purchase price in excess of $5,000,000. Additional fees apply to conveyancing services in respect of complex titles (such as old system, leasehold and company titles), which are excluded from this offer.
+This offer is only available through CommBank’s proprietary channels, it is not available to customers that originate through Bankwest, Unloan or a broker channel.
+If you settle on a property without meeting the eligibility criteria, this offer will not apply and you will be required to pay the standard list price for your conveyancing services. If you do not ultimately settle on a property purchase with Home-in within 6 months of your first contract review, any disbursements, contract review fees and ancillary service fees incurred will become payable to Home-in at the standard list price.
+The $699 (including GST) offer includes the following conveyancing services: one standard contract review, reasonable negotiation with the vendor’s solicitor, preparation of documents and figures required for settlement and electronic or paper settlement for your property.
+Disbursements are additional and charged at cost. For some property purchases, you may require or request additional services for which we charge a professional fee, such as expedited settlement or usage of a trust account.
+Find out more about Home-in's pricing by visiting home-in.com.au/pricing. Home-in reserves the right to terminate the offer and change the pricing at any time.
+Home-in is a brand of CBA New Digital Businesses Pty Ltd ABN 38 633 072 830 trading as Home-in Digital. CBA New Digital Businesses Pty Ltd is a wholly owned but non-guaranteed subsidiary of the Commonwealth Bank of Australia ABN 48 123 123 124. CBA New Digital Businesses Pty Ltd is not an Authorised Deposit-taking Institution for the purposes of the Banking Act 1959 (Cth) and its obligations do not represent deposits or other liabilities of Commonwealth Bank of Australia.
+^ The rates shown are interest rates for new borrowings with Principal and Interest repayments. For all our rates, including interest rates for Interest Only payments, see our Home Loan Interest Rates page.
+~ We charge the Rate Lock Fee when we process your request. It is therefore important that you have sufficient funds in your nominated account. The Rate Lock feature only applies to new Fixed Rate home loan and Fixed Rate Investment home loan applications. Rate Lock does not apply to Home Seekers, switching, splitting, top-ups, loan purpose transfers or repayment changes. # You can choose to pay Principal and Interest weekly, fortnightly, or monthly. Only monthly payments are available for Interest Only. The maximum Interest Only payment period over the life of a loan is 10 years for Investment Home Loans and 5 years for Owner Occupied Home Loans, so long as there is at least 5 years remaining on the Contracted Loan Term. We have different rates that apply, depending on whether you are making Interest Only payments or Principal and Interest repayments. During an Interest Only period, your Interest Only payments won't reduce your loan balance unless you choose to make additional repayments. At the end of an Interest Only period, your repayments will increase to cover Principal and Interest components.
+Information provided (including interest rates) are subject to change.
+Calculations are estimates provided as a guide only. They assume interest rates don’t change over the life of the loan and are calculated on the rate that applies for the initial period of the loan. Interest rates referenced are current rates and may change at any time.
+Fees and charges are payable. The calculations do not take into account fees, charges or other amounts that may be charged to your loan (such as establishment or monthly service fees or stamp duty). Lenders' Mortgage Insurance or a Low Deposit Premium may apply to your loan depending on the size of your deposit; security, applicant and loan attributes. This is a one-off cost and will be added to the loan amount. Any of these additional amounts will increase repayments under the loan.
+We have different rates that apply, depending on whether you are making interest only payments or principal and interest repayments. During an interest only period, your interest only payments won't reduce your loan balance. At the end of an interest only period, your repayments will increase to cover principal and interest components.
+Rates are subject to change. Applications are subject to normal credit approval. Full terms and conditions will be included in our loan offer. Fees and charges are payable.
+* Comparison rate calculated on a $150,000 secured loan over a 25-year term. WARNING: Comparison rate is true only for the examples given and may not include all fees and charges. Different terms, fees or other loan amounts might result in a different comparison rate. Comparison rates for variable Interest Only loans are based on an initial 5-year Interest Only period. Comparison rates for fixed Interest Only loans are based on an initial Interest Only period equal in length to the fixed period. During an Interest Only period, your interest only payments will not reduce your loan balance. This may mean you pay more interest over the life of the loan.
+^^ $0 establishment fee offer is available on Simple Home Loan applications submitted between 6 December 2025 and 31 March 2026 inclusive through CommBank’s proprietary and broker channels. Applications submitted outside this period and via other channels are not eligible for this offer.
+This offer is only available to CommBank customers who meet the following criteria:
+(a) All borrowers must be individuals. Applications from trusts or companies are not eligible; and
+(b) Application must be submitted through CommBank’s proprietary or broker channels, it is not available to customers that submit an application through Bankwest or Unloan.
+(c) The loan must be for one of the following eligible products:
+- Simple Investment Home Loan.
+If your application does not meet the eligibility criteria, the standard establishment fees: $300 for non-off-the-plan purchases and $800 for off-the-plan purchases, will apply.
+• CommBank reserves the right to withdraw or amend this offer at any time without notice.

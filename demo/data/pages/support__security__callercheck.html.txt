@@ -1,0 +1,100 @@
+URL: https://www.commbank.com.au/support/security/callercheck.html
+Title: CallerCheck - CommBank
+
+## What is CallerCheck?
+CallerCheck allows you to verify whether a caller claiming to be from CommBank is legitimate, by triggering a security message in your CommBank app. It’s our preferred method of verification as a more secure way to complete the identification process.
+CallerCheck allows you to verify whether a caller claiming to be from CommBank is legitimate, by triggering a security message in your CommBank app. It’s our preferred method of verification as a more secure way to complete the identification process.
+
+## Why CallerCheck?
+From time to time, we may call about your account(s) or products and services you have with CommBank. It’s important that we both know we’re talking to the right person. Having up to date information is one way to help us keep your accounts safe and protect you from fraud. With an increase in scam and fraud calls, it can be tricky to know whether the person you’re speaking to is really who they say they are. With CallerCheck you can confirm it’s us and know you’re speaking to a legitimate member of the CommBank team. We also use CallerCheck to make sure we’re speaking with the right person when receiving and making calls, before we share any details about your account.
+From time to time, we may call about your account(s) or products and services you have with CommBank. It’s important that we both know we’re talking to the right person. Having up to date information is one way to help us keep your accounts safe and protect you from fraud.
+With an increase in scam and fraud calls, it can be tricky to know whether the person you’re speaking to is really who they say they are. With CallerCheck you can confirm it’s us and know you’re speaking to a legitimate member of the CommBank team.
+We also use CallerCheck to make sure we’re speaking with the right person when receiving and making calls, before we share any details about your account.
+
+## How to use CallerCheck
+CallerCheck can be used for identification on calls you make to us as well as calls we make to you. You'll need to have version 4.37 or newer of the CommBank app installed. If you don’t have this version, we'll proceed with the standard identification process. Make sure that you log into the CommBank app and follow the prompts to verify the call.
+CallerCheck can be used for identification on calls you make to us as well as calls we make to you.
+You'll need to have version 4.37 or newer of the CommBank app installed. If you don’t have this version, we'll proceed with the standard identification process.
+Make sure that you log into the CommBank app and follow the prompts to verify the call.
+
+## Receiving calls from CommBank
+When you receive a call from our CommBank Retail Banking, Business Banking and CommSec teams to your mobile or landline, all you need to do is ask the caller to use CallerCheck to verify their identity. We will then send a notification directly to your CommBank app. If you’re ever unsure that the caller is legitimate, it’s always best for you to hang up and call back on our phone numbers .
+When you receive a call from our CommBank Retail Banking, Business Banking and CommSec teams to your mobile or landline, all you need to do is ask the caller to use CallerCheck to verify their identity. We will then send a notification directly to your CommBank app.
+If you’re ever unsure that the caller is legitimate, it’s always best for you to hang up and call back on our phone numbers .
+
+## 1.
+Ask the caller to use CallerCheck for verification and we’ll send a notification to your device through your CommBank app.
+Ask the caller to use CallerCheck for verification and we’ll send a notification to your device through your CommBank app.
+
+## 2.
+After you click this notification, you’ll be taken to the homepage of your CommBank app and asked to log in.
+After you click this notification, you’ll be taken to the homepage of your CommBank app and asked to log in.
+
+## 3.
+Once logged in, click on the message asking you to verify the call.
+Once logged in, click on the message asking you to verify the call.
+
+## 4.
+Follow the prompts to verify the call.
+Follow the prompts to verify the call.
+
+## 5.
+Ensure you select ‘Yes, I want to continue’ to complete your verification.
+Ensure you select ‘Yes, I want to continue’ to complete your verification.
+
+## 6.
+We’ll confirm that the verification has been completed.
+We’ll confirm that the verification has been completed.
+
+## Making calls to CommBank
+Similarly, when you make a call to CommBank from your mobile or landline, we may use this feature to confirm that we’re speaking with you.
+Similarly, when you make a call to CommBank from your mobile or landline, we may use this feature to confirm that we’re speaking with you.
+
+## 1.
+We’ll send a notification to your device through your CommBank app.
+We’ll send a notification to your device through your CommBank app.
+
+## 2.
+After you click this notification, you’ll be taken to the homepage of your CommBank app and asked to log in.
+After you click this notification, you’ll be taken to the homepage of your CommBank app and asked to log in.
+
+## 3.
+Once logged in, click on the message regarding your call.
+Once logged in, click on the message regarding your call.
+
+## 4.
+Follow the prompts to verify the call.
+Follow the prompts to verify the call.
+
+## 5.
+Make sure you select ‘Yes, I did’ to complete your verification.
+Make sure you select ‘Yes, I did’ to complete your verification.
+
+## 6.
+We’ll confirm that the verification has been completed.
+We’ll confirm that the verification has been completed.
+
+## Received a notification but did not make or receive a call?
+If you receive a notification but haven’t made a call to or received a call from us, we recommend that you select ‘No’ or ‘No I didn’t get a call’ so you can get in touch with our Fraud team. Your access to NetBank and the CommBank app will also be locked as a precaution.
+If you receive a notification but haven’t made a call to or received a call from us, we recommend that you select ‘No’ or ‘No I didn’t get a call’ so you can get in touch with our Fraud team. Your access to NetBank and the CommBank app will also be locked as a precaution.
+
+## Don’t have the CommBank app?
+Download it for free today Please note, this feature is not currently available in the CommBiz Mobile, CommSec and CommSec Pocket apps.
+Download it for free today
+Please note, this feature is not currently available in the CommBiz Mobile, CommSec and CommSec Pocket apps.
+
+## More ways to stay safe
+
+## We're here to help
+Message us Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+
+## Message us
+Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+Contact us Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+
+## Contact us
+Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+Report an email or SMS Send us a copy or screenshot if you receive a hoax email or SMS.
+
+## Report an email or SMS
+Send us a copy or screenshot if you receive a hoax email or SMS.

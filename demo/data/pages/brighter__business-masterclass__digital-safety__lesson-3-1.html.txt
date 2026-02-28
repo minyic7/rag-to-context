@@ -1,0 +1,38 @@
+URL: https://www.commbank.com.au/brighter/business-masterclass/digital-safety/lesson-3-1.html
+Title: 5 eSafety habits every business can easily adopt
+
+## Digital Safety Masterclass 3.1
+
+## 5 eSafety habits every business can easily adopt
+Strong cybersecurity systems are an essential part of doing business. This includes training staff and having the proper systems and tech to support day-to-day functions.
+Train your staff to stop, check and reject any suspicious activity.
+Doing regular software updates and using multi-factor authentication are two easy steps you can take to increase protection from cyberthreats.
+Q: Why do businesses need strong everyday eSafety habits?
+A: Cyberthreats are becoming more sophisticated in Australia and many scams rely on simple lapses in routine, like weak passwords or outdated software. Building everyday eSafety habits, such as training teams to stop, check and reject suspicious activity and keeping systems up-to-date, helps protect your business and reduce risk.
+Having to learn cybersecurity tactics can seem daunting but according to James Roberts, scams and fraud expert at CommBank, there are some ways you can build digital safety habits into your daily practices.
+
+## How to get your staff to learn about cybersecurity
+
+## 1. Teach your staff these three words: stop, check, reject
+Real organisations are unlikely to put you under any sort of pressure to act. “One of the biggest red flags with scammers is they put a time constraint on you and tell you that you need to act right now,” says James. “Stop and assess the situation. Then validate the interaction yourself – go online and check details or talk to someone and get a second opinion. If it’s a phone call, say you’ll call them back – hang up and find the number online.”
+You should also be wary of anyone contacting you and claiming to be the bank. “If someone calls saying they’re from CommBank, ask them to use CallerCheck and send you a security message to your CommBank app,” he says. “And never click on a link in an email – instead find the company’s phone number online and give them a call.”
+Finally, if your team member is in any doubt, they should reject the call or delete the email. “There’s no harm in ending a call and finding another way to deal with the situation.”
+
+## 2. Build up your business’s safety routines
+Ask a team member “How secure is your password?” and chances are they’ll say it’s watertight but ensuring your staff uses strong passwords is a simple defence against scammers.
+“Take the time to educate your staff on what a strong password actually looks like,” says James. “And make sure you have multi-factor authentication set up and multiple stages of approvals for money transfers. Make it a procedure that staff always call to confirm changes to supplier banking details. It’s these types of cybersecurity habits that make all the difference.”
+
+## 3. Keep software up-to-date
+Don’t underestimate the importance of keeping your software up-to-date, either. “Updates often patch security vulnerabilities and introduce new security features that can help protect your business,” says James.
+
+## 4. Build scam awareness into your weekly rhythm.
+Don’t leave it to chance that someone will happen to notice a new fraud trend. Assign a rotating “scam watch” owner (or a single role, if that suits your team) to check reputable sources for the latest scams, fraud tactics and security alerts each week then share a short summary with the team.
+The update can live in a team chat or a meeting – the key is consistency. A chat post is quick, searchable and easy for everyone to refer back to. A brief meeting mention helps underline urgency and gives staff a moment to ask questions. Or you could do both: a weekly chat update, with a 60-second call-out in the next meeting if the risk feels timely. “Make it a business process to check in on the latest scams, fraud and security alerts and pass this information along to your staff so they are forewarned, too,” says James.
+
+## Congratulations, you’ve completed this lesson!
+Next lesson: 3.2 - The leadership skills that help your people thrive
+Explore more Digital Safety lessons in CommBank Business Masterclass today.
+
+## Things you should know
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.

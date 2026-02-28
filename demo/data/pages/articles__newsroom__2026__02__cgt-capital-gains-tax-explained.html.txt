@@ -1,0 +1,83 @@
+URL: https://www.commbank.com.au/articles/newsroom/2026/02/cgt-capital-gains-tax-explained.html
+Title: What is capital gains tax and why is everyone talking about it again?
+
+## Newsroom
+Latest economic news & analysis
+Community perspectives
+
+## Key points
+Introduced in the 1985, capital gains tax is back in the news
+Potential changes to CGT rules are being discussed ahead of the federal budget
+While often discussed in terms of its effects on the housing market, CGT applies to many different asset classes
+First introduced in the 1980s, capital gains tax (CGT) is back in the headlines in early 2026 because potential changes to CGT rules are being discussed ahead of the federal budget, alongside a Senate inquiry that’s examining how the tax is applied.
+Ongoing concerns about the cost of housing in Australia are one of the key reasons potential CGT changes are back on the agenda. To understand why CGT is back in the news, it’s important to know where the tax came from and how it developed.
+
+## What is capital gains tax?
+CGT is the tax you may pay on the profit you make when you sell or otherwise dispose of an asset.
+Even though it is often called a separate tax, CGT is part of Australia’s income tax system, with your net capital gain generally taxed at the same marginal rate as your other income.
+Right now, CGT is most often mentioned because of the way it applies to property, but it can apply to a wide range of investments, including shares, managed funds and crypto assets.
+Under CGT rules, a few key exemptions and rules are applied:
+Assets bought or acquired before 20 September 1985 are generally exempt (these are often called “pre-CGT” assets).
+Your main residence (your home) is generally exempt, if you meet the conditions.
+A “CGT event” is the point when the tax rules switch on, for example when you sell an asset.
+
+## Why Australia introduced CGT in the first place
+Before CGT began in 1985, Australia had no general tax on capital gains. Treasury’s history of Australia’s tax system notes a key concern of the time was that without CGT, there were incentives to convert what would normally be considered “income” into capital gains in order to minimise tax.
+Here’s a hypothetical example of how that worked:
+A worker negotiated a $15,000 bonus.
+Instead of paying it as cash salary, the employer provided the worker with shares or rights worth $15,000.
+If the shares rose in value and the worker later sold them, the profit showed up as a capital gain rather than wages, meaning less tax would be payable.
+CGT was introduced partly to reduce the incentive to re-label “income” as “capital”, and to broaden the income tax base. (As a side note, “non-cash” employee benefits like shares, company cars and low-interest loans were also the reason Fringe Benefits Tax was introduced in 1986).
+
+## A brief history of CGT and how it’s changed
+CGT started in 1985 and applied to realised gains on assets acquired after the start date.
+From 1985 to 1999, the system had two main features:
+Indexation, which adjusted the cost base for inflation so that only “real” gains were taxed.
+Averaging, which aimed to reduce the “tax spike” from a gain that built up over many years but was taxed in only one year.
+Here is a simple illustration of indexation:
+You buy shares for $10,000 and sell them years later for $18,000.
+If inflation over that entire period was 20% (hypothetically), indexation lifts your cost base to $12,000.
+The taxable gain therefore becomes $6,000 instead of $8,000 after adjustment for inflation.
+
+## The big 1999 shift: introducing the CGT discount
+In 1999, the system changed from indexation and averaging to a CGT discount.
+Rather than calculating and making allowances for the effect of inflation, a simple 50% CGT discount was applied instead. While the discount is often discussed in terms of the effect it has had on the housing market, it actually applies in all cases where CGT is payable.
+The change was designed to simplify the system and make Australia’s tax system more internationally competitive, and the discount structure put in place in 2026 continues today.
+What the discount means in practice:
+Individuals (and trust beneficiaries) generally include only half of an eligible capital gain in their taxable income if the asset was held for at least 12 months (thus getting a 50% discount).
+Complying super funds generally apply a 33.33% discount.
+
+## How CGT shows up in shares and other investments
+CGT becomes relevant when you start building wealth outside your normal pay packet, for example through shares, ETFs or managed funds.
+Common circumstances where CGT becomes relevant include:
+Selling shares or an investment property can trigger a CGT event.
+A managed fund can distribute a capital gain to you, even if you did not sell anything yourself.
+The tax you end up having to pay can depend on how long you held the asset, your marginal tax rate, and whether you have capital losses you can use to offset gains.
+
+## How CGT can affect the housing market for buyers, renters and investors
+CGT matters in the housing market because it changes the after-tax return property investors can expect. That can influence investor decisions to buy, hold or sell investment property.
+For investors, the CGT discount can make long-term capital growth more attractive. Because CGT is typically paid when a gain is realised, it can also affect the timing of when investors choose to sell.
+For homebuyers, investor demand can add competition for homes in some areas.
+Some argue that the CGT discount has encouraged so much property investment that it is now more difficult for people buying homes to live in to compete.
+This is a key reason the government is looking at potential changes to the CGT rules.
+But CGT is by no means the only factor shaping Australia’s housing market. For example, CommBank economists have repeatedly pointed to tight supply and construction constraints as a key part of the housing story, and a key reason they’re forecasting national home prices will rise in 2026.
+For renters, the link to CGT is indirect. If investor participation in the housing market changes, the number of available rental homes can shift up or down, which can influence rental costs. But rents are also still driven by broader supply and demand, including how quickly new housing is built.
+
+## Why CGT is back in the news in 2026
+First, the Senate established a Select Committee on the Operation of the Capital Gains Tax Discount on 4 November 2025, with a final report due by 17 March 2026. Its terms of reference include housing, productivity and distributional impacts.
+Second, media reporting has suggested changes to the CGT discount could be considered as part of the federal budget in May 2026.
+Adding to that, the Parliamentary Budget Office has released analysis requested by the committee. The analysis paper discusses how much tax revenue is foregone as a result of the CGT discount, as well as how the value of the discount is distributed by income group and by asset class, including property and shares.
+
+## The key takeaways
+CGT is part of income tax and generally applies when you dispose of an asset, like shares or an investment property.
+Australia’s core CGT settings in 2026 still centre on the 1999 discount model, including the 50% discount for eligible gains on assets held at least 12 months.
+It is in focus again because a Senate inquiry is examining the CGT discount, and changes are being discussed ahead of the May budget.
+Things you should know: This article is general information only and is not tax advice. Tax rules can be complex and change over time. Consider the ATO’s guidance and independent advice from a registered tax agent if you are making decisions based on your circumstances.
+
+## Related articles
+
+## Newsroom
+For the latest news and announcements from Commonwealth Bank.
+
+## Things you should know
+Media releases are prepared without considering an individual reader’s objectives, financial situation or needs. Readers should consider the appropriateness to their circumstances. Visit Important Information to access Product Disclosure Statements or Terms and Conditions which are currently available electronically for products of the Commonwealth Bank Group, along with the relevant Financial Services Guide. Target Market Determinations are available here. Loan applications are subject to credit approval. Interest rates are correct at the time they are published and are subject to change. Fees and charges may apply.

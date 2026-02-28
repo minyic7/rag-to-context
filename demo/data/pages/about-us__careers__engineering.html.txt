@@ -1,0 +1,124 @@
+URL: https://www.commbank.com.au/about-us/careers/engineering.html
+Title: We are Engineering - CommBank
+
+## Engineering the future of banking
+We're building tomorrow’s bank today, which means we need creative and diverse engineers to help us redefine what customers expect from a bank. Our engineers are at the heart of building world-class digital experiences, products and services for our customers. As part of our team, you’ll have access to the latest AI tools and dedicated training to unlock your full potential across every stage of the software delivery lifecycle.
+We're building tomorrow’s bank today, which means we need creative and diverse engineers to help us redefine what customers expect from a bank.
+Our engineers are at the heart of building world-class digital experiences, products and services for our customers. As part of our team, you’ll have access to the latest AI tools and dedicated training to unlock your full potential across every stage of the software delivery lifecycle.
+
+## Engineering the future of banking
+We're building tomorrow’s bank today, which means we need creative and diverse engineers to help us redefine what customers expect from a bank. Our engineers are at the heart of building world-class digital experiences, products and services for our customers. As part of our team, you’ll have access to the latest AI tools and dedicated training to unlock your full potential across every stage of the software delivery lifecycle.
+We're building tomorrow’s bank today, which means we need creative and diverse engineers to help us redefine what customers expect from a bank.
+Our engineers are at the heart of building world-class digital experiences, products and services for our customers. As part of our team, you’ll have access to the latest AI tools and dedicated training to unlock your full potential across every stage of the software delivery lifecycle.
+
+## Why Engineering at CommBank?
+Real impact Our scale means unparalleled opportunity to accelerate digital innovation and positively impact customers. We’ve got some incredibly important and complex problems to solve. We’re focused on maximising the power of our technology, AI and access to one of the largest data sets in Australia to safely and securely offer customers a truly unique and personalised digital experience. As Australia’s leading technology bank 1 , we process millions of transactions every day. Whether you’re designing the apps people hold in their hands or the systems through which they’re delivered, you’re influencing how more than 17 million customers (as of 30 June 2024) access their money. Your work matters. Own your career We put as much energy into developing our people as we do our products. No matter where you are in your career, our scale and diversity mean there’s a pathway for you. Engineering roles, like Software and Platform Engineering, are broad and scalable across the entire bank. Whereas Site Reliability, Security and Data Engineering are highly specialised within dedicated teams. No matter where you start, you can progress your career in any area, with clear pathways to both management and technical leadership roles. By understanding these opportunities, you can shape a career that maximises your strengths, ambitions and impact for our customers. Flexible working Use our flexible work options to live a big life whilst making a big impact. We support our people with the flexibility to balance where work is done with at least half their time each month connecting in the office. The opening of our tech hubs means you can work either from our Sydney head offices or be based in the tech hubs located in Melbourne, Adelaide or Perth. We also have many other flexible working options available. Talk to us about how these arrangements might work for the role in which you’re interested.
+
+## Real impact
+Our scale means unparalleled opportunity to accelerate digital innovation and positively impact customers. We’ve got some incredibly important and complex problems to solve. We’re focused on maximising the power of our technology, AI and access to one of the largest data sets in Australia to safely and securely offer customers a truly unique and personalised digital experience.
+As Australia’s leading technology bank 1 , we process millions of transactions every day.
+Whether you’re designing the apps people hold in their hands or the systems through which they’re delivered, you’re influencing how more than 17 million customers (as of 30 June 2024) access their money. Your work matters.
+Own your career We put as much energy into developing our people as we do our products. No matter where you are in your career, our scale and diversity mean there’s a pathway for you. Engineering roles, like Software and Platform Engineering, are broad and scalable across the entire bank. Whereas Site Reliability, Security and Data Engineering are highly specialised within dedicated teams. No matter where you start, you can progress your career in any area, with clear pathways to both management and technical leadership roles. By understanding these opportunities, you can shape a career that maximises your strengths, ambitions and impact for our customers. Flexible working Use our flexible work options to live a big life whilst making a big impact. We support our people with the flexibility to balance where work is done with at least half their time each month connecting in the office. The opening of our tech hubs means you can work either from our Sydney head offices or be based in the tech hubs located in Melbourne, Adelaide or Perth. We also have many other flexible working options available. Talk to us about how these arrangements might work for the role in which you’re interested.
+
+## Own your career
+We put as much energy into developing our people as we do our products.
+No matter where you are in your career, our scale and diversity mean there’s a pathway for you. Engineering roles, like Software and Platform Engineering, are broad and scalable across the entire bank. Whereas Site Reliability, Security and Data Engineering are highly specialised within dedicated teams. No matter where you start, you can progress your career in any area, with clear pathways to both management and technical leadership roles. By understanding these opportunities, you can shape a career that maximises your strengths, ambitions and impact for our customers.
+Flexible working Use our flexible work options to live a big life whilst making a big impact. We support our people with the flexibility to balance where work is done with at least half their time each month connecting in the office. The opening of our tech hubs means you can work either from our Sydney head offices or be based in the tech hubs located in Melbourne, Adelaide or Perth. We also have many other flexible working options available. Talk to us about how these arrangements might work for the role in which you’re interested.
+
+## Flexible working
+Use our flexible work options to live a big life whilst making a big impact.
+We support our people with the flexibility to balance where work is done with at least half their time each month connecting in the office.
+The opening of our tech hubs means you can work either from our Sydney head offices or be based in the tech hubs located in Melbourne, Adelaide or Perth.
+We also have many other flexible working options available. Talk to us about how these arrangements might work for the role in which you’re interested.
+
+## Platform Engineering
+Our Platform Engineers play a crucial role in designing, running, and evolving the core technology that powers our services, enabling our team to deliver exceptional value to our customers. Our teams have strong infrastructure and systems knowledge combined with proficiency in modern DevOps practices, automation, and writing code to automate operations.
+As a Platform Engineer, you'll have the opportunity to work on cutting-edge platforms that enhance productivity and efficiency. Using Infrastructure-as-code you’ll focus on an ‘automate first’ approach, ensuring seamless deployments and operations.
+
+## Data Engineering
+To us, data is everything. It’s what powers our cutting-edge features and the reason we can provide seamless experiences for our customers from the branch on your street to the app on your phone.
+You'll join a team of Engineers dedicated to setting new standards in banking by using the latest technology to solve complex data-centric challenges.
+In this team, you’ll be responsible for CommBank’s key analytics capabilities, enabling you to work on world-leading solutions for analytics, information management, and decision-making 3 . You will have the opportunity to drive deep personalisation for every customer, ensuring that our interactions are secure, reliable, and tailored to individual needs.
+
+## Software Engineering
+This is no ordinary Software Engineering function. This is where we built one of Australia’s most innovative banking app 2 , and then enhanced it. We have developed Cardless Cash, Benefits Finder, StepPay 4 and Spend Tracker and continue to simplify and evolve them.
+We go beyond a passion for web and mobile development, creating reliable APIs at a unique scale in Australia, developing platforms and frameworks that enable outstanding UX and design, and crafting complex implementations to generate a simple and intuitive customer experience. We go beyond design to help build a brighter future for every customer – from everyday consumers to small businesses and investors.
+As a Software Engineer at CommBank, you’ll be involved in all phases of software development lifecycle including design, build, test, deploy and production support. There’s no better place to turn your passion into reality.
+
+## Engineering Management
+Engineering leaders at CommBank wear two hats: providing both technical and people leadership to our engineers. Engineering managers are responsible for ideating, designing and delivering best-in-class engineering solutions. They are adept at managing, mentoring, and growing their teams, helping them reach their full potential while also improving overall code quality. You will have the opportunity to lead and inspire a talented team of engineers, drive mentorship to help engineers grow their career, and engage in cutting-edge product development.
+Engineering Managers are responsible for optimising the performance and productivity of engineering teams, ensuring that engineers can spend maximum time in a state of flow. You will collaborate with cross-functional teams to drive innovative solutions, working in a supportive environment that values continuous learning.
+In this role, you'll balance various factors in product development, such as cost, time, functionality, and quality, delivering products that meet strategic business objectives and customer needs.
+
+## Site Reliability Engineering (SRE)
+We’re accelerating our digital strategy with a bold ambition: to provide customers with one of the best digital experiences globally. Site Reliability Engineering (SRE) is crucial to achieving this goal. Our teams ensure our systems maintain the highest standards of service, enabling seamless execution of our innovative banking app.
+At CommBank, we pride ourselves on our people and technology culture. As an SRE, you'll blend both by applying cutting-edge Software Engineering principles to our operational services. You'll implement the latest industry-wide methodologies around observability practices, ensuring we meet our Service Level Objectives.
+As part of the team, you'll have the opportunity to build solutions that enhance the scalability, availability and reliability of all our services. You’ll thrive in a continuous iterative learning environment that’s constantly uplifting our customer’s experiences.
+
+## Security Engineering
+As a Security Engineer at CommBank, you will play a crucial role in ensuring the safety of our products and customers. You will have the opportunity to drive security outcomes throughout the product lifecycle, including the Design, Build, and Run phases. You will be responsible for consulting, designing, implementing, and testing security controls and capabilities.
+Joining a team with diverse engineering backgrounds means you will benefit from a wide range of experiences, helping to secure all aspects of modern IT technology and digital innovation. Our engineers help establish a cross-domain Security Engineering practice, focusing on technology, processes, people, applications, and data to achieve scalable and efficient security outcomes across the Group.
+Your work will be customer-centric, designing solutions that integrate seamlessly with developers' workflows. You will create impactful software development through modern approaches, making a significant difference in securing our digital landscape.
+
+## Our stories
+Learn how we’re using technology to reimagine banking
+Our Perth Tech Hub is open for business
+Discover our new technology hub in Brisbane
+Reflections from our Women-in-IT Executive Round Table
+Read why our chief engineer for software engineering Helen Lau chose to work in tech at CommBank
+Discover the day-day work of a typical Software Engineer using our Forage virtual experience program
+CommBank continues to be the market leader in mobile and online banking
+Learn about our new technology hub in Melbourne
+Think you know what to expect from our Tech Grad Program? Think again
+Taking the world by storm, one cloud at a time
+CommBank's goal to hire 1,000 engineers this year
+CommBank unleashes engineering excellence
+All your questions answered on a career in Quant Engineering with our Institutional Banking team
+The advice four of our female technologists would have given their younger selves
+Discover what a typical day looks like as a Quantitative Engineer at CommBank
+Discover what a typical day looks like as a systems engineer at CommBank
+Discover what a typical day looks like as a data engineer at CommBank
+Discover what a typical day looks like as a software engineer at CommBank
+Our Distinguished Engineers share why they believe it's the most exciting time to join our engineering team
+
+## Our Locations
+Outside of our Sydney head office we’ve established technology hubs across the country. We’re offering our engineers flexibility in where they work and roles can be done from in/around any of the below locations.
+Outside of our Sydney head office we’ve established technology hubs across the country. We’re offering our engineers flexibility in where they work and roles can be done from in/around any of the below locations.
+
+## The Foundry
+1 Locomotive St, Eveleigh NSW 2015 Find us on Google maps
+1 Locomotive St, Eveleigh NSW 2015
+Find us on Google maps
+
+## Lot Fourteen
+Corner of North Terrace and Frome Rd, Adelaide SA 5000 Find us on Google maps
+Corner of North Terrace and Frome Rd, Adelaide SA 5000
+Find us on Google maps
+
+## Melbourne Tech Hub
+357 Collins Street, Melbourne VIC 3000 Find us on Google maps
+357 Collins Street, Melbourne VIC 3000
+Find us on Google maps
+
+## Brisbane Tech Hub
+180 Ann Street, Brisbane City QLD 4000 Find us on Google Maps
+180 Ann Street, Brisbane City QLD 4000
+Find us on Google Maps
+
+## Perth Tech Hub
+Bankwest Place, 300 Murray Street Mall, Perth WA 6000 Find us on Google Maps
+Bankwest Place, 300 Murray Street Mall, Perth WA 6000
+Find us on Google Maps
+
+## We can help
+Your questions answered
+Your questions answered
+
+## Things you should know
+1 Canstar's 2024 Digital Banking Awards, Digital Banking - Bank of the Year Award 2 The Forrester Digital Experience Review™: Australian Mobile Banking Apps, Q3 2024 evaluation of the smartphone apps of the big four Australian Banks. 3 2024 Evident AI Index for banks, a global standard benchmark of Artificial Intelligence (AI) maturity. 4 Applications are subject to credit approval. Full Conditions of Use will be included at point of application. Bank fees and charges may apply. Cardless cash is available from any CommBank ATM. Withdrawals are limited to a total of $500 per day The CommBank app is free to download however your mobile network provider charges you for accessing data on your phone. Find out about the minimum operating system requirements on the CommBank app page. Terms and conditions are available on the app. NetBank access with NetCode SMS required. Apple, the Apple logo & iPhone are trademarks of Apple Inc, registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Google Play and Android are trademarks of Google Inc.
+1 Canstar's 2024 Digital Banking Awards, Digital Banking - Bank of the Year Award
+2 The Forrester Digital Experience Review™: Australian Mobile Banking Apps, Q3 2024 evaluation of the smartphone apps of the big four Australian Banks.
+3 2024 Evident AI Index for banks, a global standard benchmark of Artificial Intelligence (AI) maturity.
+4 Applications are subject to credit approval. Full Conditions of Use will be included at point of application. Bank fees and charges may apply.
+Cardless cash is available from any CommBank ATM. Withdrawals are limited to a total of $500 per day
+The CommBank app is free to download however your mobile network provider charges you for accessing data on your phone. Find out about the minimum operating system requirements on the CommBank app page. Terms and conditions are available on the app. NetBank access with NetCode SMS required. Apple, the Apple logo & iPhone are trademarks of Apple Inc, registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Google Play and Android are trademarks of Google Inc.

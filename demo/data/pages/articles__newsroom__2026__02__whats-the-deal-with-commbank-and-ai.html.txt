@@ -1,0 +1,49 @@
+URL: https://www.commbank.com.au/articles/newsroom/2026/02/whats-the-deal-with-commbank-and-ai.html
+Title: What's the deal with CommBank and AI
+
+## Newsroom
+Latest economic news & analysis
+Community perspectives
+It’s also launched a research partnership with Melbourne Business School to better understand how Australians perceive, use and trust AI in banking.
+
+## Why the “responsible AI” focus?
+AI is reshaping industries and has potential to transform customer experiences. But like any innovation, its impact will depend on how thoughtfully and responsibly it is applied.
+CommBank acknowledges new technologies present both opportunities and risks. Executive General Manager Alex Matthews says: “As Australia’s largest bank, trust is fundamental to how we use AI.”
+CommBank outlines in the report the opportunities AI presents, including real world examples of AI helping deliver better outcomes for customers – along with steps the bank is taking to manage the risks.
+
+## Where is CommBank using AI?
+CommBank uses AI across a range of fields, including by helping to:
+Fight scams and fraud
+Improve customer experience
+Detect abuse in transaction descriptions
+
+## How long has it been using AI for?
+CommBank has used machine learning since 2015 through its Customer Engagement Engine (CEE). The CEE helped enable tools like Benefits Finder, a free feature in the CommBank app and NetBank that has helped customers access more than 400 different rebates since the program launched in 2019 – ranging from energy rebates for families, to the wage subsidies rebate for businesses.
+
+## How does CommBank use AI to fight scammers?
+CommBank spent $900m+ in FY2025 to help protect customers from fraud, scams and cyber threats and financial crime. AI was used to help cut customer fraud losses by 20%+ in the first half of FY2026 compared with the same period in FY2025. There are multiple AI use cases to help reduce scams and fraud and combat phishing, including the Bank’s partnership with Apate.ai which uses human-sounding bots to engage and stifle scammers in real time.
+
+## What do Australians think about AI in banking?
+CommBank and Melbourne Business School have launched the AI Attitudes Barometer, a long-term study led with input from Professor Nicole Gillespie.
+Early findings indicate views on AI in banking broadly mirror views on AI generally — many see benefits, some are unsure — and almost seven in ten participants in the study say they’d be more likely to use a bank if staff were trained in safe, ethical and responsible AI.
+
+## Where to find out more
+
+## Related articles
+
+## Related articles
+Future workforce: CBA launches new skills and careers program Comprehensive plan to help employees prepare for and navigate the changing nature of work.
+
+## Future workforce: CBA launches new skills and careers program
+Comprehensive plan to help employees prepare for and navigate the changing nature of work.
+Earth's doppelganger: scientists make $15m digital twin From stress-testing crops to simulating disease outbreaks, researchers plan to create a virtual copy of Australia's agricultural landscape to test ...
+
+## Earth's doppelganger: scientists make $15m digital twin
+From stress-testing crops to simulating disease outbreaks, researchers plan to create a virtual copy of Australia's agricultural landscape to test ...
+From Gone Girl to grassroots filmmaking: Bruna Papandrea Australian producer Bruna Papandrea reflects on her career, the rise of artificial intelligence in film and why grassroots festivals like Tropfest ...
+
+## From Gone Girl to grassroots filmmaking: Bruna Papandrea
+Australian producer Bruna Papandrea reflects on her career, the rise of artificial intelligence in film and why grassroots festivals like Tropfest ...
+
+## Newsroom
+For the latest news and announcements from Commonwealth Bank.

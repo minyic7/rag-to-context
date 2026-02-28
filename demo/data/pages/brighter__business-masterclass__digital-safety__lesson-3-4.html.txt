@@ -1,0 +1,32 @@
+URL: https://www.commbank.com.au/brighter/business-masterclass/digital-safety/lesson-3-4.html
+Title: Help protect your business with these 3 small cyber safety changes
+
+## Digital Safety Masterclass 3.4
+
+## Help protect your business with these 3 small cyber safety changes
+Having systems in place to deal with common cyberthreats is essential for keeping your business safe.
+Common scams include fake invoices, urgency tactics and email impersonation.
+Dedicating time to running a cyber safety project in your business – with a security audit and education plan – is a good first step.
+Q: What is cyber safety?
+A: Cyber safety is the act of protecting your computer systems, networks, devices and data from digital attacks and unauthorised access. To keep your business safe online you need to train your people, have processes in place and use up-to-date technology.
+In this series, businesses have explored how to spot scams and strengthen their cyber safety credentials. Now, James Roberts, scams and fraud expert at CommBank, shares three real-world examples drawn from his experience working in this area. How would your business respond to similar scenarios? Use this as an opportunity to identify and tighten any gaps in your cybersecurity.
+
+## Scenario 1: The scam invoice
+The fake invoice is a common scam that catches businesses out. For example; a builder receives a routine invoice from their supplier – same layout, same tone, same amount. They pay it, only to realise weeks later that the bank details had been quietly changed by a scammer who had accessed the supplier’s email.
+False billing has been the most reported scam type – with and without financial loss – in recent years. “The problem in this scenario is that the builder didn’t verbally check the changed details,” says James.
+How to help protect your business: Create a ‘call to confirm’ rule. If bank details change – even once – pick up the phone and confirm using a number you already know. “It takes less than 30 seconds and can prevent thousands in losses,” says James.
+
+## Scenario 2: The fake urgency
+A major red flag to look out for is when someone contacts you and pressures you to take action immediately. For example; a busy restaurant gets a phone call in the middle of the usual lunch rush. The caller will pretend to be from the bank’s fraud team and they’ll say their account has had suspicious activity and needs immediate action. “The timing isn’t an accident. They call when they know you’ll be distracted,” says James.
+How to help protect your business: “Establish a pause-and-verify habit,” says James. “Teach staff that the bank will never pressure them to act quickly. And if in doubt, hang up and call back using the number on your bank card or app.”
+
+## Scenario 3: The impersonation scam
+Scams can be hard to spot, which is why staff training is essential. This might look like a team member receiving an email from their CEO – or so they thought – asking for urgent gift-card purchases for a client event. “At the last moment, they notice one wrong letter in the email domain,” says James.
+How to help protect your business: Introduce a rule: if a request feels even slightly unusual – especially involving money – confirm via another independent channel.
+
+## Congratulations, you’ve completed this module!
+Explore more Digital Safety lessons in CommBank Business Masterclass today.
+
+## Things you should know
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.

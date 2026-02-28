@@ -1,0 +1,70 @@
+URL: https://www.commbank.com.au/support/security/customercheck.html
+Title: CustomerCheck - CommBank
+
+## What is CustomerCheck?
+CustomerCheck allows you to identify yourself, when visiting a branch or speaking to a CommBank specialist in person. CommBank staff will send you a security message in your CommBank app, to verify your identity. CustomerCheck is our preferred method of verification, as it is a secure way to complete the identification process.
+CustomerCheck allows you to identify yourself, when visiting a branch or speaking to a CommBank specialist in person. CommBank staff will send you a security message in your CommBank app, to verify your identity.
+CustomerCheck is our preferred method of verification, as it is a secure way to complete the identification process.
+
+## Why CustomerCheck?
+When you visit a branch or speak to one of our CommBank specialists in person it’s important we verify your identity to keep your accounts safe and help protect you from fraud. CustomerCheck is a simple and secure way to identify yourself to CommBank staff, using the CommBank app. By receiving and accepting the CustomerCheck notification in your app, you no longer need to reveal identifying information about yourself in an open branch environment.
+When you visit a branch or speak to one of our CommBank specialists in person it’s important we verify your identity to keep your accounts safe and help protect you from fraud.
+CustomerCheck is a simple and secure way to identify yourself to CommBank staff, using the CommBank app. By receiving and accepting the CustomerCheck notification in your app, you no longer need to reveal identifying information about yourself in an open branch environment.
+
+## How to use CustomerCheck
+Similarly to our CallerCheck technology, CustomerCheck sends a notification directly to your phone. Only CommBank staff will have the ability to send a CustomerCheck notification to your CommBank app. You'll need to have version 4.42 or newer of the CommBank app installed. If you don’t have this version, we'll proceed with other methods to identify you. Make sure that you log on to the CommBank app and follow the prompts to verify you’re in the branch or speaking to a CommBank specialist in person.
+Similarly to our CallerCheck technology, CustomerCheck sends a notification directly to your phone.
+Only CommBank staff will have the ability to send a CustomerCheck notification to your CommBank app.
+You'll need to have version 4.42 or newer of the CommBank app installed. If you don’t have this version, we'll proceed with other methods to identify you.
+Make sure that you log on to the CommBank app and follow the prompts to verify you’re in the branch or speaking to a CommBank specialist in person.
+
+## 1.
+Our team members will advise you they’re sending a CustomerCheck notification to your device through the CommBank app.
+Our team members will advise you they’re sending a CustomerCheck notification to your device through the CommBank app.
+
+## 2.
+Open the notification and log on securely to the CommBank app.
+Open the notification and log on securely to the CommBank app.
+
+## 3.
+Tap the notification to open yourCommBank app homepage.
+Tap the notification to open yourCommBank app homepage.
+
+## 4.
+Follow the prompts to verify you’re with a CommBank specialist in-person.
+Follow the prompts to verify you’re with a CommBank specialist in-person.
+
+## 5.
+Ensure you select “Yes I’m with a CommBank specialist”.
+Ensure you select “Yes I’m with a CommBank specialist”.
+
+## 6.
+We’ll confirm that the verification has been completed.
+We’ll confirm that the verification has been completed.
+
+## Received an unexpected or late notification?
+If you receive a notification but haven’t visited a branch or spoken to a CommBank specialist in person, select ‘No’. Use the call now feature to speak to our Fraud team so we can help keep your accounts secure. If you attended a branch, but didn’t receive a CustomerCheck notification while in the branch, you might receive a delayed notification once you’ve left the branch. If this happens, check the time stamp and the date corresponding to your branch visit and confirm that "Yes, I am with a specialist”.
+If you receive a notification but haven’t visited a branch or spoken to a CommBank specialist in person, select ‘No’. Use the call now feature to speak to our Fraud team so we can help keep your accounts secure.
+If you attended a branch, but didn’t receive a CustomerCheck notification while in the branch, you might receive a delayed notification once you’ve left the branch. If this happens, check the time stamp and the date corresponding to your branch visit and confirm that "Yes, I am with a specialist”.
+
+## Don’t have the CommBank app?
+Download it today Please note, this feature is not currently available in the CommBiz Mobile, CommSec and CommSec Pocket apps.
+Please note, this feature is not currently available in the CommBiz Mobile, CommSec and CommSec Pocket apps.
+
+## We're here to help
+Message us Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+
+## Message us
+Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+Contact us Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+
+## Contact us
+Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+Report an email or SMS Send us a copy or screenshot if you receive a hoax email or SMS.
+
+## Report an email or SMS
+Send us a copy or screenshot if you receive a hoax email or SMS.
+
+## Things you should know
+The CommBank app is free to download, however your mobile network provider charges you for accessing data on your phone. Terms and conditions are available on the app. NetBank access with NetCode SMS is required. Find out about the minimum operating system requirements on the CommBank app page .
+The CommBank app is free to download, however your mobile network provider charges you for accessing data on your phone. Terms and conditions are available on the app. NetBank access with NetCode SMS is required. Find out about the minimum operating system requirements on the CommBank app page .

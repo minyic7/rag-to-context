@@ -1,0 +1,109 @@
+URL: https://www.commbank.com.au/digital-banking/latest/smart-savings-pilot.html
+Title: Smart Savings
+
+## Get ahead with Smart Savings
+Smart Savings looks at your income, bills, spending and transfers to predict how much potential spare cash you may have each pay cycle to save, pay off debt, spend or invest. It uses other CommBank app features such as Bill Sense and Cash Flow View to make these predictions. If you choose to save, Smart Savings will help you set aside this money.
+Smart Savings looks at your income, bills, spending and transfers to predict how much potential spare cash you may have each pay cycle to save, pay off debt, spend or invest. It uses other CommBank app features such as Bill Sense and Cash Flow View to make these predictions.
+If you choose to save, Smart Savings will help you set aside this money.
+
+## How to get started with Smart Savings
+Getting started is easy. During the set-up process, you’ll decide if you want your potential spare cash to be transferred automatically, or if you want to confirm the transfers yourself. You’ll also get to decide which account you’d like to transfer from and to. You’re able to change and update your preferences any time in the CommBank app.
+Getting started is easy. During the set-up process, you’ll decide if you want your potential spare cash to be transferred automatically, or if you want to confirm the transfers yourself. You’ll also get to decide which account you’d like to transfer from and to. You’re able to change and update your preferences any time in the CommBank app.
+Log on to the CommBank app and tap ‘Accounts’
+Tap on the ‘Save’ tab
+Tap on the ‘Save’ tab
+Tap ‘Get ahead with Smart Savings’ and you’ll be taken through the set-up process
+Tap ‘Get ahead with Smart Savings’ and you’ll be taken through the set-up process
+
+## Set aside money and choose how you’ll use it
+Smart Savings can help you to set aside small amounts of potential spare cash to use how you want.
+Smart Savings can help you to set aside small amounts of potential spare cash to use how you want.
+
+## How does Smart Savings predict your potential spare cash?
+Your predicted amount of potential spare cash will be a combination of leftover money after your bills, spending and transfers are complete, plus up to 10% of your usual non-essential spending. We identify your non-essential spending based on categories such as ‘eating out’, ‘entertainment’ and ‘shopping’. ‘Shopping’ is spend at retail stores, both in-store and online.
+Your predicted amount of potential spare cash will be a combination of leftover money after your bills, spending and transfers are complete, plus up to 10% of your usual non-essential spending.
+We identify your non-essential spending based on categories such as ‘eating out’, ‘entertainment’ and ‘shopping’. ‘Shopping’ is spend at retail stores, both in-store and online.
+
+## How is your potential spare cash amount calculated?
+As an example, if your expected income is $1,000 a fortnight and we see that you usually: Spend $400 on bills, essentials and transfers; and Spend $500 on eating out, shopping and entertainment We’ll predict you’ll have $100 left over. We’ll then add between 5% to 10% of your $500 usual non-essential spending to your leftover funds to calculate your total potential spare cash for that fortnightly pay cycle. In this example, your potential spare cash amount for the pay cycle would work out to be: $100 leftover + $50 non-essential spend = $150. The potential spare cash amount for the pay cycle can be up to $150 based on your usual activity. This may be split into smaller amounts and notified to you across the pay cycle. This means you’ll need to forego up to 10% of what you regularly spend on non-essential items if you want to use the total potential spare cash amount in the pay cycle to save, pay off debt, spend or invest.
+As an example, if your expected income is $1,000 a fortnight and we see that you usually:
+Spend $400 on bills, essentials and transfers; and
+Spend $500 on eating out, shopping and entertainment
+We’ll predict you’ll have $100 left over.
+We’ll then add between 5% to 10% of your $500 usual non-essential spending to your leftover funds to calculate your total potential spare cash for that fortnightly pay cycle.
+In this example, your potential spare cash amount for the pay cycle would work out to be:
+$100 leftover + $50 non-essential spend = $150.
+The potential spare cash amount for the pay cycle can be up to $150 based on your usual activity. This may be split into smaller amounts and notified to you across the pay cycle.
+This means you’ll need to forego up to 10% of what you regularly spend on non-essential items if you want to use the total potential spare cash amount in the pay cycle to save, pay off debt, spend or invest.
+
+## How to set up a maximum transfer amount
+After you’ve set up Smart Savings, you can set up a maximum transfer amount – Smart Savings won’t transfer more than this amount. Log on to the CommBank app and tap on Accounts > Money Plan > Smart Savings > and access your dashboard Select how much you want your maximum transfer amount to be
+After you’ve set up Smart Savings, you can set up a maximum transfer amount – Smart Savings won’t transfer more than this amount.
+Log on to the CommBank app and tap on Accounts > Money Plan > Smart Savings > and access your dashboard
+Select how much you want your maximum transfer amount to be
+
+## How to pause Smart Savings
+If you know you have larger expenses than usual coming up (for example, if you're going on holiday, or just want a break from Smart Savings), you can pause the Smart Savings feature anytime. Log on to the CommBank app and go to Accounts > Money Plan > Smart Savings > and access your dashboard Tap on Settings to pause the feature and select what date you’d like the transfers to start again You can manually resume the feature at any time also
+If you know you have larger expenses than usual coming up (for example, if you're going on holiday, or just want a break from Smart Savings), you can pause the Smart Savings feature anytime.
+Log on to the CommBank app and go to Accounts > Money Plan > Smart Savings > and access your dashboard
+Tap on Settings to pause the feature and select what date you’d like the transfers to start again
+You can manually resume the feature at any time also
+
+## How to stop Smart Savings
+If you want to stop using the Smart Savings feature altogether, you can easily do so: Log on to the CommBank app and tap on Accounts > Money Plan > Smart Savings > and access your dashboard Tap on Settings, then ‘Stop’ If you decide you want to start using the feature again, you can restart it anytime
+If you want to stop using the Smart Savings feature altogether, you can easily do so:
+Log on to the CommBank app and tap on Accounts > Money Plan > Smart Savings > and access your dashboard
+Tap on Settings, then ‘Stop’
+If you decide you want to start using the feature again, you can restart it anytime
+
+## FAQs
+
+## What is an eligible account?
+If you choose to save your potential spare cash, you’ll need to choose an eligible account which your Smart Savings amount will be transferred between.
+Eligible accounts that potential spare cash can be transferred from are:
+Eligible accounts that potential spare cash can be transferred to are:
+Everyday Offset accounts
+When selecting from and to accounts, consider where your income and bills are linked and any interest rates associated with this account.
+If you don’t have an eligible account, you’ll need to open one to use the feature.
+If either of your chosen accounts switch from an eligible to an ineligible account, the feature will no longer work. If your account switches to another eligible account, the feature will continue to work as normal.
+
+## Do I need NetBank access?
+You’ll need access to the CommBank app to set up Smart Savings.
+
+## What if I have a joint account?
+If you have a joint account with a two-to-sign method of operation, you won’t be able to use this feature.
+If you have a joint account with a one-to-sign method of operation, only one party will be able to use the feature. This means that if one party sets up the feature, the other party won’t be able to:
+Use the same account to set up the feature; or
+Pause, stop or edit the feature
+
+## How often will Smart Savings make transfers?
+Depending on your income and spending habits, Smart Savings transfers can be made up to twice a week.
+
+## What happens if I don’t have any income?
+If you don’t have any income coming into your selected Smart Savings account, you may not receive Smart Savings amounts.
+
+## Can I use this feature for multiple accounts?
+You can only set up Smart Savings with one account to transfer from and one account to transfer to. These must both be eligible CommBank accounts.
+
+## What if my account is overdrawn?
+If your account is overdrawn, Smart Savings won’t make any transfers. Before Smart Savings makes a transfer, a balance check will occur to make sure the transfer amount won’t take your account to less than $0. You should make sure your account has sufficient funds to meet your bills, scheduled payments, and any other spend.
+
+## Can I set this feature up for my kids?
+Only account holders can set up Smart Savings. If you’re an Authorised Operator or Power of Attorney for any eligible account, you won’t be eligible to use this feature for those accounts.
+
+## What happens if I miss a notification?
+You can access the Smart Savings feature through the CommBank app to see your notifications at any time.
+If you’ve chosen to manually approve transfers, you’ll be able to go to your dashboard, view and approve any transfers you may have missed.
+If you’ve chosen automatic transfers, you’ll also be able to view those transfers through your Smart Savings dashboard.
+
+## Things you should know
+Smart Savings is progressively rolling out over the coming weeks. You should consider your own circumstances before choosing what to do with your potential spare cash (such as to save, pay off debt, spend or invest). Keep in mind your individual objectives, financial situation and needs, and whether your potential spare cash should be put towards any debts, planned investments or expenses that you have. If you decide to transfer potential spare cash into your chosen account, we can do it for you automatically or you can do it yourself. Before you make a decision about what you would like to do with this amount, you should make sure your account has sufficient funds to meet your bills, scheduled payments, and any other spend. By using this feature and making a decision in relation to the potential spare cash amount (such as deciding to spend it immediately), you agree that we’re not responsible for any loss you may suffer relating to any failed payment, direct debit, or other financial obligation as a result of you having insufficient funds in your account. A pay cycle is how frequently you get paid. It differs from person to person. To determine your pay cycle, we rely on the information from the ‘income’ category in your transactions. We don’t consider any of your payroll information, so this is only an estimate. If we can’t identify your pay cycle, it will align with the start and end of the month. If you have multiple incomes, Smart Savings will use the first income after you set up Smart Savings as the start of your pay cycle. We only include bills and payments in the CommBank app, CommBank loan and credit facility repayments, and scheduled transfers in NetBank. The CommBank app looks for patterns in your transactions to find regular bills and payments and their value and frequency. New or irregular bills, payments or essential spend won’t be included in the predicted potential spare cash amount by Smart Savings and must be managed by you. We may not predict all of your bills and our prediction date or amounts may be different from your actual bill. For example, we cannot consider a new phone bill in the calculation of your leftover cash amount, and the corresponding amount may be included in your potential spare cash. The amount of potential spare cash predicted may not be reliable if you don’t have any income or regular credits paid to your chosen account, or you don’t use your chosen account for your regular spending, to pay bills, or make scheduled payments. If your income amount changes, it may take up to 3 pay cycles for Smart Savings to adjust potential spare cash predictions. Our predictions don’t factor in seasonal changes which may affect bill and payment amounts (e.g. electricity bills) or when a bill increases (e.g. health insurance premiums being increased). We can predict your payments for your savings and credit card accounts, personal loans and home loans when calculating your potential spare cash. However, we can’t predict payments for insurance products and StepPay until your first or updated payment in your statement. Transactions relating to business products and cheques aren’t included in the calculation.
+Smart Savings is progressively rolling out over the coming weeks.
+You should consider your own circumstances before choosing what to do with your potential spare cash (such as to save, pay off debt, spend or invest). Keep in mind your individual objectives, financial situation and needs, and whether your potential spare cash should be put towards any debts, planned investments or expenses that you have.
+If you decide to transfer potential spare cash into your chosen account, we can do it for you automatically or you can do it yourself. Before you make a decision about what you would like to do with this amount, you should make sure your account has sufficient funds to meet your bills, scheduled payments, and any other spend. By using this feature and making a decision in relation to the potential spare cash amount (such as deciding to spend it immediately), you agree that we’re not responsible for any loss you may suffer relating to any failed payment, direct debit, or other financial obligation as a result of you having insufficient funds in your account.
+A pay cycle is how frequently you get paid. It differs from person to person. To determine your pay cycle, we rely on the information from the ‘income’ category in your transactions. We don’t consider any of your payroll information, so this is only an estimate. If we can’t identify your pay cycle, it will align with the start and end of the month. If you have multiple incomes, Smart Savings will use the first income after you set up Smart Savings as the start of your pay cycle.
+We only include bills and payments in the CommBank app, CommBank loan and credit facility repayments, and scheduled transfers in NetBank. The CommBank app looks for patterns in your transactions to find regular bills and payments and their value and frequency. New or irregular bills, payments or essential spend won’t be included in the predicted potential spare cash amount by Smart Savings and must be managed by you. We may not predict all of your bills and our prediction date or amounts may be different from your actual bill. For example, we cannot consider a new phone bill in the calculation of your leftover cash amount, and the corresponding amount may be included in your potential spare cash.
+The amount of potential spare cash predicted may not be reliable if you don’t have any income or regular credits paid to your chosen account, or you don’t use your chosen account for your regular spending, to pay bills, or make scheduled payments.
+If your income amount changes, it may take up to 3 pay cycles for Smart Savings to adjust potential spare cash predictions.
+Our predictions don’t factor in seasonal changes which may affect bill and payment amounts (e.g. electricity bills) or when a bill increases (e.g. health insurance premiums being increased).
+We can predict your payments for your savings and credit card accounts, personal loans and home loans when calculating your potential spare cash. However, we can’t predict payments for insurance products and StepPay until your first or updated payment in your statement. Transactions relating to business products and cheques aren’t included in the calculation.

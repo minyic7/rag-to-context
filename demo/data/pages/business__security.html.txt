@@ -1,0 +1,92 @@
+URL: https://www.commbank.com.au/business/security.html
+Title: Scam & cyber security protection for your business - CommBank
+
+## Our cyber security features
+
+## Reduce false-billing scams
+In an Australian banking first, NameCheck prompts you if the account details on a first-time, non-bulk payment don’t look right. This can help protect from business email compromise scams and mistaken payments.
+In an Australian banking first, NameCheck prompts you if the account details on a first-time, non-bulk payment don’t look right.
+This can help protect from business email compromise scams and mistaken payments.
+
+## Verify it's CommBank calling
+CallerCheck allows you to verify whether a caller claiming to be from CommBank is legitimate, by triggering a security message in your CommBank app.
+CallerCheck allows you to verify whether a caller claiming to be from CommBank is legitimate, by triggering a security message in your CommBank app.
+
+## Identify yourself to CommBank staff
+We may need to identify you before assisting with certain transactions in-branch by using CustomerCheck , which sends a message to your CommBank app. This helps ensure we’re speaking with the right person and helps protect you from fraud.
+We may need to identify you before assisting with certain transactions in-branch by using CustomerCheck , which sends a message to your CommBank app.
+This helps ensure we’re speaking with the right person and helps protect you from fraud.
+
+## Keep info on the CommBank app safe
+Screen Share Protect may automatically hide your details within the app to help protect your privacy 1 when you engage in screen sharing activities such as mirroring your screen, taking screenshots (Android only) or recording your screen.
+Screen Share Protect may automatically hide your details within the app to help protect your privacy 1 when you engage in screen sharing activities such as mirroring your screen, taking screenshots (Android only) or recording your screen.
+
+## Protect your business
+Concerned you might have been scammed? Call 13 1998 .
+Concerned you might have been scammed? Call 13 1998 .
+
+## Scams that target businesses
+Learn the main types of scams that can target your business, including business email compromise and phone impersonations.
+Scams that target businesses
+
+## Stop. Check. Reject.
+Stop - Does a call, email or text seem off? The best thing to do is stop. Take a breath. Real organisations won’t put you under pressure to act instantly.
+Check - Ask someone you trust or contact the organisation the message claims to be from.
+Reject - If you’re unsure, hang up on the caller, delete the email, block the phone number. Change your password if you think someone else may have it, and make sure you pick something long and unique.
+
+## 6 ways to safeguard your business banking
+
+## Watch our webinar on business email compromise
+Scammers often use a method called business email compromise to trick businesses into sending money to the wrong bank account or sharing sensitive information. These emails often look like they’re from someone you trust – a manager, supplier or customer – and may ask you to update bank account details or make a payment to a new account. Everyone is vulnerable to email scams. Remember: Stop . Check . Reject .
+Scammers often use a method called business email compromise to trick businesses into sending money to the wrong bank account or sharing sensitive information.
+These emails often look like they’re from someone you trust – a manager, supplier or customer – and may ask you to update bank account details or make a payment to a new account.
+Everyone is vulnerable to email scams. Remember: Stop . Check . Reject .
+Learn about business email compromise
+Help prevent business email compromise Join Georgina Tomas, Fraud and Scams Outreach Manager at CommBank, as we dive into business email compromise scams. We'll go through the different types of scams, mock case studies and show what steps you can take to better protect your business.
+
+## Help prevent business email compromise
+Join Georgina Tomas, Fraud and Scams Outreach Manager at CommBank, as we dive into business email compromise scams. We'll go through the different types of scams, mock case studies and show what steps you can take to better protect your business.
+Securing Australia Together Watch the Securing Australia Together webinar to get more info about the Australian cyber threat landscape and the simple steps all businesses can take to help secure their business. *
+
+## Securing Australia Together
+Watch the Securing Australia Together webinar to get more info about the Australian cyber threat landscape and the simple steps all businesses can take to help secure their business. *
+
+## Cyber security articles for business
+Access easy-to-digest information to help protect your business on topics such as:
+Minimising data collection
+Keeping secure while working remotely
+Understanding business email compromise (BEC)
+
+## More resources for your business
+
+## Protect your business from online threats
+Developed in partnership with the Council of Small Business Organisations Australia and Telstra, the Cyber Wardens program supports and educates small businesses to build cyber resilience.
+Developed in partnership with the Council of Small Business Organisations Australia and Telstra, the Cyber Wardens program supports and educates small businesses to build cyber resilience.
+
+## EFTPOS & merchant terminal security
+Take payments from customers? Here's what you need to do to keep transactions and your customers safe.
+Take payments from customers? Here's what you need to do to keep transactions and your customers safe.
+
+## CommBiz security
+CommBiz protects your business’ finances with state-of-the-art security features so you can bank online with confidence.
+CommBiz protects your business’ finances with state-of-the-art security features so you can bank online with confidence.
+Explore CommBiz security
+
+## More information
+Our Vulnerability Disclosure Program Our privacy policy Australian Cyber Security Centre Scamwatch IDCARE
+Our Vulnerability Disclosure Program
+Australian Cyber Security Centre
+
+## Keep your personal banking secure
+
+## We can help
+Call us on 13 1998 to report suspicious activity on your account
+Call us on 13 1998 to report suspicious activity on your account
+Your questions answered
+Your questions answered
+
+## Things you should know
+1 Screen Share Protect is available with the latest CommBank app version 5.34 or later. Screen Share Protect will be turned off for up to 15 minutes at a time if you select to allow screen sharing activities in your CommBank app settings. * This webinar has been prepared and presented by the National Office of Cyber Security (NOCS) for informational purposes only. The views and content expressed in this webinar are solely those of the NCOS and do not necessarily reflect the views or positions of the Commonwealth Bank of Australia (CBA). CBA does not endorse, guarantee, or accept responsibility for the accuracy, completeness, or reliability of the information provided. The information should not be construed as advice. Participants should seek independent advice before making any decisions based on the content of this webinar. As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on this advice, consider its appropriateness to your circumstances. Terms and conditions issued by Commonwealth Bank of Australia for CommBiz. View our Financial Services Guide . If you have a complaint, the Bank's dispute resolution process can be accessed on 13 2221.
+1 Screen Share Protect is available with the latest CommBank app version 5.34 or later. Screen Share Protect will be turned off for up to 15 minutes at a time if you select to allow screen sharing activities in your CommBank app settings.
+* This webinar has been prepared and presented by the National Office of Cyber Security (NOCS) for informational purposes only. The views and content expressed in this webinar are solely those of the NCOS and do not necessarily reflect the views or positions of the Commonwealth Bank of Australia (CBA). CBA does not endorse, guarantee, or accept responsibility for the accuracy, completeness, or reliability of the information provided. The information should not be construed as advice. Participants should seek independent advice before making any decisions based on the content of this webinar.
+As this advice has been prepared without considering your objectives, financial situation or needs, you should, before acting on this advice, consider its appropriateness to your circumstances. Terms and conditions issued by Commonwealth Bank of Australia for CommBiz. View our Financial Services Guide . If you have a complaint, the Bank's dispute resolution process can be accessed on 13 2221.

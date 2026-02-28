@@ -1,0 +1,33 @@
+URL: https://www.commbank.com.au/brighter/business-masterclass/digital-safety/lesson-3-0.html
+Title: Why every business needs a cybersecurity safety plan
+
+## Digital Safety Masterclass 3.0
+
+## Why every business needs a cybersecurity safety plan
+No business is immune to online scams, which is why preparation matters.
+Your people, processes and technology are your best defenses against scams and fraud.
+Training your staff to question any suspicious activity is an important layer in cyber safety.
+Q: Why does every business need a cybersecurity safety plan?
+A: Online scams and fraud are growing in both scale and sophistication and no business is immune. Many organisations underestimate the risks that threaten their operations or assume it won’t happen to them. Having a clear safety plan that’s supported by trained people, strong processes and secure technology helps protect your business from financial and reputational harm.
+There are many reasons everyday businesses fall victim to online scams. From limited IT resources to a lack of cybersecurity training, there are lots of seemingly small oversights that can leave your business vulnerable.
+“When it comes to being exposed to scams and fraud, there are two big risk factors for businesses,” says James Roberts, scams and fraud expert at CommBank. “The first is optimism bias – in other words, you don’t think it will happen to you. The other is underestimating how sophisticated scams can be and not having processes in place to protect against them.”
+James explains the three digital safety pillars that should help form your scams prevention framework. They are: people, processes and technology. With those pillars acting as your foundation, here’s a simple guide on how they can prevent scams in your business.
+
+## Build a critically-thinking culture
+Human error is still one of the biggest reasons scams slip through – especially in busy teams where trust and speed are part of daily life. But with the right mindset, your people become your strongest early-warning system. Build a culture where pausing to double-check is seen as smart, not slow, and where anyone can flag a concern without feeling silly.
+“Train employees to have a healthy level of scepticism and to question anything that seems suspicious,” says James. Encourage simple habits like hovering before clicking, re-reading unexpected requests and escalating anything that feels off – even if it appears to come from a familiar name.
+
+## Tighten your cybersecurity processes
+To back up that awareness, put clear guardrails in place. Document the IT and payment steps your team should follow so no one has to guess in a high-pressure moment. Set password standards and multi-factor authentication, where available, for every tool, require verbal verification of any new or changed bank details and introduce two-step approvals for payments above an agreed amount.
+Regular refresher training matters, too – even short quarterly run-throughs of “what to do if…” scenarios keep everyone aligned. When the process is consistent and written down, scammers have fewer cracks to exploit.
+
+## Update your technology
+Don’t overlook the power of technology to help make your business safer: cyber and security must go hand in hand. “Make sure software updates are done regularly, make all programs password-controlled and activate two-factor authentication across the business,” says James.
+
+## Congratulations, you’ve completed this lesson!
+Next lesson: 3.1 - 5 eSafety habits every business can easily adopt
+Explore more Digital Safety lessons in CommBank Business Masterclass today.
+
+## Things you should know
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.
+Disclaimer: The information on this page is solely for educational purposes. It has been prepared without considering your objectives, financial situation or needs, you should, before acting on the information, consider its appropriateness to your circumstances and if necessary seek the appropriate professional advice. Any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of publication, but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made.

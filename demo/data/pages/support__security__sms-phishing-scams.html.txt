@@ -1,0 +1,71 @@
+URL: https://www.commbank.com.au/support/security/sms-phishing-scams.html
+Title: Phishing and SMiShing scams - CommBank
+
+## What are phishing and SMiShing scams?
+Phishing is when a scammer sends an email that appears to be from a trusted source, often including an urgent ‘call to action’ like asking you to unlock or verify an account, log on to your bank accounts or make a payment immediately. SMiShing is a type of phishing where the message is sent via SMS text message rather than email. Once you click on the link or open the attachment, you may be asked to enter your personal information such as such as card numbers, NetBank client number, banking passwords and NetCodes. Malware could also be installed on your device or you might receive a call where scammers attempt to convince you to share personal or banking details with them. Scammers may use this information to access your bank accounts to make payments online, register for a new CommBank app or activate digital wallets like Apple Pay or Google Pay. If you’re worried you’ve clicked on a link in a scam message, follow these quick instructions on how to contact us and what you can do to protect yourself .
+Phishing is when a scammer sends an email that appears to be from a trusted source, often including an urgent ‘call to action’ like asking you to unlock or verify an account, log on to your bank accounts or make a payment immediately.
+SMiShing is a type of phishing where the message is sent via SMS text message rather than email.
+Once you click on the link or open the attachment, you may be asked to enter your personal information such as such as card numbers, NetBank client number, banking passwords and NetCodes. Malware could also be installed on your device or you might receive a call where scammers attempt to convince you to share personal or banking details with them.
+Scammers may use this information to access your bank accounts to make payments online, register for a new CommBank app or activate digital wallets like Apple Pay or Google Pay.
+If you’re worried you’ve clicked on a link in a scam message, follow these quick instructions on how to contact us and what you can do to protect yourself .
+
+## Received a suspicious message?
+Check out the latest scams and security alerts, to see if we’ve identified it as a scam.
+
+## Protect yourself from phishing scams
+
+## Protect yourself from phishing scams
+
+## Tips to stay safe
+Stay vigilant: Always question any SMS that has a link, even messages from familiar companies under the same contact or message thread Scammers use clever tactics to trick you into clicking on links and providing personal details, so take your time to review the message If the SMS is asking for payment or personal details, verify the request on an authenticated platform, like the company’s genuine website you search yourself or an authenticated application If you’re ever unsure whether an email, message or phone call is legitimately from CommBank, please message us in the CommBank app,  call us on 13 22 21 or visit us in a branch so we can assist you Protect your accounts: Review your accounts and transaction history regularly for unusual or unauthorised transactions Change your passwords regularly and don’t share them with anyone If possible, enable two-factor authentication or biometrics, such as Face ID, to log into accounts Stop Does a call, email or text seem off? The best thing to do is stop. Take a breath. Real organisations won’t put you under pressure to act instantly. Check Ask someone you trust or contact the organisation the message claims to be from. Reject If you’re unsure, delete the email or text and block the phone number. Change your passwords.
+
+## Stay vigilant:
+Always question any SMS that has a link, even messages from familiar companies under the same contact or message thread
+Scammers use clever tactics to trick you into clicking on links and providing personal details, so take your time to review the message
+If the SMS is asking for payment or personal details, verify the request on an authenticated platform, like the company’s genuine website you search yourself or an authenticated application
+If you’re ever unsure whether an email, message or phone call is legitimately from CommBank, please message us in the CommBank app,  call us on 13 22 21 or visit us in a branch so we can assist you
+
+## Protect your accounts:
+Review your accounts and transaction history regularly for unusual or unauthorised transactions
+Change your passwords regularly and don’t share them with anyone
+If possible, enable two-factor authentication or biometrics, such as Face ID, to log into accounts
+Stop Does a call, email or text seem off? The best thing to do is stop. Take a breath. Real organisations won’t put you under pressure to act instantly.
+Check Ask someone you trust or contact the organisation the message claims to be from.
+Reject If you’re unsure, delete the email or text and block the phone number. Change your passwords.
+
+## Think you've been scammed?
+Message us immediately if you're worried about the security of your account. Our virtual assistant Ceba can help you lock your card or securely connect you to a specialist.
+
+## Been scammed? What next?
+Get in touch If you (or someone you know) is a CommBank customer and has been targeted or lost money as a result of being scammed, contact us . Report it Report the scam via the Australian Cyber Security Centre . Reports may be referred to the police for possible investigation. Take control and stay protected Change your passwords and PINs straight away if you suspect your security has been compromised. Change these regularly as a preventative measure. Seek support Contact IDCARE on 1800 595 160 . IDCARE is a free, government-funded service that provides support to victims of identity crime. Visit the ScamWatch website for more information on scams.
+
+## Get in touch
+If you (or someone you know) is a CommBank customer and has been targeted or lost money as a result of being scammed, contact us .
+
+## Report it
+Report the scam via the Australian Cyber Security Centre . Reports may be referred to the police for possible investigation.
+
+## Take control and stay protected
+Change your passwords and PINs straight away if you suspect your security has been compromised. Change these regularly as a preventative measure.
+
+## Seek support
+Contact IDCARE on 1800 595 160 . IDCARE is a free, government-funded service that provides support to victims of identity crime.
+Visit the ScamWatch website for more information on scams.
+
+## We're here to help
+Message us Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+
+## Message us
+Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+Contact us Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+
+## Contact us
+Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+Report an email or SMS Send us a copy or screenshot if you receive a hoax email or SMS.
+
+## Report an email or SMS
+Send us a copy or screenshot if you receive a hoax email or SMS.
+
+## Things you should know
+1 CBA article, Research shows Australians are more scam-aware than 12 months ago as losses fall, published September 2023.
+1 CBA article, Research shows Australians are more scam-aware than 12 months ago as losses fall, published September 2023.

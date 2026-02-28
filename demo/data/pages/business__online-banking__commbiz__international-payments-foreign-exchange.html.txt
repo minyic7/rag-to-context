@@ -1,0 +1,193 @@
+URL: https://www.commbank.com.au/business/online-banking/commbiz/international-payments-foreign-exchange.html
+Title: International payments foreign exchange
+
+## About CommBiz International Payments & Foreign Exchange
+For most cross-currency International Payments, we will pay any correspondent bank fees for you. This does not include payments in Japanese Yen. Refer to the CommBiz Terms and Conditions for more details.
+CommBiz International Payments & Foreign Exchange (IPFX) is an online platform.
+Undertake foreign exchange transactions including creating spot or forward exchange contracts, make domestic and international payments in foreign currencies, using your AUD or foreign currency accounts
+
+## Important information
+Please note: the Create FX Trade feature is only available to customers who have FX Forwards in place. If you require the capability to create forward contracts, please speak to your CommBank representative. You can still undertake foreign exchange transactions in the Make A Payment section.
+Please refer to the Terms and Conditions relating to the use of IPFX and Special Terms and Conditions relating to FX transactions for IPFX users .
+Also see the CommBiz Terms and Conditions .
+
+## Video demo
+Watch this video demo on how to navigate the CommBiz International Payment & Foreign Exchange (IPFX) experience.
+Watch this video demo on how to navigate the CommBiz International Payment & Foreign Exchange (IPFX) experience.
+
+## Video demo
+Watch this video demo on how to navigate the CommBiz International Payment & Foreign Exchange (IPFX) experience.
+Watch this video demo on how to navigate the CommBiz International Payment & Foreign Exchange (IPFX) experience.
+
+## Log in & locate
+Log in using your existing CommBiz ID, password and token Select the Payables tab Select International Payments & FX
+Log in using your existing CommBiz ID, password and token
+Select the Payables tab
+Select International Payments & FX
+
+## Your International Payments FX dashboard
+Your dashboard provides an overall view and access to:
+Make a payment, using multiple ways to undertake transactions and foreign exchange in one place
+Create FX Trade, allows you to book forward exchange contracts. This option is only available to clients with Forward FX limits
+Outstanding FX Trades to view existing contracts, attach settlement instructions or pre-deliver and extend your trades
+Bulk Settlement to import files and bulk settle them using new or existing FX trades
+Trades awaiting action including attaching settlement instructions or pending authorisations will display on your dashboard
+View Payments gives you access to details of all your same currency transactions
+View FX Trades is your deal history with downloadable information for your business needs
+Indicative spot rates is a customisable feature where you can update your preferred foreign currency pairs to display on your dashboard
+
+## Make a payment
+A range of alternatives to undertake transactions all in one place Make international and same currency payments Transact using your foreign currency accounts Use new and existing FX trades to make FX payments
+
+## A range of alternatives to undertake transactions all in one place
+Make international and same currency payments
+Transact using your foreign currency accounts
+Use new and existing FX trades to make FX payments
+
+## Enter payment details
+On the dashboard, click Make a payment and then the link Enter payment detail
+If you're choosing an existing beneficiary first select the Payment Currency from the drop down. Otherwise you can create a new beneficiary on the go
+You have the option to fund from an existing same currency account (if you have one setup with CommBank and linked to CommBiz)
+Alternatively, select the Debit currency from the dropdown menu
+Add the amount you want to pay by clicking on the button beside Payment Amount or Debit Amount. Payment Amount is the amount paid in the currency you want to send; Debit amount represents the amount that will be deducted from your account
+Add the reference for your beneficiary ,  for example, their invoice number
+Choose the purpose of the payment from dropdown
+Click Add or if you want to setup multiple payments, choose Add & Enter Next Payment and repeat the above steps
+
+## Note on adding multiple payments and currency cut-off times
+The next available date is already calculated based on the currency cut-off and public holidays in both Australia and the beneficiary currency
+If you have setup multiple payments in different currencies and the cut-off time has passed for one of those currencies, the rest of your payments will not occur until the next available date
+Setup individual payments if you wish to process payments before currency cut-off time
+
+## Select how you want to pay
+Choose from the first available date
+Or toggle over to schedule paymen t and select a future date from the calendar
+If you choose a future date, you will have to schedule using a new or existing forward exchange contract
+Forward exchange products have risks associated with them. Please refer to CommBank’s Foreign Exchange PDS for further information or call 1300 222 339
+
+## Apply FX rate
+For payments involving foreign currency conversion, there are two ways you can apply an FX rate: Choose from an existing FX contract Or create new FX trades to apply an exchange rate for the transaction
+For payments involving foreign currency conversion, there are two ways you can apply an FX rate:
+Choose from an existing FX contract
+Or create new FX trades to apply an exchange rate for the transaction
+
+## Fund from an existing or new FX trade
+Click Apply FX Rate button against the trade you want to utilise for the payment
+You will notice under Action that you can pre-deliver an existing FX contract to fund the payment
+Alternatively, you can select the button Create New FX Trade on this page to source the current exchange rate for the transaction
+Whether you’re pre-delivering, extending or creating a new trade, a pop-up box will appear where you can action your trade depending on your transaction requirements
+
+## Apply FX trade details and request rate
+Add amount in the field beside the currency you want to trade Add Trade Notes (for your reference details) View the FX rate by clicking Request Quote. The rate will refresh every 6 seconds and time out after 30 seconds, select Request Rate again if it times out Click Accept & Execute when you are ready to proceed. The currency conversion may go for dealer intervention. When this happens, please wait for the next instructions on the screen Once you have pre-delivered your FX contract or created a new FX trade, select the white checkboxes next to the trade to fund your payment. Please note all FX trades have to be settled by currency cut-off time on the value date. If trades are unsettled, CommBank can choose to close out the trade. Please refer to our Foreign Exchange PDS for further information Click Add Repeat steps 1 – 6 if you need to fund multiple trades in other currencies Review the Beneficiary Summary pane. You will know when the trade is fully funded by the green tick . If it is not fully funded, the outstanding balance will be shown in red and you must Apply or Edit FX rate Once all trades are funded, choose your settlement method from the drop down menu The Settlement amount will be auto-populated so type in Your Reference details Click Confirm If required, you can choose multiple Debit accounts to fund the transaction Otherwise, click to Submit which will send the trade for Authorisation The Next button takes you to the Trade Details where you can Download Confirmations , View the Status History or proceed to Authorisation
+Add amount in the field beside the currency you want to trade
+Add Trade Notes (for your reference details)
+View the FX rate by clicking Request Quote. The rate will refresh every 6 seconds and time out after 30 seconds, select Request Rate again if it times out
+Click Accept & Execute when you are ready to proceed. The currency conversion may go for dealer intervention. When this happens, please wait for the next instructions on the screen
+Once you have pre-delivered your FX contract or created a new FX trade, select the white checkboxes next to the trade to fund your payment. Please note all FX trades have to be settled by currency cut-off time on the value date. If trades are unsettled, CommBank can choose to close out the trade. Please refer to our Foreign Exchange PDS for further information
+Repeat steps 1 – 6 if you need to fund multiple trades in other currencies
+Review the Beneficiary Summary pane. You will know when the trade is fully funded by the green tick . If it is not fully funded, the outstanding balance will be shown in red and you must Apply or Edit FX rate
+Once all trades are funded, choose your settlement method from the drop down menu
+The Settlement amount will be auto-populated so type in Your Reference details
+If required, you can choose multiple Debit accounts to fund the transaction
+Otherwise, click to Submit which will send the trade for Authorisation
+The Next button takes you to the Trade Details where you can Download Confirmations , View the Status History or proceed to Authorisation
+
+## Authorise your trades
+There are several ways to Authorise your trades
+Pending authorisations are displayed after you submit your payment (as per the previous steps above)
+Or you can find Authorisations section on your dashboard
+Select the checkboxes next to each trade you want to action
+Add your CommBiz security credentials to authorise or reject the payments
+
+## Create FX Trade
+Click Create FX Trade on your dashboard
+Setup currencies using the Client Buys and Client Sells dropdown options
+Add the amount in the field beside the currency you want to Buy or Sell
+Update the Value Date (if applicable) and add Trade Notes (for your reference details)
+View the FX rate by clicking Request Quote . The rate will refresh every 6 seconds and time out after 30 seconds, select Request Rate again if it times out
+Click Accept & Execute when you are ready to proceed with the quoted rate. The currency conversion may go for dealer intervention. When this happens, please wait for the next instructions on the screen
+You will receive a notification after its successfully executed. Please note: once accepted all FX trades are to be fully settled and authorised by currency cut-off time on the value date. If trades remain unsettled, CommBank can choose to close out the trade. Please refer to the Foreign Exchange PDS for further information or call 1300 222 339
+
+## Outstanding Trades
+Select Outstanding FX Trades on your dashboard
+By clicking on the arrow icon next to each trade, further information will appear
+Pre-delivery or extend trades
+Attach settlement instructions
+View the deal history
+Update Trade Notes by clicking the pencil icon
+Download trade information
+View how to action each of these by following the steps under the headings below
+
+## Pre-deliver trades
+Select the arrow icon next to the trade, click Pre-deliver
+Add the pre-delivery amount in the Buy or Sell field
+Update the Value Date
+Click Request Quote .  The rate will refresh every 6 seconds and time out after 30 seconds, select Request Rate again if it times out
+Click Accept & Execute when you are ready to proceed.  The currency conversion may go for dealer intervention. Please wait for next instructions on the screen
+
+## Extend trades
+Select the arrow icon next to the trade, click Extend
+Add the amount your want to extend in the Buy or Sell field
+Update the Value Date
+Click Request Quote. The rate will refresh every 6 seconds and time out after 30 seconds, select Request Rate again if it times out
+Click Accept & Execute when you are ready to proceed.  The currency conversion may go for dealer intervention. Please wait for the next instructions on the screen
+
+## Attach Settlement Instructions
+Select the white checkbox next to the Trade. You can select multiple trades in one go. If the checkbox is grey, select the arrow and find Remove Settlement Instructions button to update and attach new instructions
+Scroll down to Trade Summary at the bottom of the screen
+Click Attach Settlement Instructions
+Choose your Settlement method from the dropdown
+Add the amount and type a reference for your records
+
+## View Trade History
+Select the arrow next to the Trade
+Click Trade History .  View deal history of the trade including when it has been pre-delivered or extended
+
+## View Status History
+Select the arrow next to the Trade
+Click Status History . Status History shows the processing of the trade, like who it has been authorised by or if the trade has been fully processed, cancelled or declined
+
+## View Payments
+Click View Payments on your dashboard to find your same currency transactions
+Review same currency transactions
+Click the arrow for more details on each item
+Download information using the download icon in your top left hand corner
+Filter results to search for transactions
+Toggle between past and future payments
+
+## View FX Trades
+Click View FX Trades on your dashboard
+Review cross currency transactions
+Click the arrow for more details on each item
+Red icon highlights actions are required
+Download information using the download icon in your top left hand corner
+Filter results to search for transactions
+Toggle between outstanding and previous trades
+
+## Customise your indicative rates
+The indicative spot rates on your dashboard are customisable meaning you can edit and prioritise the view of your preferred currency combinations
+Click Edit currency list on your dashboard
+Choose your preferred currency combinations from the dropdown options
+Click Save . Once saved these same currency combinations will continue to display as your chosen indicative spot rates each time you enter the IPFX Dashboard
+
+## Additional guides
+Converting returned payments and Inward IMTs Enable Foreign Exchange How to settle IPFX documentary trade settlements Upload a bulk settlement for IPFX
+Converting returned payments and Inward IMTs
+Enable Foreign Exchange
+How to settle IPFX documentary trade settlements
+Upload a bulk settlement for IPFX
+
+## We can help
+Need help using CommBiz? Bookmark our dedicated page to find FAQs and user guides
+
+## Need help using CommBiz?
+Bookmark our dedicated page to find FAQs and user guides
+Contact your Relationship Manager Or talk to one of our CommBiz FX specialists on 1300 222 339
+
+## Contact your Relationship Manager
+Or talk to one of our CommBiz FX specialists on 1300 222 339
+
+## Important information
+Please refer to the Terms and Conditions relating to the use of IPFX and Special Terms and Conditions relating to FX transactions for IPFX users . Also see the CommBiz Terms and Conditions
+Please refer to the Terms and Conditions relating to the use of IPFX and Special Terms and Conditions relating to FX transactions for IPFX users .
+Also see the CommBiz Terms and Conditions

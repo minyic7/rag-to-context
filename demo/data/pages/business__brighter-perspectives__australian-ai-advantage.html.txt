@@ -1,0 +1,61 @@
+URL: https://www.commbank.com.au/business/brighter-perspectives/australian-ai-advantage.html
+Title: Australia’s AI advantage: How ethical, transparent, and innovative practices are positioning Australian businesses as AI leaders worldwide.
+
+Brighter Perspectives
+
+## Brighter Perspectives
+Australians’ sense of the fair go is an advantage when it comes to taking part in the artificial intelligence (AI) revolution, the recent SXSW Sydney conference heard.
+In a panel session titled The AI Revolution: Can Australia Lead the Way , CommBank Chief Decision Scientist Dan Jermyn explained how this sense of fairness has helped the bank use AI to identify what it calls abusive transaction descriptions.
+CommBank discovered that a small number of its customers were writing abusive messages in the description of payments they were making, which were then seen by the recipient of the payment, such as a former partner.
+The bank used an AI-driven algorithm to deduce patterns of behaviour to identify when and where the abuse was happening. The sender was then blocked and the most difficult cases handed to human experts to deal with the recipient of the abuse and the underlying complexity with humanity and empathy.
+“We were able to create this system, publish the research it was founded on, and create the tooling, models and basic software packages we used to open source – free to everybody, not just in Australia, but in the world,” said Jermyn. “We have a good international reputation for trust, fairness and transparency, and it’s really important we continue to build on this.”
+
+## New opportunities
+AI is often referred to as an emerging technology, but it has been around a long time. The key difference now is that it has been propelled into the mainstream by ChatGPT, its use of natural language making it immediate and accessible.
+This opens up many new opportunities to unlock value by bringing together people from different disciplines to work with AI, such as the risk and product teams.
+“Everybody has a part to play and we’re seeing rapid deployment of things that previously would have been the preserve of only a few limited specialists,” said Jermyn.
+CommBank has built a chatbot to help staff get quicker IT service. Introducing this kind of innovation would have been significantly more difficult even a few years ago, because of the time and specialist skills required.
+Jermyn described AI as a very powerful tool for managing risks, for keeping people safer and for other positive outcomes, but cautioned it needs to be “responsible AI”.
+
+## Three lenses
+CommBank ensures it is making responsible use of the technology by looking at it through three different lenses.
+Firstly, a cultural lens. What are you setting out to do with AI?
+Secondly, measurement — creating a basis to measure whether the project had the intended impact.
+“AI can propagate really quickly, it can do incredible things, but it can be quite complicated,” said Jermyn. “You’ve got to be really clear at the outset. How am I going to know and show that this thing had the output I wanted it to have?”
+The third lens is explaining transparently how the model is working and how the outputs were achieved. This is very important to show there aren’t any unintended biases in the AI model.
+
+## AI ethics
+The SXSW session also canvassed the frameworks and guidelines businesses should be thinking about to successfully implement AI.
+Agne Makauskaite, Head of Public Policy for Regulated Industries and Regulatory Strategy APAC at Amazon Web Services, defined responsible AI use as aligning with the rule of law, human rights and principles such as fairness, safety and privacy.
+“We at Amazon are very strong advocates for that, and we’ve got a lot of internal practices to operationalise those responsible AI principles we have committed to,” she said.
+The tech company has launched around 70 responsible AI services and features. For instance, Amazon Bedrock, which helps organisations build their own AI tools, allows those organisations to establish particular safeguards based on their own governance policies and specific use cases. The Amazon Titan image generator puts a permanent watermark on all AI-generated images.
+
+## Government regulation
+Governments also have an important role to play in ensuring AI regulation is risk-based and at the same time, encourages innovation and the practical use of AI.
+Bill Simpson-Young, CEO of the Gradient Institute, a research organisation that works to build safety, ethics, accountability and transparency into AI systems, agreed.
+“It’s not just about minimal regulation, it’s about the right regulation that makes everyone’s lives better,” he said. “It means you don’t have so many hard decisions to make.”
+The Australian government adopted the OECD principles for responsible stewardship of trustworthy AI when they were released in 2019 and released its own set of principles for AI Ethics based on these. In 2023, it released a guide on how to practically apply those in business — Implementing Australia’s AI Ethics Principles — which Simpson-Young helped develop.
+He is also on the expert group advising the government on options for introducing mandatory AI guardrails, but says in the meantime, businesses can begin implementing the guardrails in the voluntary AI safety standard.
+
+## Future-proofing workforce skills
+Laura Faulconer, portfolio director for CommBank’s venture scaler, x15ventures, who moderated the session, asked the panel how companies could future-proof the workforce skills for such a rapidly developing technology.
+Simpson-Young noted that most knowledge workers will use AI as a large part of their jobs, that much knowledge work will be done by AI and people who thrive in this environment will have two skills.
+“Firstly, make sure you’re good at being human,” he said, adding the second skill is knowing how to supervise AI, which means understanding how it can go wrong and when to trust the technology — and when not to.
+Jermyn emphasised that the introduction of large language model AI means the technology is no longer only accessible to AI experts like data scientists, but instead is now used broadly across industries and occupations around the world. He gave the example of prompt engineers, who focus on the questions and language needed to interact with generative AI. Apparently those best-equipped to do this are creative thinkers who have studied arts and humanities.
+“One of the most important things is to make sure everybody gets an opportunity to engage, because within a large organisation like ours, everyone has an important role to play in delivering better outcomes and experiences for our customers,” said Jermyn.
+
+## Education is key
+CommBank CEO Matt Comyn and other senior executives have been through a process of AI education, covering advanced concepts and how AI is being used at the bank. Other leaders were given an understanding of common AI terms so they could lead cross-functional teams and speak the same language.
+CommBank’s staff are learning similar content through a series of micro courses.
+
+## Spark brighter ideas
+Get the latest research, actionable insights and expert views on the big issues facing businesses.
+Brighter Perspectives
+
+## Read more CommBank perspectives
+
+## Read more CommBank perspectives
+
+## Things you should know
+This article is intended to provide general information of an educational nature only. It does not have regard to the financial situation or needs of any reader and must not be relied upon as financial product advice. You should consider seeking independent financial advice before making any decision based on this information. The information in this article and any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of its publication but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made in this article.
+This article is intended to provide general information of an educational nature only. It does not have regard to the financial situation or needs of any reader and must not be relied upon as financial product advice. You should consider seeking independent financial advice before making any decision based on this information. The information in this article and any opinions, conclusions or recommendations are reasonably held or made, based on the information available at the time of its publication but no representation or warranty, either expressed or implied, is made or provided as to the accuracy, reliability or completeness of any statement made in this article.

@@ -1,0 +1,102 @@
+URL: https://www.commbank.com.au/digital-banking/mobile-payments-wearables/accessibility.html
+Title: Accessibility - Contactless Payments
+
+## Pay with your mobile phone
+Explore the range of options to help you pay, your way Your smartphone can replace your credit and debit cards, so there’s one less thing to worry about when paying when you’re out and about. It’s secure and easy to use your phone to make payments. Use the CommBank app to Tap & Pay, or choose from our range of digital wallets - like Apple Pay or Samsung Pay. Simply link your eligible CommBank debit or credit card to the app to get started. 1
+
+## Explore the range of options to help you pay, your way
+Your smartphone can replace your credit and debit cards, so there’s one less thing to worry about when paying when you’re out and about. It’s secure and easy to use your phone to make payments.
+Use the CommBank app to Tap & Pay, or choose from our range of digital wallets - like Apple Pay or Samsung Pay. Simply link your eligible CommBank debit or credit card to the app to get started. 1
+
+## How to set up CommBank Tap & Pay (for people who are blind or have low vision)
+Pay with your Android phone using Voice Assistant and Tap & Pay in the CommBank app. Follow these steps to set it up:
+Pay with your Android phone using Voice Assistant and Tap & Pay in the CommBank app. Follow these steps to set it up:
+
+## Step 1
+Enable Voice Assistant on your phone. Go to ‘Settings’, tap ‘Accessibility’, and then enable your phone’s Voice Assistant function.
+Enable Voice Assistant on your phone.
+Go to ‘Settings’, tap ‘Accessibility’, and then enable your phone’s Voice Assistant function.
+
+## Step 2
+Log on to the CommBank app. Open the CommBank app on your home screen by double-tapping the app icon.
+Log on to the CommBank app.
+Open the CommBank app on your home screen by double-tapping the app icon.
+
+## Step 3
+Choose ‘Tap & Pay’ on your home screen. The ‘Tap & Pay’ icon is on the top-right of your home screen. Tap it and you’ll hear “Tap & Pay”. Double-tap it to open.
+Choose ‘Tap & Pay’ on your home screen.
+The ‘Tap & Pay’ icon is on the top-right of your home screen. Tap it and you’ll hear “Tap & Pay”. Double-tap it to open.
+
+## Step 4
+Choose your default card. To add a bank card, double-tap the ‘plus’ button at the top of the screen. You’ll hear “Add card” and be prompted to enter your PIN to view your eligible bank cards. To choose your preferred payment method, double-tap on the bank card and then double-tap the ‘next’ button.
+Choose your default card.
+To add a bank card, double-tap the ‘plus’ button at the top of the screen. You’ll hear “Add card” and be prompted to enter your PIN to view your eligible bank cards.
+To choose your preferred payment method, double-tap on the bank card and then double-tap the ‘next’ button.
+
+## Step 5
+Choose the way you’d prefer to pay. To choose a Tap & Pay style, double-tap either ‘Wake and tap’, ‘Unlock and tap’ or ‘CommBank app and tap’. To better understand which contactless payment style is right for you, tap each section to hear each description. To proceed, double-tap the ‘next’ button. A notification message will appear. You’ll hear “You will be notified when your card is activated”. Double-tap 'Ok, got it’.
+Choose the way you’d prefer to pay.
+To choose a Tap & Pay style, double-tap either ‘Wake and tap’, ‘Unlock and tap’ or ‘CommBank app and tap’. To better understand which contactless payment style is right for you, tap each section to hear each description.
+To proceed, double-tap the ‘next’ button. A notification message will appear. You’ll hear “You will be notified when your card is activated”. Double-tap 'Ok, got it’.
+
+## Step 6
+Go shopping with Tap & Pay. Once your card is activated, you’re ready to make a contactless payment.
+Go shopping with Tap & Pay.
+Once your card is activated, you’re ready to make a contactless payment.
+
+## How to make a contactless payment using Tap & Pay
+Ready your device based on your selected payment method (i.e. wake the device, unlock the device, or open the CommBank app on your device) Hold or tap your device near the payment terminal Wait for the payment to be confirmed by the terminal (usually within a few seconds)
+Ready your device based on your selected payment method (i.e. wake the device, unlock the device, or open the CommBank app on your device)
+Hold or tap your device near the payment terminal
+Wait for the payment to be confirmed by the terminal (usually within a few seconds)
+
+## How to set up Samsung Pay (for people who are blind or have low vision)
+Pay with your Galaxy smartphone using TalkBack and Samsung Pay. Follow these steps to set it up:
+Pay with your Galaxy smartphone using TalkBack and Samsung Pay. Follow these steps to set it up:
+
+## Step 1
+Enable TalkBack. Go to ‘Settings’, tap ‘Accessibility’ and then tap ‘TalkBack’.
+Go to ‘Settings’, tap ‘Accessibility’ and then tap ‘TalkBack’.
+
+## Step 2
+Sign in to your Samsung account. Open the Samsung Pay app on your home screen by double-tapping the app icon. ​ ​ A ‘Permissions for Samsung Pay’ screen will appear. You’ll need to allow access to your Phone, Contacts, Camera and Location. Double-tap the ‘Continue’ button and then double-tap the ’Allow’ button to accept each permission.
+Sign in to your Samsung account.
+Open the Samsung Pay app on your home screen by double-tapping the app icon. ​ ​ A ‘Permissions for Samsung Pay’ screen will appear. You’ll need to allow access to your Phone, Contacts, Camera and Location. Double-tap the ‘Continue’ button and then double-tap the ’Allow’ button to accept each permission.
+
+## Step 3
+Confirm your verification method. The ‘Get started’ screen will appear. Swipe up with 2 fingers to continue. To verify your identity, you can use your fingerprint by double-tapping ‘Use fingerprint’. Or, you can double-tap ‘Skip and use Samsung Pay PIN’ instead to enter a Samsung Pay PIN only.​ To authenticate your fingerprint, you’ll still need to register a Samsung Pay PIN. You’ll be asked to enter this twice. Double-tap to confirm.
+Confirm your verification method.
+The ‘Get started’ screen will appear. Swipe up with 2 fingers to continue.
+To verify your identity, you can use your fingerprint by double-tapping ‘Use fingerprint’. Or, you can double-tap ‘Skip and use Samsung Pay PIN’ instead to enter a Samsung Pay PIN only.​
+To authenticate your fingerprint, you’ll still need to register a Samsung Pay PIN. You’ll be asked to enter this twice. Double-tap to confirm.
+
+## Step 4
+Add your CommBank card. Double-tap the ‘Add card’ button.​ ​ You’ll need to enter your card details manually – card number, cardholder name, expiry date and security code.​ ​ Double-tap the ‘Next’ button.
+Add your CommBank card.
+Double-tap the ‘Add card’ button.​ ​ You’ll need to enter your card details manually – card number, cardholder name, expiry date and security code.​ ​ Double-tap the ‘Next’ button.
+
+## Step 5
+Agree to the Terms and conditions. ​ ​ The Terms and conditions will appear. Tap the screen to have TalkBack to read out the terms. If you agree, double-tap the ‘Agree to all’ button at the bottom-right of the screen. ​
+Agree to the Terms and conditions. ​ ​ The Terms and conditions will appear. Tap the screen to have TalkBack to read out the terms. If you agree, double-tap the ‘Agree to all’ button at the bottom-right of the screen. ​
+
+## Step 6
+Verify your bank card. ​ ​You’ll receive a one-time passcode via SMS, or you can verify through the CommBank app.​ ​ Enter the code and then double-tap ‘Submit’.​ Your CommBank card is now activated.
+Verify your bank card. ​
+​You’ll receive a one-time passcode via SMS, or you can verify through the CommBank app.​ ​ Enter the code and then double-tap ‘Submit’.​
+Your CommBank card is now activated.
+
+## Step 7
+Go shopping with Samsung Pay.​ When you’re ready to pay at a contactless EFTPOS terminal, you’ll need to swipe up with 2 fingers from the bottom of your screen to access Samsung Pay.​ ​ Authenticate with your fingerprint or PIN. ​ ​Then, simply tap your Galaxy smartphone on the terminal.​
+Go shopping with Samsung Pay.​
+When you’re ready to pay at a contactless EFTPOS terminal, you’ll need to swipe up with 2 fingers from the bottom of your screen to access Samsung Pay.​ ​ Authenticate with your fingerprint or PIN. ​
+​Then, simply tap your Galaxy smartphone on the terminal.​
+
+## How to make a contactless payment using Samsung Pay
+If you have a trusted carer, friend or family member who can help you, they can also watch our short video on how to set up Samsung Pay on your phone:
+
+## How to make a contactless payment using Samsung Pay
+If you have a trusted carer, friend or family member who can help you, they can also watch our short video on how to set up Samsung Pay on your phone:
+
+## Things you should know
+1 You can add your CommBank Debit Mastercard, CommBank World Debit Mastercard™, personal and business credit cards, and Visa Business Debit card. If you are an additional cardholder, you may add your eligible Commonwealth Bank credit card provided it is Mastercard branded. Visa credit cards issued to additional cardholders may be eligible, however, a transaction limit of $100 will apply. Some CommBank cards are ineligible including Keycard, Travel Money Card, Mastercard Business Debit Card, Corporate Card.
+1 You can add your CommBank Debit Mastercard, CommBank World Debit Mastercard™, personal and business credit cards, and Visa Business Debit card. If you are an additional cardholder, you may add your eligible Commonwealth Bank credit card provided it is Mastercard branded. Visa credit cards issued to additional cardholders may be eligible, however, a transaction limit of $100 will apply. Some CommBank cards are ineligible including Keycard, Travel Money Card, Mastercard Business Debit Card, Corporate Card.

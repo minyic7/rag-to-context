@@ -1,0 +1,22 @@
+URL: https://www.commbank.com.au/articles/sustainability/how-solar-panels-work.html
+Title: How Solar Panels Work
+
+Solar panels capture the sun's energy to generate electricity, reducing reliance on the electricity grid. They consist of photovoltaic (PV) cells that convert sunlight into direct current (DC) electricity. An inverter then transforms this DC electricity into alternating current (AC), which can be used to power your home or business, or which can be exported back into the grid or a home battery.
+
+## Benefits of Solar Panels
+Energy-efficiency : Solar panels can improve the energy-efficiency of your home by reducing the need to utilise energy from the energy grid. 1 To maximum the benefit of your panels, be sure to use high-energy appliances when the sun is shining, and your solar panels are generating.
+Environmental impact : The more solar energy used to supplement your home or businesses energy demand, the less you may be reliant on drawing energy from the energy grid. Converting solar energy into electricity doesn’t produce any harmful emissions as it doesn’t require the burning of gas or fuel.
+Electricity bill savings : One of the most appealing benefits of solar panels is the potential to reduce your home energy bills. 2 By generating your own electricity, you can lower your electricity bills and even earn money through feed-in-tariffs (FiTs), where excess energy is sold back to the grid.
+
+## Factors Affecting Solar Panel Efficiency
+Location and Sunlight Exposure : The efficiency of solar panels depends on their location and exposure to sunlight. Roof orientation, angle, and shading can all impact how much sunlight the panels receive.
+Panel Quality and Technology : Advances in solar panel technology have led to higher efficiency rates. Choosing high-quality panels can ensure better performance and longevity.
+Maintenance and Upkeep : Regular maintenance, such as cleaning and inspections, is essential to keep solar panels operating at their best. Proper upkeep can prevent issues, reduce panel degradation and maintain efficiency. It’s important to ensure you have all maintenance and cleaning carried out by an accredited professional.
+Ready to kick start your home electrification journey? Head to the CommBank home energy upgrades page to get started.
+Things you should know
+Things you should know
+This information has been provided without considering your individual objectives, financial situation or needs. Before making any decisions, you should consider its appropriateness to your circumstances and consider obtaining professional advice. The Commonwealth Bank is not authorised and does not make any assertions about reduced consumption from non-renewable energy sources through energy-efficient purchases and installations. Advice and further information should be sought from relevant certified industry professionals. Sources: 1 https://www.energy.gov.au/solar/financial-benefits-solar/how-solar-pays-itself-and-batteries-reduce-bills 2 https://www.climatecouncil.org.au/resources/smarter-energy-use-how-to-cut-energy-bills-and-climate-harm/
+This information has been provided without considering your individual objectives, financial situation or needs. Before making any decisions, you should consider its appropriateness to your circumstances and consider obtaining professional advice.
+The Commonwealth Bank is not authorised and does not make any assertions about reduced consumption from non-renewable energy sources through energy-efficient purchases and installations. Advice and further information should be sought from relevant certified industry professionals.
+1 https://www.energy.gov.au/solar/financial-benefits-solar/how-solar-pays-itself-and-batteries-reduce-bills
+2 https://www.climatecouncil.org.au/resources/smarter-energy-use-how-to-cut-energy-bills-and-climate-harm/

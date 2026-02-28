@@ -1,0 +1,114 @@
+URL: https://www.commbank.com.au/digital-banking/netbank/multi-factor-authentication.html
+Title: NetBank multi-factor authentication – CommBank
+
+## Phishing email alert
+We’re aware of scam emails currently circulating that falsely claim to help you enable NetBank multi-factor authentication by asking you to confirm your details. CommBank will never ask you to confirm your identity or account details by clicking a link in an email. These messages are not legitimate CommBank communications. Do not click on any links or respond to the sender.
+Visit our latest scams, fraud and security alerts page to see an example of the email and to find out more
+
+## An extra layer of security to protect your money
+NetBank multi-factor authentication helps prevent unauthorised access to your digital banking, even if someone has your password. Use the CommBank app to get a notification to confirm your NetBank logon attempt in the app before you can access NetBank.
+NetBank multi-factor authentication helps prevent unauthorised access to your digital banking, even if someone has your password.
+Use the CommBank app to get a notification to confirm your NetBank logon attempt in the app before you can access NetBank.
+
+## Logging on to NetBank
+
+## 1
+Log on to NetBank with your Client Number and Password.
+Log on to NetBank with your Client Number and Password.
+
+## 2
+If you have the CommBank app setup, you’ll be prompted to confirm your logon in the app.
+If you have the CommBank app setup, you’ll be prompted to confirm your logon in the app.
+
+## 3a
+We’ll send a push notification to your mobile device with details of your logon, tap it to open the app.
+We’ll send a push notification to your mobile device with details of your logon, tap it to open the app.
+
+## 3b
+If you don’t receive the push notification, open the app and click on the message asking you to confirm your logon.
+If you don’t receive the push notification, open the app and click on the message asking you to confirm your logon.
+
+## 4
+Check the logon details and select "Yes, this was me" if it was you to complete your verification.
+Check the logon details and select "Yes, this was me" if it was you to complete your verification.
+
+## 5
+We’ll confirm that the verification has been completed and you can now log on to NetBank.
+We’ll confirm that the verification has been completed and you can now log on to NetBank.
+
+## Unknown logon attempts
+
+## 1
+We’ll notify you in the CommBank app whenever someone tries to log on to your NetBank account.
+We’ll notify you in the CommBank app whenever someone tries to log on to your NetBank account.
+
+## 2
+If it wasn't you, select “No, it wasn’t” when prompted in the CommBank app and we'll block that NetBank logon attempt.
+If it wasn't you, select “No, it wasn’t” when prompted in the CommBank app and we'll block that NetBank logon attempt.
+
+## 3
+We will then help you change your NetBank password to help secure your banking. This will help prevent anyone else from accessing your digital banking, even if they have your password.
+We will then help you change your NetBank password to help secure your banking. This will help prevent anyone else from accessing your digital banking, even if they have your password.
+
+## Ways to stay safe
+Experience more secure everyday banking and ways to contact us securely with the CommBank app .
+We’ll notify you every time someone tries to log on to your NetBank digital banking and to confirm your identity when you log on to NetBank. To turn on push notifications, go to your phone settings , tap Notifications , scroll down to CommBank and slide the toggle to on .
+Frequently changing your password is good practice to help prevent scammers from accessing your accounts and to stay safe online.
+
+## FAQs
+
+## What is multi-factor authentication and why is it needed?
+Multi-factor authentication is an extra layer of defence for your NetBank login. Instead of just asking for your password, we verify it’s you via the CommBank app. This allows us to confirm your identity and helps prevent fraudsters from logging on to your banking.
+
+## How do I get multi-factor authentication?
+You’ll need to download and log on to the CommBank app to start using NetBank multi-factor authentication.
+
+## What happens if I lose my phone?
+If you lose your phone, you can re-download the app onto a new phone, compatible tablet or device. You'll need to receive a Netcode SMS to setup your app on your new device, so if your phone number has changed, you'll need to contact us and let us know before you can get started. If this isn't an option or you can’t access the app, please contact us to confirm your identity and get help logging on.
+If your lost phone, tablet or device had a digital wallet you can deregister your CommBank card(s) using the CommBank app on your new device. Tap Cards , then Go to card settings , tap Review digital wallets , where you will be able to remove any digital wallets from old devices or ones you don’t recognise by tapping delete .
+
+## Can I opt out of multi-factor authentication for every logon?
+To help protect you, multi-factor authentication is mandatory for NetBank logon. Alternatively you can use your CommBank app for most of your everyday banking. If you have any issues or wish to discuss alternative logon options, please contact us.
+
+## I’m not receiving the push notification when I log on to NetBank
+You can make sure your notifications are turned on by finding notifications/notification centre in your phone's settings, locate the CommBank app and slide the toggle to 'on'.  If you're having issues you can open the app and find the notification on the home page, or message us if you cannot locate it.
+
+## NetBank multi-factor authentication isn't working
+There are a few ways to resolve issues with multi-factor authentication (MFA).
+The CommBank app works best when it’s up to date. You can download the latest version from the App Store or Google Play. Once you’ve updated the app, log on to refresh your connection
+If your app is already up to date, try opening it before logging on to NetBank again
+Each NetBank logon sends both a push notification and an in-app notification. If you haven’t got a push notification, check your notifications are turned on in your device settings. Remember, you can always find your MFA notification on the home screen of the CommBank app.
+If MFA still isn't working
+Remove the CommBank app from your device
+Reinstall the CommBank app and log on
+Restart the NetBank log on process
+You’ll get an in-app notification on the home screen of the CommBank app to complete MFA. It may take some time for your MFA push notifications to sync.
+If you’re still having trouble, contact us for help.
+
+## What happens if I receive a logon notification that wasn't me
+If you receive a CommBank app logon notification that you don’t recognise, select “No, it wasn’t” when prompted in the CommBank app and we'll block that NetBank logon attempt. We will then help you change your NetBank password to help secure your banking. This will help prevent anyone else from accessing your digital banking, even if they have your password.
+
+## What’s the difference between NetBank multi-factor authentication and NetCode?
+You’ll still use NetCode to approve certain transactions, our new multi-factor authentication security feature is just for logging on to NetBank. Make sure you have push notifications turned on in your CommBank app and your device to receive both.
+
+## Is multi-factor authentication required to log on to the CommBank app?
+No, your CommBank app has additional security features such as the option to set up Face ID or fingerprint to log on.
+Was the information on this page useful?
+Thanks for your feedback. Have a suggestion? Please help us improve .
+
+## We're here to help
+Message us Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+
+## Message us
+Ceba can help you lock your card or securely connect you to a specialist in the CommBank app.
+Contact us Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+
+## Contact us
+Fast-track your call, see expected wait times and connect with a specialist in the CommBank app.
+Report an email or SMS Send us a copy or screenshot if you receive a hoax email or SMS.
+
+## Report an email or SMS
+Send us a copy or screenshot if you receive a hoax email or SMS.
+
+## Things you should know
+The CommBank app is free to download however your mobile network provider charges you for accessing data on your phone. The CommBank app is available on Android and iOS operating systems (minimum operating system version requirements may apply). Learn more at commbank.com.au/app .
