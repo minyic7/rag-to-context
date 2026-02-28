@@ -1,0 +1,21 @@
+[project]
+name = "rag-demo"
+version = "0.1.0"
+description = "RAG evolution demo — CommBank knowledge base"
+requires-python = ">=3.11"
+dependencies = [
+    # crawler
+    "requests==2.32.5",
+    "beautifulsoup4==4.14.3",
+    "lxml==6.0.2",
+    # data
+    "yfinance>=0.2.54",
+    "pandas>=2.2",
+    # RAG
+    "openai==2.24.0",
+    "numpy==2.4.2",
+    "rich==14.3.3",
+]
+
+[dependency-groups]
+dev = []

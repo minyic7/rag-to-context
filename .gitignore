@@ -1,2 +1,9 @@
 node_modules
 dist
+
+# demo
+demo/.env
+demo/.venv
+demo/data/pages/
+demo/data/graph.json
+demo/data/embeddings.npz
